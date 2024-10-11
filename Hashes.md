@@ -3,7 +3,10 @@ This file contains SHA256 hashes of the README.md file for each release.
 # 15.2024.10.11.0 (Ported to GitLab) (Latest)
 `9dc1efa26146831e97c7474eb22e0de3a102d499306f4fd660fef2d86d52183d`
 
-# 14.2024.10.09.1 (Latest GitHub release)
+# 14.2024.10.09.1-DEPRECATED (Latest GitHub release)
+`6fe8b369df971de40bf70c44f5e5a5ea6ceb744cf821c808be565142540208fc`
+
+# 14.2024.10.09.1
 `265a80fa30bf52c74bb889ef7017cc70c1e3a0227dca85dc140fcd61ee399d35`
 
 # 13.2024.10.09.0
