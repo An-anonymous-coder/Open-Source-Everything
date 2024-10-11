@@ -14,30 +14,30 @@ The release code is in the format:
 ### Stamps
 Stamps give you a general idea of the consensus around a piece of software. This helps you better gague which software is highly recommended by me or the community as a whole. 
 
-![Verified best software](~/Assets/Platforms/Verified_best_software.png) = Verified best software
+![Verified best software](Assets/Platforms/Verified_best_software.png) = Verified best software
 
-![My top choices](~/Assets/Platforms/My_top_choices.png) = My top choices
+![My top choices](Assets/Platforms/My_top_choices.png) = My top choices
 
-![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png) = I have personally used and inspected this software
+![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png) = I have personally used and inspected this software
 
-![Software is proprietary](~/Assets/Platforms/Software_is_proprietary.png) = Software is proprietary
+![Software is proprietary](Assets/Platforms/Software_is_proprietary.png) = Software is proprietary
 
-![Software is outdated or abandoned](~/Assets/Platforms/Software_is_outdated_or_abandoned.png) = Software is outdated/abandoned
+![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png) = Software is outdated/abandoned
 
-![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png) = This section needs improved
+![This section needs improved](Assets/Platforms/This_section_needs_improved.png) = This section needs improved
 
 ### Platforms
 This is a list of the platforms software is currently available on. "Apple products" includes iOS, macOS, and iPadOS.
 
-![Apple](~/Assets/Stamps/Apple.png) = Available for Apple products
+![Apple](Assets/Stamps/Apple.png) = Available for Apple products
 
-![Android](~/Assets/Stamps/Android.png) = Available for Android products
+![Android](Assets/Stamps/Android.png) = Available for Android products
 
-![Linux](~/Assets/Stamps/Linux.png) = Available for Linux
+![Linux](Assets/Stamps/Linux.png) = Available for Linux
 
-![Windows](~/Assets/Stamps/Linux.png) = Available for Windows
+![Windows](Assets/Stamps/Linux.png) = Available for Windows
 
-![Online](~/Assets/Stamps/Online.png) = Available online
+![Online](Assets/Stamps/Online.png) = Available online
 # Table of Contents
 [AI Tools & Services](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#ai-tools--services)
 
@@ -95,799 +95,799 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 [Other](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#other)
 # AI Tools & Services
-### AI Chatbots ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+### AI Chatbots ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [HuggingChat](https://huggingface.co/chat/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Online](Assets/Stamps/Online.png)
 - [GPT4ALL](https://gpt4all.io/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
-### AI Image Generator ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
+### AI Image Generator ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [Craiyon](https://www.craiyon.com/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 - [FLUX.1](https://blackforestlabs.ai/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
-### AI Music Generators ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
+### AI Music Generators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [Stable Audio Open](https://huggingface.co/stabilityai/stable-audio-open-1.0)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 # Audio & Music
 ### Audio Editors
 - [Audacity](https://www.audacityteam.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Music Recognition Apps
 - [Audire](https://github.com/alexmercerind/audire)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)![Software is outdated or abandoned](~/Assets/Platforms/Software_is_outdated_or_abandoned.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 # Backup & Sync
 ### Backup Clients
 - [Duplicati](https://www.duplicati.com/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Vorta](https://vorta.borgbase.com/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)
-### Cloud Storage Services ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)
+### Cloud Storage Services ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [Nextcloud](https://nextcloud.com/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 # Business & Commerce
 ### Virtual Card Services
 - [Privacy.com](https://privacy.com/)
   
-  **Stamps:** ![Software is proprietary](~/Assets/Platforms/Software_is_proprietary.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Software is proprietary](Assets/Platforms/Software_is_proprietary.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 ### Personal Finance Tools
 - [Ivy Wallet](https://ivywallet.app/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 # CD/DVD Tools
 ### Disc Burners
 - [Brasero](https://wiki.gnome.org/Apps/Brasero)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 # Development
 ### Code Editors
 - [VSCodium](https://vscodium.com/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Pastebin Services
 - [PrivateBin](https://privatebin.info/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 ### Source Code Hosting Services
 - [GitLab](https://about.gitlab.com/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 - [Codeberg](https://codeberg.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
   
-  **Platforms:** ![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 # Digital Coins & Cryptocurrency
 ### Cryptocurrency Coins
 - [Monero](https://getmonero.org/home)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 # Education & Reference
 ### Encyclopedias
 - [Wikipedia](https://www.wikipedia.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 ### Flashcard Learning Tools
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Web Archiving Services
 - [Wayback Machine](https://web.archive.org/)
   
-  **Stamps:** ![Software is proprietary](~/Assets/Platforms/Software_is_proprietary.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Software is proprietary](Assets/Platforms/Software_is_proprietary.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 # File Management
-### File Archivers ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+### File Archivers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [7-Zip](https://www.7-zip.org/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [PeaZip](https://peazip.github.io/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 # File Sharing
 ### Large File Transfer Services
 - [KDE Connect](https://kdeconnect.kde.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [LocalSend](https://localsend.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [OnionShare](https://onionshare.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 ### Torrent Clients
 - [qBittorrent](https://qbittorrent.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 # Games
 ### Chess Games
 - [Lichess](https://lichess.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 - [blichess](https://github.com/vovagorodok/blichess)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Music Games
 - [osu!](https://osu.ppy.sh/home)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Puzzle Games
 - [2048 (PFA)](https://secuso.aifb.kit.edu/english/653.php)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 - [Simon Tatham's Portable Puzzle Collection](http://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png) 
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png) 
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 - [Open Sudoku](https://opensudoku.moire.org/)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 # Gaming Software
-### Game Emulators ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+### Game Emulators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [RetroArch](https://retroarch.com/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 # Home & Family
 # Network & Admin
 ### Network Monitors
 - [Wireshark](https://www.wireshark.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Nmap](http://nmap.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
-### Router Custom Firmwares ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
+### Router Custom Firmwares ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [DD-WRT](https://dd-wrt.com/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [OpenWrt](https://openwrt.org/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 ### Virtualization Tools 
 - [VirtualBox](https://www.virtualbox.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Docker](https://www.docker.com/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 ### Work Profile for Android
 - [Shelter](https://github.com/PeterCxy/Shelter)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 # News & Books
 ### Ebook Readers
 - [calibre](https://calibre-ebook.com/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Librera Reader](https://librera.mobi/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### RSS Readers
 - [Feeder](https://github.com/spacecowboy/Feeder)
     
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 # Office & Productivity
 ### Scheduling and Calendar Apps
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 - [Fossify Calendar](https://github.com/FossifyOrg/Calendar)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Email Clients
 - [Thunderbird](https://www.thunderbird.net/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Betterbird](https://www.betterbird.eu/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Mind Mapping Tools
 - [draw.io](https://www.diagrams.net/)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 ### Note Taking Apps
 - [Joplin](https://joplinapp.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 ### Office Suites
 - [LibreOffice](https://www.libreoffice.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
-### WebMail Providers ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
+### WebMail Providers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [Proton Mail](https://proton.me/mail)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 # Online Services
-### App Stores for Android ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+### App Stores for Android ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [F-Droid](https://f-droid.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 - [Aurora Store](https://auroraoss.com/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 - [Obtainium](https://obtainium.imranr.dev/)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 - [Droid-ify](http://droid-ify.eu.org/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 - [IzzyOnDroid](https://android.izzysoft.de/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 - [Accrescent](https://accrescent.app/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### App Stores for Linux
 - [GNOME Software](https://apps.gnome.org/app/org.gnome.Software/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 - [Flathub](https://flathub.org/)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 ### Weather Forecast Tools
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Web Search Engines
 - [SearXNG](https://docs.searxng.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 # OS & Utilities
 ### Android ROMs
 - [GrapheneOS](https://grapheneos.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Application Launchers for Android
 - [Lawnchair](https://lawnchair.app/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Boot Managers
 - [GRUB](http://www.gnu.org/software/grub/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Desktop Environments
 - [GNOME](https://www.gnome.org/)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 - [KDE Plasma](https://kde.org/plasma-desktop)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 ### Linux Distros
 - [Debian](https://www.debian.org/)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Arch Linux](https://www.archlinux.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 - [Fedora](https://fedoraproject.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 - [Parrot Security OS](https://www.parrotsec.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 - [EndeavourOS](https://endeavouros.com/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 ### Mobile Keyboards for Android
 - [HeliBoard](https://github.com/Helium314/HeliBoard)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Operating Systems
 - [Tails](https://tails.net/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 - [Qubes OS](https://www.qubes-os.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 ### Survival Apps
 - [Trail Sense](https://kylecorry.com/Trail-Sense/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Terminal Emulators for Android
 - [Termux](https://termux.dev/en/)
     
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 # Photos & Graphics
 ### 3D Modelers
 - [Blender](https://www.blender.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### CAD Software
 - [FreeCAD](https://www.freecad.org/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Digital Painting Tools
 - [Krita](https://krita.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Image Editors
 - [GIMP](https://www.gimp.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
-### Photo Managers ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
+### Photo Managers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 - [Aves](https://github.com/deckerst/aves)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Screenshot Capture Tools
 - [Flameshot](https://flameshot.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Vector Graphic Apps
 - [Inkscape](https://inkscape.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 # Remote Work & Education
-### Video Conferencing Tools ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+### Video Conferencing Tools ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [Infomaniak kMeet](https://www.infomaniak.com/en/kmeet)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 # Security & Privacy
 ### Authenticators
 - [Aegis Authenticator](https://getaegis.app/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Disk Encryption Tools
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Password Managers
 - [KeePassXC](https://keepassxc.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [KeePassDX](https://www.keepassdx.com/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Temp and Throwaway Email Services
 - [addy.io](https://addy.io/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 ### Virtual Private Network Apps
 - [Mullvad](https://www.mullvad.net/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 # Social & Communications
 ### Blog Publishing Tools
 - [WordPress](https://wordpress.org/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
-### Communication Protocols ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
+### Communication Protocols ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [Matrix](https://matrix.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 - [XMPP](https://xmpp.org/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 - [SMP](https://simplex.chat/docs/protocol/simplex-chat.html)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Signal](https://github.com/signalapp/libsignal)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Dating Services
 - [Alovoa](https://alovoa.com/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 ### Instant Messengers
 - [Briar](https://briarproject.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [SimpleX Chat](https://simplex.chat/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Social Networks
 - [Mastodon](https://joinmastodon.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 - [Pixelfed](https://pixelfed.org/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 - [Lemmy](https://join-lemmy.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 # Sport & Health
 ### Meditation Tools
 - [Medito](https://meditofoundation.org/medito-app)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
 ### Period Tracker
 - [drip.](https://bloodyhealth.gitlab.io/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
 # System & Hardware
 ### BIOS/UEFI Replacements
 - [coreboot](https://coreboot.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 - [Libreboot](https://www.libreboot.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 # Travel & Location
 ### Map Services
 - [OpenStreetMap](https://www.openstreetmap.org/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 - [OsmAnd](https://osmand.net/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
 - [Organic Maps](https://organicmaps.app/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)
 ### Mock Location Apps
 - [Fake Traveler](https://github.com/mcastillof/FakeTraveler)
    
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 # Video & Movies
 ### Media Centers
 - [Kodi](https://kodi.tv/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Jellyfin](https://jellyfin.org/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Media Players
 - [VLC Media Player](https://www.videolan.org/vlc/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Movie Streaming Services
 - [Stremio](https://www.stremio.com/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Screen Recorders
 - [OBS Studio](https://obsproject.com/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
-### Video Editors ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
+### Video Editors ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [Kdenlive](https://kdenlive.org/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
-### Watch Videos Together Tools ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
+### Watch Videos Together Tools ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [OpenTogetherTube](https://opentogethertube.com/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 ### YouTube Clients
 - [NewPipe](https://newpipe.net/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 - [FreeTube](https://freetubeapp.io/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Invidious](https://redirect.invidious.io/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 - [PeerTube](https://joinpeertube.org/)
   
-  **Stamps:** ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)![Online](~/Assets/Stamps/Online.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 - [Tubular](https://github.com/polymorphicshade/Tubular)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 # Web Browsers
 ### Web Browsers
 - [Brave](https://brave.com/)
 
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Mullvad Browser](https://mullvad.net/en/browser)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 ### Ad Blockers
 - [uBlock Origin](https://github.com/gorhill/uBlock)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [NoScript](https://noscript.net/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
 - [Pi-hole](https://pi-hole.net/)
   
-  **Stamps:** ![Verified best software](~/Assets/Platforms/Verified_best_software.png)![My top choices](~/Assets/Platforms/My_top_choices.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Linux](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 # Other
 ### Phone Number Services
 - [JMP.chat](https://jmp.chat/)
   
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 - [MySudo](https://mysudo.com/)
   
-  **Stamps:** ![Software is proprietary](~/Assets/Platforms/Software_is_proprietary.png)![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Software is proprietary](Assets/Platforms/Software_is_proprietary.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](~/Assets/Stamps/Apple.png)![Android](~/Assets/Stamps/Android.png)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
 ### QR Code Readers
 - [Binary Eye](https://www.markusfisch.de/apps-android.html#binary-eye)
     
-  **Stamps:** ![My top choices](~/Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)
-### Text to Speech Service ![This section needs improved](~/Assets/Platforms/This_section_needs_improved.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
+### Text to Speech Service ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [RHVoice](https://rhvoice.org/)
     
-  **Stamps:** ![I have personally used and inspected this software](~/Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](~/Assets/Stamps/Android.png)![Linux](~/Assets/Stamps/Linux.png)![Windows](~/Assets/Stamps/Linux.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Linux.png)
