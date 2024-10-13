@@ -24,4 +24,4 @@ You can support the project by:
 - Helping out with the already existing software on the list
 - Anything else you can think of
 
-# Why is <some Firefox-based browser> not on this list?
+# Why is \<some Firefox-based browser\> not on this list?
