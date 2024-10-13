@@ -43,3 +43,7 @@ In April 2021, **Muse Group acquired the famous audio editing application Audaci
 However, in July of 2021, **Audacity was embroiled in controversy once again with a new privacy policy**, recommending that users under the age of 13 not use the program. This raised concerns of violating Audacity’s GPLv2 license. While **the new privacy policy was updated to address these concerns**, the community already had enough.
 
 Essentially, Audacity was bought and made some mistakes. It currently does not have any of these issues, and so Tenacity is not going to replace it on this list. If Audacity ever does have issues, this will quickly be changed. 
+
+# Why did you move this project from GitHub to GitLab?
+
+I accidentally deleted the GitHub repository, and I needed somewhere to quickly get the project back up in case GitHub couldn't restore it. GitHub requires a paid account to be able to restore deleted repositories, so it was a gamble whether or not GitHub support would bend the rules a bit. Thankfully, they were able to recover the project, at the cost of it falsely being marked as a fork of a different user who had previously forked my project. GitLab seemed like a good choice since it is open source and hosts a lot of other big open source projects, but it may be moved to Codeberg in the future due to some security vulnerabilities.
