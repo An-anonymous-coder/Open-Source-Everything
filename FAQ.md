@@ -26,9 +26,7 @@ You can support the project by:
 
 # Why is *insert some Firefox-based browser here* not on this list?
 
-Firefox-based browsers cannot be recommended due to the lack of per-site process isolation on Android. Firefox *does* have an implementation for the desktop versions of the browser, called Fission, but it is still weaker than the Chromium implementation. Mullvad Browser and the Tor Browser are the only exceptions, because their privacy benefits outweigh the security issues with their fingerprinting resistance.
-
-*I am still researching this and will provide sources to back up my claims
+Firefox-based browsers cannot be recommended due to their poor implementation of per-site process isolation, especially on Android. Firefox *does* have an implementation for the desktop versions of the browser, called Fission, but [it is still weaker than the Chromium implementation](https://madaidans-insecurities.github.io/firefox-chromium.html#sandboxing). Mullvad Browser and the Tor Browser are the only exceptions, because their privacy benefits outweigh the security issues with their fingerprinting resistance.
 
 # Why is Bitwarden not included in this list?
 
