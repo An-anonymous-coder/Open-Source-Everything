@@ -28,5 +28,8 @@ You can support the project by:
 
 Firefox-based browsers cannot be recommended due to the lack of per-site process isolation on Android. Firefox *does* have an implementation for the desktop versions of the browser, called Fission, but it is still weaker than the Chromium implementation. Mullvad Browser and the Tor Browser are the only exceptions, because their privacy benefits outweigh the security issues with their fingerprinting resistance.
 
+*I am still researching this
+
 # Why is Bitwarden not included in this list?
 
+The decision not to include Bitwarden was thought about for a long time. The main reason they didn't make it on the list is because of their focus on business over privacy/security in some cases. An example of this is how you are required to sign up for a paid account to be able to use a hardware security key as a method of MFA. Since KeePassXC and KeePassDX both offer these for free, I decided that Bitwarden is not a good fit for the list. Consider this section in the FAQ an "honorable mention".
