@@ -28,8 +28,16 @@ You can support the project by:
 
 Firefox-based browsers cannot be recommended due to the lack of per-site process isolation on Android. Firefox *does* have an implementation for the desktop versions of the browser, called Fission, but it is still weaker than the Chromium implementation. Mullvad Browser and the Tor Browser are the only exceptions, because their privacy benefits outweigh the security issues with their fingerprinting resistance.
 
-*I am still researching this
-
 # Why is Bitwarden not included in this list?
 
 The decision not to include Bitwarden was thought about for a long time. The main reason they didn't make it on the list is because of their focus on business over privacy/security in some cases. An example of this is how you are required to sign up for a paid account to be able to use a hardware security key as a method of MFA. Since KeePassXC and KeePassDX both offer these for free, I decided that Bitwarden is not a good fit for the list. Consider this section in the FAQ an "honorable mention".
+
+# Why isn't Tenacity included in this list? Wasn't Audacity bought and has trackers?
+
+I will be quoting some of [Tenacity's own history](https://tenacityaudio.org/docs/_content/Motivation.html#history):
+
+In April 2021, **Muse Group acquired the famous audio editing application Audacity.** Their goals for Audacity were to bring much needed improvements to Audacity. However, not too long after, **there was an attempt to add telemetry to the program**, spurring controversy among its community. Luckily, **the new developers backed off on their proposal**, only maintaining basic error reporting and update checking where no personal information is collected.
+
+However, in July of 2021, **Audacity was embroiled in controversy once again with a new privacy policy**, recommending that users under the age of 13 not use the program. This raised concerns of violating Audacity’s GPLv2 license. While **the new privacy policy was updated to address these concerns**, the community already had enough.
+
+Essentially, Audacity was bought and made some mistakes. It currently does not have any of these issues, and so Tenacity is not going to replace it on this list. If Audacity ever does have issues, this will quickly be changed. 
