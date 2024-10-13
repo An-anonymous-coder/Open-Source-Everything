@@ -24,4 +24,9 @@ You can support the project by:
 - Helping out with the already existing software on the list
 - Anything else you can think of
 
-# Why is \<some Firefox-based browser\> not on this list?
+# Why is *insert some Firefox-based browser here* not on this list?
+
+Firefox-based browsers cannot be recommended due to the lack of per-site process isolation on Android. Firefox *does* have an implementation for the desktop versions of the browser, called Fission, but it is still weaker than the Chromium implementation. Mullvad Browser and the Tor Browser are the only exceptions, because their privacy benefits outweigh the security issues with their fingerprinting resistance.
+
+# Why is Bitwarden not included in this list?
+
