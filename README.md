@@ -676,6 +676,11 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
+- [Ente Auth](https://ente.io/auth/)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 ### Disk Encryption Tools
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
   
