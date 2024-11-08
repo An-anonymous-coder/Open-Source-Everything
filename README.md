@@ -1,7 +1,7 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
 For a while now I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very few software here are proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. 
 # Versioning
-**Version 15.2024.10.11.0**
+**Version 16.2024.11.08.0**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -159,6 +159,12 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+### File Sync Tools
+- [Syncthing](https://syncthing.net/)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 # Business & Commerce
 ### Virtual Card Services
 - [Privacy.com](https://privacy.com/)
@@ -228,6 +234,12 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
+### Grammar Checkers
+- [LanguageTool](https://languagetool.org/)
+
+  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 ### Web Archiving Services
 - [Wayback Machine](https://web.archive.org/)
   
