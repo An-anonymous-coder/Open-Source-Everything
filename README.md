@@ -1,7 +1,7 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
 For a while now I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very few software here are proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. 
 # Versioning
-**Version 25.2024.11.10.3**
+**Version 26.2024.11.10.4**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -96,7 +96,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 [Web Browsing](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#web-browsing)
 
-[Other](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#other\)
+[Other](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#other)
 
 
 # AI Tools & Services
@@ -114,7 +114,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### AI Image Generator ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
@@ -131,7 +131,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 ### AI Music Generators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
@@ -141,7 +141,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 
 
 # Audio & Music
@@ -152,7 +152,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Music Recognition Apps
@@ -169,7 +169,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 # Backup & Sync
@@ -187,7 +187,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)
 
 
 ### Cloud Storage Services ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
@@ -197,7 +197,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 ### File Sync Tools
@@ -207,7 +207,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
 
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 # Business & Commerce
@@ -218,7 +218,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Software is proprietary](Assets/Platforms/Software_is_proprietary.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Personal Finance Tools
@@ -228,7 +228,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 # CD/DVD Tools
@@ -239,7 +239,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png\)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 
 
 # Development
@@ -257,7 +257,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Pastebin Services
@@ -267,7 +267,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 
 
 ### Source Code Hosting Services
@@ -284,7 +284,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 
 
 # Digital Coins & Cryptocurrency
@@ -295,7 +295,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 # Education & Reference
@@ -306,7 +306,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Flashcard Learning Tools
@@ -316,7 +316,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Grammar Checkers
@@ -326,7 +326,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Web Archiving Services
@@ -336,7 +336,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Software is proprietary](Assets/Platforms/Software_is_proprietary.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 
 
 # File Management
@@ -354,7 +354,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 # File Sharing
@@ -379,7 +379,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Torrent Clients
@@ -396,7 +396,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 # Games
@@ -414,7 +414,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Music Games
@@ -424,7 +424,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Puzzle Games
@@ -448,7 +448,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 # Gaming Software
@@ -459,12 +459,12 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 # Home & Family
 # Network & Admin
-### DNS Resolvers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png\)
+### DNS Resolvers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 
 
 ### Network Monitors
@@ -481,7 +481,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Router Custom Firmwares ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
@@ -505,7 +505,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png\)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 
 
 ### Virtualization Tools 
@@ -522,7 +522,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Work Profile for Android
@@ -532,7 +532,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 # News & Books
@@ -550,7 +550,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### RSS Readers
@@ -560,7 +560,7 @@ This is a list of the platforms software is currently available on. "Apple produ
     
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 # Office & Productivity
@@ -578,7 +578,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Mind Mapping Tools
@@ -588,7 +588,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Note Taking Apps
@@ -605,7 +605,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Office Suites
@@ -615,7 +615,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Scheduling and Calendar Apps
@@ -632,7 +632,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Text Editors (CLI)
@@ -649,7 +649,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
 
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Text Editors (GUI)
@@ -673,7 +673,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
 
-  **Platforms:** ![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Windows](Assets/Stamps/Windows.png)
 
 
 ### WebMail Providers
@@ -690,7 +690,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 # Online Services
@@ -722,7 +722,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 
 
 ### App Stores for Linux
@@ -739,7 +739,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Weather Forecast Tools
@@ -749,7 +749,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Web Search Engines
@@ -759,7 +759,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 
 
 # OS & Utilities
@@ -770,7 +770,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Application Launchers for Android
@@ -780,7 +780,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Boot Managers
@@ -790,7 +790,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Desktop Environments
@@ -807,7 +807,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png\)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 
 
 ### Linux Distros ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
@@ -838,7 +838,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png\)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 
 
 ### Mobile Keyboards for Android
@@ -848,7 +848,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Operating Systems
@@ -865,7 +865,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png\)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 
 
 ### Survival Apps
@@ -875,7 +875,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Terminal Emulators for Android
@@ -885,7 +885,7 @@ This is a list of the platforms software is currently available on. "Apple produ
     
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 # Photos & Graphics
@@ -896,7 +896,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### CAD Software
@@ -906,7 +906,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Digital Painting Tools
@@ -916,7 +916,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Image Editors
@@ -926,7 +926,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Photo Managers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
@@ -943,7 +943,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Screenshot Capture Tools
@@ -953,7 +953,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Vector Graphic Apps
@@ -963,7 +963,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 # Remote Work & Education
@@ -974,7 +974,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 # Security & Privacy
@@ -992,7 +992,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
 
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Disk Encryption Tools
@@ -1002,10 +1002,10 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
-### Firewalls ![This section needs improved](Assets/Platforms/This_section_needs_improved.png\)
+### Firewalls ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 
 
 ### Password Managers
@@ -1022,7 +1022,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Temp and Throwaway Email Services
@@ -1032,7 +1032,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Virtual Private Network Apps
@@ -1042,7 +1042,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 # Social & Communications
@@ -1053,7 +1053,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Communication Protocols ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
@@ -1084,7 +1084,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Dating Services
@@ -1094,7 +1094,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Instant Messengers
@@ -1111,7 +1111,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Short-Form Video
@@ -1128,7 +1128,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
 
-  **Platforms:** ![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 
 
 ### Social Networks
@@ -1152,7 +1152,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 
 
 # Sport & Health
@@ -1163,7 +1163,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
 
 
 ### Period Tracker
@@ -1173,7 +1173,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
 
 
 # System & Hardware
@@ -1191,7 +1191,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png\)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 
 
 # Travel & Location
@@ -1216,7 +1216,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)
 
 
 ### Mock Location Apps
@@ -1226,7 +1226,7 @@ This is a list of the platforms software is currently available on. "Apple produ
    
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 # Video & Movies
@@ -1244,7 +1244,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Media Players
@@ -1254,7 +1254,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Movie Streaming Services
@@ -1264,7 +1264,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Screen Recorders
@@ -1274,7 +1274,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Video Editors ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
@@ -1291,7 +1291,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
 
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Video Sharing Tools
@@ -1308,7 +1308,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Watch Videos Together Tools ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
@@ -1318,7 +1318,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png\)
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 
 
 ### YouTube Clients
@@ -1349,7 +1349,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 # Web Browsing
@@ -1374,7 +1374,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
 ### Ad Blockers
@@ -1398,7 +1398,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png\)
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
 
 
 # Other
@@ -1416,7 +1416,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** ![Software is proprietary](Assets/Platforms/Software_is_proprietary.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
 
 
 ### QR Code Readers
@@ -1426,7 +1426,7 @@ This is a list of the platforms software is currently available on. "Apple produ
     
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png\)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
 ### Text to Speech Service ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
