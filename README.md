@@ -1,7 +1,7 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
 For a while now I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very few software here are proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. 
 # Versioning
-**Version 21.2024.11.08.5**
+**Version 22.2024.11.10.0**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -471,41 +471,26 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 # Online Services
 ### App Stores for Android ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
-- [F-Droid](https://f-droid.org/)
+- [Accrescent](https://accrescent.app/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 - [Aurora Store](https://auroraoss.com/)
   
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
-- [Neo-Store](https://github.com/NeoApplications/Neo-Store)
+- [F-Droid](https://f-droid.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
 - [Obtainium](https://obtainium.imranr.dev/)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
-- [Droid-ify](http://droid-ify.eu.org/)
-  
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
-  
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
-- [IzzyOnDroid](https://android.izzysoft.de/)
-  
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
-  
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
-- [Accrescent](https://accrescent.app/)
-  
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
-  
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### App Stores for Linux
 - [GNOME Software](https://apps.gnome.org/app/org.gnome.Software/)
   
@@ -756,16 +741,16 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 ### Short-Form Video
-- [ProxiTok](https://github.com/pablouser1/ProxiTok)
-
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
-
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
 - [Loops](https://loops.video/)
     
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+- [ProxiTok](https://github.com/pablouser1/ProxiTok)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 ### Social Networks
 - [Mastodon](https://joinmastodon.org/)
   
@@ -866,6 +851,11 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+- [Open Video Editor](https://github.com/devhyper/open-video-editor)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 ### Video Sharing Tools
 - [Odysee](https://odysee.com/)
 
