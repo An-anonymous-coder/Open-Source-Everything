@@ -1,7 +1,7 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
 For a while now I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very few software here are proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. 
 # Versioning
-**Version 22.2024.11.10.0**
+**Version 23.2024.11.10.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -466,6 +466,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 - [Tuta Mail](https://tuta.com/)
+
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
@@ -544,12 +545,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Linux](Assets/Stamps/Linux.png)
-### Linux Distros
-- [Debian](https://www.debian.org/)
-  
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
-  
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+### Linux Distros ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 - [Arch Linux](https://www.archlinux.org/)
   
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
@@ -560,12 +556,12 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Linux](Assets/Stamps/Linux.png)
-- [Parrot Security OS](https://www.parrotsec.org/)
+- [NixOS](https://nixos.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
   **Platforms:** ![Linux](Assets/Stamps/Linux.png)
-- [EndeavourOS](https://endeavouros.com/)
+- [openSUSE Tumbleweed](https://www.opensuse.org/#Tumbleweed)
   
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
