@@ -1,7 +1,7 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
 For a while now I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very few software here are proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. 
 # Versioning
-**Version 30.2024.11.10.8**
+**Version 31.2024.11.11.0**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -274,21 +274,21 @@ This is a list of the platforms software is currently available on. "Apple produ
 ### Bootable USB Creators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 
 
-- [belenaEtcher]
+- [belenaEtcher](https://etcher.balena.io/)
 
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
-- [Rufus]
+- [Rufus](https://rufus.ie/)
 
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
   **Platforms:** ![Windows](Assets/Stamps/Windows.png)
 
 
-- [Ventoy]
+- [Ventoy](https://www.ventoy.net/)
 
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
@@ -536,6 +536,15 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 # Home & Family
 # Network & Admin
+### CAPTCHAs ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+
+- [mCaptcha](https://mcaptcha.org/)
+  
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
+
+
 ### DNS Resolvers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 
 
@@ -850,14 +859,14 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Danbooru](https://danbooru.donmai.us/)
 
-  **Stamps:** WARNING: Sensitive content, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
+  **Stamps:** WARNING: Sensitive content, explicit material, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
     
   **Platforms:** ![Online](Assets/Stamps/Online.png)
 
 
 - [E621](https://e621.net/posts)
 
-  **Stamps:** WARNING: Sensitive content, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
+  **Stamps:** WARNING: Sensitive content, explicit material, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
     
   **Platforms:** ![Online](Assets/Stamps/Online.png)
 
