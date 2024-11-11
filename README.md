@@ -1,7 +1,7 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
 For a while now I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very few software here are proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. 
 # Versioning
-**Version 29.2024.11.10.7**
+**Version 30.2024.11.10.8**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -537,6 +537,20 @@ This is a list of the platforms software is currently available on. "Apple produ
 # Home & Family
 # Network & Admin
 ### DNS Resolvers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+
+
+- [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
+
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png) 
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+
+
+- [Control D](https://controld.com/free-dns)
+
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 ### Network Monitors
@@ -1190,7 +1204,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
-### Temp and Throwaway Email Services
+### Email Aliasing Services
 
 
 - [addy.io](https://addy.io/)
