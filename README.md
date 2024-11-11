@@ -1,7 +1,7 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
 For a while now I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very few software here are proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. 
 # Versioning
-**Version 28.2024.11.10.6**
+**Version 29.2024.11.10.7**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -152,6 +152,37 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** ![Online](Assets/Stamps/Online.png)
 
 
+### AI Video Generators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+
+
+- [Hotshot](https://hotshot.co/)
+
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
+
+
+- [Mochi AI](https://www.genmo.ai/)
+
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
+
+
+- [Samsar](https://www.samsar.one/)
+
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
+
+
+- [Stable Video Diffusion](https://stability.ai/stable-video)
+
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
+
+
 # Audio & Music
 ### Audio Editors
 
@@ -240,6 +271,30 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # CD/DVD Tools
+### Bootable USB Creators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+
+
+- [belenaEtcher]
+
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+
+
+- [Rufus]
+
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Windows](Assets/Stamps/Windows.png)
+
+
+- [Ventoy]
+
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+
+
 ### Disc Burners
 
 
@@ -332,7 +387,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [LanguageTool](https://languagetool.org/)
 
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
   
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
@@ -405,6 +460,15 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
+
+
+### Torrent Search Engines
+
+- [BTDigg](https://btdig.com/)
+
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
 
 
 # Games
@@ -544,6 +608,23 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # News & Books
+### Ebook Libraries
+
+
+- [Anna's Archive](https://annas-archive.org/)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
+
+
+- [Open Library](https://openlibrary.org/)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
+  
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
+
+
 ### Ebook Readers
 
 
@@ -750,6 +831,24 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
 
 
+### Pornography
+
+
+- [Danbooru](https://danbooru.donmai.us/)
+
+  **Stamps:** WARNING: Sensitive content, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
+    
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
+
+
+- [E621](https://e621.net/posts)
+
+  **Stamps:** WARNING: Sensitive content, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
+    
+  **Platforms:** ![Online](Assets/Stamps/Online.png)
+
+
+
 ### Weather Forecast Tools
 
 
@@ -801,6 +900,16 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
+### Compatibility Layer Tools
+
+- [Wine]https://www.winehq.org/()
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)
+
+
+
 ### Desktop Environments
 
 
@@ -816,6 +925,30 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+
+
+### Disk Usage Analyzers
+
+
+- [CrystalDiskInfo]
+
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Windows](Assets/Stamps/Windows.png)
+
+
+- [GNOME Disk Usage Analyzer](https://wiki.gnome.org/Apps/DiskUsageAnalyzer)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)
+
+
+- [WinDirStat]
+
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Windows](Assets/Stamps/Windows.png)
 
 
 ### Linux Distros ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
@@ -1316,6 +1449,16 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
+### Video Downloaders
+
+
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+
+
 ### Video Editors ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 
 
@@ -1377,7 +1520,6 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
-
 ### YouTube Frontends
 
 
@@ -1395,8 +1537,17 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** ![Online](Assets/Stamps/Online.png)
 
 
-
 # Web Browsing
+### Image Search Engines
+
+
+- [Search by Image](https://github.com/dessant/search-by-image)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+
+
 ### Web Browsers
 
 

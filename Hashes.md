@@ -1,6 +1,9 @@
 This file contains SHA256 hashes of the README.md file for each release.
 
-# 28.2024.11.10.6 (Latest)
+# 29.2024.11.10.7 (Latest)
+`379e7d6aac4da1c7e954ca7558361b323a90adb5e9616bac3ecb4e9f0e0fde81`
+
+# 28.2024.11.10.6
 `aff8790e6a0c0a231ce65feec39bd61ec51e1ea6d81e419ee0135cf23c7b06c1`
 
 # 27.2024.11.10.5
