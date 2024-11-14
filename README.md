@@ -1,7 +1,7 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
 For a while now I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very few software here are proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. 
 # Versioning
-**Version 32.2024.11.14.0**
+**Version 33.2024.11.14.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -900,7 +900,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # OS & Utilities
-### Android ROMs
+### Android Distributions
 
 
 - [GrapheneOS](https://grapheneos.org/)
@@ -1543,7 +1543,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
 
-- [LibreTube](https://libretube.dev/)
+- [Tubular](https://github.com/polymorphicshade/Tubular)
 
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
