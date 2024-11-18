@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 38.2024.11.18.0**
+**Version 39.2024.11.18.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -1413,7 +1413,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 ### Fitness Trackers
 
 
-- [Gadgetbridge](https://alternativeto.net/software/gadgetbridge/about/)
+- [Gadgetbridge](https://gadgetbridge.org/)
 
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
@@ -1477,6 +1477,13 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
 
 
+- [Mensinator](https://github.com/EmmaTellblom/Mensinator)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
+
+
 ### Mood Trackers
 
 
@@ -1513,6 +1520,13 @@ This is a list of the platforms software is currently available on. "Apple produ
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack)
 
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
+
+
+- [OpenTracks](https://f-droid.org/en/packages/de.dennisguse.opentracks/)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
