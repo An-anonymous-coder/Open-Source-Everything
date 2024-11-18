@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 37.2024.11.16.2**
+**Version 38.2024.11.18.0**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -944,7 +944,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 ### Compatibility Layer Tools
 
-- [Wine]https://www.winehq.org/()
+- [Wine](https://www.winehq.org/)
 
   **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
@@ -972,7 +972,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 ### Disk Usage Analyzers
 
 
-- [CrystalDiskInfo]
+- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
 
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
@@ -986,7 +986,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)
 
 
-- [WinDirStat]
+- [WinDirStat](https://windirstat.net/)
 
   **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
@@ -1370,49 +1370,89 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Sport & Health
-### Calorie Trackers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Beauty Product Information Tools
 
 
-- [Waistline](https://github.com/davidhealey/waistline)
+- [Open Beauty Facts](https://world.openbeautyfacts.org/)
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+
+
+### Breathing Exercise Tools
+
+
+- [Inner Breeze](https://inbreeze.xyz/)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Online](Assets/Stamps/Online.png)![Android](Assets/Stamps/Android.png)
+
+
+### Diabetic Trackers
+
+
+- [Diaguard](https://diaguard.wordpress.com/)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
-### Fitness Trackers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Diet Creation Tools
+
+
+- [Daily Dozen](https://nutritionfacts.org/open-source/)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+
+
+### Fitness Trackers
 
 
 - [Gadgetbridge](https://alternativeto.net/software/gadgetbridge/about/)
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
-### Habit Trackers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Gym Exercise Trackers
 
 
-- [Habitica](https://habitica.com/static/home)
+- [Massive](https://github.com/brandonp2412/Massive)
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
 
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+
+### Habit Trackers
 
 
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
-### Medicine Reminders ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+- [Table Habit](https://github.com/FriesI23/mhabit)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
+
+
+### Medicine Reminder Tools
 
 
 - [Simpill](https://gitlab.com/simpilldev/simpill)
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
@@ -1422,98 +1462,138 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Medito](https://meditofoundation.org/medito-app)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
 
 
-### Nutrition Trackers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
-
-
-- [Open Food Facts](https://world.openfoodfacts.org/)
-
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
-  
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
-
-
-- [OpenNutriTracker](https://simonoppowa.github.io/OpenNutriTracker-Website/)
-
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
-  
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
-
-
-### Period Tracker
+### Menstrual Cycle Trackers
 
 
 - [drip.](https://bloodyhealth.gitlab.io/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
 
 
-### Relaxation Tools ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Mood Trackers
 
 
-- [Noice](https://trynoice.com/)
+- [Pixy](https://pixy.day/)
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+
+
+### Nutrition Information Tools
+
+
+- [Open Food Facts](https://world.openfoodfacts.org/)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+
+
+### Pedometers
+
+
+- [Paseo](https://gitlab.com/pardomi/paseo)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
-### Run Trackers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Physical Activity Trackers 
 
 
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack)
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
-- [RunnerUp](https://github.com/jonasoreland/runnerup)
+### Seasonal Food Information Tools
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+
+- [Seasonal Foods Calendar](https://flunzmas.com/seasonal-foods-calendar/)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
-### Sports Trackers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Relaxation Tools
 
 
-- [OpenTracks](https://opentracksapp.com/)
+- [Noice](https://trynoice.com/)
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
-### Weight Tracking Tools ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Weed Trackers
+
+
+- [Petals](https://github.com/LeoColman/Petals)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
+
+
+### Weight & Diet Trackers
+
+
+- [Energize](https://codeberg.org/epinez/Energize)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
+
+
+- [OpenNutriTracker](https://simonoppowa.github.io/OpenNutriTracker-Website/)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
 
 
 - [openScale](https://github.com/oliexdev/openScale)
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
-### Workouts Apps  ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+- [Waistline](https://github.com/davidhealey/waistline)
 
-
-- [wger](https://wger.de/)
-
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
 
-- [Workout Time!](https://gitlab.com/ideotec/workouttime)
+### Workout Routine Tools
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+
+- [Feeel](https://gitlab.com/enjoyingfoss/feeel)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  
+  **Platforms:** ![Android](Assets/Stamps/Android.png)
+
+
+### Workout Timers
+
+
+- [TimeR Machine](https://github.com/timer-machine/timer-machine-android)
+
+  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
 
