@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 39.2024.11.18.1**
+**Version 40.2024.11.27.0**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -127,7 +127,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 
-### AI Image Generator ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### AI Image Generators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
 
 
 - [Craiyon](https://www.craiyon.com/)
@@ -280,6 +280,16 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
   
   **Platforms:** ![Android](Assets/Stamps/Android.png)
+
+
+### Survey Creators
+
+
+- [LimeSurvey](https://www.limesurvey.org/)
+
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
 
 
 # CD/DVD Tools
@@ -554,8 +564,19 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Home & Family
+### Genealogy Tools ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+
+
+- [Gramps](https://gramps-project.org/blog/)
+
+  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  
+  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+
+
 # Network & Admin
 ### CAPTCHAs ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+
 
 - [mCaptcha](https://mcaptcha.org/)
   
@@ -700,7 +721,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Thunderbird](https://www.thunderbird.net/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
   
   **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
 
