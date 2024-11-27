@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 40.2024.11.27.0**
+**Version 41.2024.11.27.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -11,6 +11,22 @@ The release code is in the format:
 - **Month:** The month of the release
 - **Day:** The day of the release
 - **Daily Release Index:** How many releases were made that day, starting at 0
+
+
+# Mirrors
+This repository is mirrored on other platforms. It was originally hosted on GitHub, but is now hosted on GitLab. It was at one point accidentally deleted on GitHub, so it shows up as a fork of another user's repository there.
+
+### GitHub Mirror
+
+https://github.com/An-anonymous-coder/Open-Source-Everything
+
+### GitLab Mirror
+
+https://gitlab.com/an-anonymous-coder1/Open-Source-Everything
+
+### Codeberg Mirror
+
+Coming soon!
 
 
 # Legend
