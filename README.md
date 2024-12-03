@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 43.2024.12.03.1**
+**Version 44.2024.12.03.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
