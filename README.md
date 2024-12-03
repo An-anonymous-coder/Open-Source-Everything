@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 44.2024.12.03.1**
+**Version 45.2024.12.03.2**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -40,7 +40,7 @@ Stamps give you a general idea of the consensus around a piece of software. This
 
 <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16"> = Software is outdated/abandoned
 
-<img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16"> = This section needs improved
+<img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16"> = This section needs improved
 
 ### Platforms
 This is a list of the platforms software is currently available on. "Apple products" includes iOS, macOS, and iPadOS.
@@ -115,7 +115,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # AI Tools & Services
-### AI Chatbots <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### AI Chatbots <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [GPT4ALL](https://gpt4all.io/)
@@ -140,7 +140,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 
-### AI Image Generators <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### AI Image Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Craiyon](https://www.craiyon.com/)
@@ -157,43 +157,43 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
-### AI Music Generators <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### AI Music Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Stable Audio Open](https://huggingface.co/stabilityai/stable-audio-open-1.0)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
-### AI Video Generators <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### AI Video Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Hotshot](https://hotshot.co/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Mochi AI](https://www.genmo.ai/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Samsar](https://www.samsar.one/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Stable Video Diffusion](https://stability.ai/stable-video)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
@@ -242,7 +242,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Duplicati](https://www.duplicati.com/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
@@ -254,12 +254,12 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
-### Cloud Storage Services <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Cloud Storage Services <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Nextcloud](https://nextcloud.com/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
@@ -290,7 +290,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Ivy Wallet](https://ivywallet.app/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
@@ -300,18 +300,18 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [LimeSurvey](https://www.limesurvey.org/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # CD/DVD Tools
-### Bootable USB Creators <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Bootable USB Creators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [belenaEtcher](https://etcher.balena.io/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
@@ -325,14 +325,14 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Rufus](https://rufus.ie/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Ventoy](https://www.ventoy.net/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
@@ -370,7 +370,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [PrivateBin](https://privatebin.info/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
@@ -455,19 +455,19 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # File Management
-### File Archivers <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### File Archivers <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [7-Zip](https://www.7-zip.org/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [PeaZip](https://peazip.github.io/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
@@ -576,39 +576,39 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Gaming Software
-### Game Emulators <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Game Emulators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [RetroArch](https://retroarch.com/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # Home & Family
-### Genealogy Tools <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Genealogy Tools <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Gramps](https://gramps-project.org/blog/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 # Network & Admin
-### CAPTCHAs <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### CAPTCHAs <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [mCaptcha](https://mcaptcha.org/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
-### DNS Resolvers <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### DNS Resolvers <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
@@ -620,7 +620,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Control D](https://controld.com/free-dns)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
@@ -642,26 +642,26 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
-### Router Custom Firmwares <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Router Custom Firmwares <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [DD-WRT](https://dd-wrt.com/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [OPNsense](https://opnsense.org/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [OpenWrt](https://openwrt.org/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
@@ -751,7 +751,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Betterbird](https://www.betterbird.eu/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
@@ -778,7 +778,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Xournal++](https://xournalpp.github.io/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
@@ -798,14 +798,14 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Evince](https://wiki.gnome.org/Apps/Evince)
 
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [Okular](https://okular.kde.org/)
 
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
@@ -886,7 +886,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Online Services
-### App Stores for Android <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### App Stores for Android <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Accrescent](https://accrescent.app/)
@@ -1035,7 +1035,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
@@ -1054,7 +1054,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** <img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
-### Linux Distros <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Linux Distros <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Arch Linux](https://www.archlinux.org/)
@@ -1073,14 +1073,14 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [NixOS](https://nixos.org/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
@@ -1183,7 +1183,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
-### Photo Managers <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Photo Managers <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
@@ -1221,12 +1221,12 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Remote Work & Education
-### Video Conferencing Tools <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Video Conferencing Tools <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Infomaniak kMeet](https://www.infomaniak.com/en/kmeet)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
@@ -1283,7 +1283,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
-### Firewalls <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Firewalls <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 ### Password Managers
@@ -1336,12 +1336,12 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [WordPress](https://wordpress.org/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
-### Communication Protocols <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Communication Protocols <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Matrix](https://matrix.org/)
@@ -1353,7 +1353,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [XMPP](https://xmpp.org/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
@@ -1441,7 +1441,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Pixelfed](https://pixelfed.org/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
@@ -1451,7 +1451,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Live Talk](https://play.google.com/store/apps/details?id=com.mcastrangertalk.livetalkrandome)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
@@ -1765,14 +1765,14 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Kodi](https://kodi.tv/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Jellyfin](https://jellyfin.org/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
@@ -1817,12 +1817,12 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
-### Video Editors <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Video Editors <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [Kdenlive](https://kdenlive.org/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
@@ -1851,12 +1851,12 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
-### Watch Videos Together Tools <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Watch Videos Together Tools <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [OpenTogetherTube](https://opentogethertube.com/)
   
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
   
   **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
@@ -1982,7 +1982,7 @@ This is a list of the platforms software is currently available on. "Apple produ
   **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
-### Text to Speech Service <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+### Text to Speech Service <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
 - [RHVoice](https://rhvoice.org/)
