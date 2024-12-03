@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 43.2024.12.03.0**
+**Version 43.2024.12.03.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -30,30 +30,30 @@ Coming soon!
 ### Stamps
 Stamps give you a general idea of the consensus around a piece of software. This helps you better gague which software is highly recommended by me or the community as a whole. 
 
-![Verified best software](Assets/Platforms/Verified_best_software.png) = Verified best software
+<img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> = Verified best software
 
-![My top choices](Assets/Platforms/My_top_choices.png) = My top choices
+<img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> = My top choices
 
-![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png) = I have personally used and inspected this software
+<img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> = I have personally used and inspected this software
 
-![Software is proprietary](Assets/Platforms/Software_is_proprietary.png) = Software is proprietary
+<img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16"> = Software is proprietary
 
-![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png) = Software is outdated/abandoned
+<img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16"> = Software is outdated/abandoned
 
-![This section needs improved](Assets/Platforms/This_section_needs_improved.png) = This section needs improved
+<img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16"> = This section needs improved
 
 ### Platforms
 This is a list of the platforms software is currently available on. "Apple products" includes iOS, macOS, and iPadOS.
 
-![Apple](Assets/Stamps/Apple.png) = Available for Apple products
+<img alt="Apple" src="Assets/Platforms/Apple.png" height="16"> = Available for Apple products
 
-![Android](Assets/Stamps/Android.png) = Available for Android products
+<img alt="Android" src="Assets/Platforms/Android.png" height="16"> = Available for Android products
 
-![Linux](Assets/Stamps/Linux.png) = Available for Linux
+<img alt="Linux" src="Assets/Platforms/Linux.png" height="16"> = Available for Linux
 
-![Windows](Assets/Stamps/Windows.png) = Available for Windows
+<img alt="Windows" src="Assets/Platforms/Windows.png" height="16"> = Available for Windows
 
-![Online](Assets/Stamps/Online.png) = Available online
+<img alt="Online" src="Assets/Platforms/Online.png" height="16"> = Available online
 
 
 # Table of Contents
@@ -115,87 +115,87 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # AI Tools & Services
-### AI Chatbots ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### AI Chatbots <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [GPT4ALL](https://gpt4all.io/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Ollama](https://ollama.com/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Venice](https://venice.ai/)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 
-### AI Image Generators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### AI Image Generators <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Craiyon](https://www.craiyon.com/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [FLUX.1](https://blackforestlabs.ai/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
-### AI Music Generators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### AI Music Generators <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Stable Audio Open](https://huggingface.co/stabilityai/stable-audio-open-1.0)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
-### AI Video Generators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### AI Video Generators <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Hotshot](https://hotshot.co/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Mochi AI](https://www.genmo.ai/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Samsar](https://www.samsar.one/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Stable Video Diffusion](https://stability.ai/stable-video)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # Audio & Music
@@ -204,9 +204,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Audacity](https://www.audacityteam.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Music Recognition Apps
@@ -214,16 +214,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Audire](https://github.com/alexmercerind/audire)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"><img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Podcast Players
@@ -231,9 +231,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [AntennaPod](https://antennapod.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 # Backup & Sync
@@ -242,26 +242,26 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Duplicati](https://www.duplicati.com/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Vorta](https://vorta.borgbase.com/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
-### Cloud Storage Services ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Cloud Storage Services <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Nextcloud](https://nextcloud.com/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### File Sync Tools
@@ -269,9 +269,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Syncthing](https://syncthing.net/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 # Business & Commerce
@@ -280,9 +280,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Privacy.com](https://privacy.com/)
   
-  **Stamps:** ![Software is proprietary](Assets/Platforms/Software_is_proprietary.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Personal Finance Tools
@@ -290,9 +290,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Ivy Wallet](https://ivywallet.app/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Survey Creators
@@ -300,41 +300,41 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [LimeSurvey](https://www.limesurvey.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # CD/DVD Tools
-### Bootable USB Creators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Bootable USB Creators <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [belenaEtcher](https://etcher.balena.io/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [EtchDroid](https://etchdroid.app/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [Rufus](https://rufus.ie/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Ventoy](https://www.ventoy.net/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Disc Burners
@@ -342,9 +342,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Brasero](https://wiki.gnome.org/Apps/Brasero)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 # Development
@@ -353,16 +353,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [VSCodium](https://vscodium.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Pastebin Services
@@ -370,9 +370,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [PrivateBin](https://privatebin.info/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Source Code Hosting Services
@@ -380,16 +380,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [GitLab](https://about.gitlab.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Codeberg](https://codeberg.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # Digital Coins & Cryptocurrency
@@ -398,9 +398,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Monero](https://getmonero.org/home)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 # Education & Reference
@@ -409,9 +409,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Wikipedia](https://www.wikipedia.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Flashcard Learning Tools
@@ -419,9 +419,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Grammar Checkers
@@ -429,9 +429,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [LanguageTool](https://languagetool.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Sky Maps
@@ -439,9 +439,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Sky Map](https://github.com/sky-map-team/stardroid)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Web Archiving Services
@@ -449,27 +449,27 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Wayback Machine](https://web.archive.org/)
   
-  **Stamps:** ![Software is proprietary](Assets/Platforms/Software_is_proprietary.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # File Management
-### File Archivers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### File Archivers <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [7-Zip](https://www.7-zip.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [PeaZip](https://peazip.github.io/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 # File Sharing
@@ -478,23 +478,23 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [KDE Connect](https://kdeconnect.kde.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [LocalSend](https://localsend.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [OnionShare](https://onionshare.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Torrent Clients
@@ -502,25 +502,25 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [qBittorrent](https://qbittorrent.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Torrent Search Engines
 
 - [BTDigg](https://btdig.com/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # Games
@@ -529,16 +529,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Lichess](https://lichess.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [blichess](https://github.com/vovagorodok/blichess)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Music Games
@@ -546,9 +546,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [osu!](https://osu.ppy.sh/home)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Puzzle Games
@@ -556,73 +556,73 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [2048 (PFA)](https://secuso.aifb.kit.edu/english/653.php)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [Simon Tatham's Portable Puzzle Collection](http://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png) 
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> 
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Open Sudoku](https://opensudoku.moire.org/)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 # Gaming Software
-### Game Emulators ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Game Emulators <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [RetroArch](https://retroarch.com/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # Home & Family
-### Genealogy Tools ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Genealogy Tools <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Gramps](https://gramps-project.org/blog/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 # Network & Admin
-### CAPTCHAs ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### CAPTCHAs <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [mCaptcha](https://mcaptcha.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
-### DNS Resolvers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### DNS Resolvers <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png) 
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> 
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Control D](https://controld.com/free-dns)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Network Monitors
@@ -630,40 +630,40 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Wireshark](https://www.wireshark.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Nmap](http://nmap.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
-### Router Custom Firmwares ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Router Custom Firmwares <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [DD-WRT](https://dd-wrt.com/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [OPNsense](https://opnsense.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [OpenWrt](https://openwrt.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 ### Virtualization Tools 
@@ -671,16 +671,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [VirtualBox](https://www.virtualbox.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Docker](https://www.docker.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Work Profile for Android
@@ -688,9 +688,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Shelter](https://github.com/PeterCxy/Shelter)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 # News & Books
@@ -699,16 +699,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Anna's Archive](https://annas-archive.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Open Library](https://openlibrary.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Ebook Readers
@@ -716,16 +716,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [calibre](https://calibre-ebook.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Librera Reader](https://librera.mobi/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### RSS Readers
@@ -733,9 +733,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Feeder](https://github.com/spacecowboy/Feeder)
     
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 # Office & Productivity
@@ -744,16 +744,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Thunderbird](https://www.thunderbird.net/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Betterbird](https://www.betterbird.eu/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Mind Mapping Tools
@@ -761,9 +761,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [draw.io](https://www.diagrams.net/)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Note Taking Apps
@@ -771,16 +771,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Joplin](https://joplinapp.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Xournal++](https://xournalpp.github.io/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Office Suites
@@ -788,9 +788,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [LibreOffice](https://www.libreoffice.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### PDF Readers
@@ -798,16 +798,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Evince](https://wiki.gnome.org/Apps/Evince)
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [Okular](https://okular.kde.org/)
 
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Scheduling and Calendar Apps
@@ -815,16 +815,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [Fossify Calendar](https://github.com/FossifyOrg/Calendar)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Text Editors (CLI)
@@ -832,16 +832,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [GNU nano](https://www.nano-editor.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Vim](https://www.vim.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Text Editors (GUI)
@@ -849,23 +849,23 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [gedit](https://gedit-technology.github.io/apps/gedit/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Kate](https://kate-editor.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Notepad++](https://notepad-plus-plus.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
   
-  **Platforms:** ![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### WebMail Providers
@@ -873,48 +873,48 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Proton Mail](https://proton.me/mail)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Tuta Mail](https://tuta.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # Online Services
-### App Stores for Android ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### App Stores for Android <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Accrescent](https://accrescent.app/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [Aurora Store](https://auroraoss.com/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [F-Droid](https://f-droid.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Obtainium](https://obtainium.imranr.dev/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### App Stores for Linux
@@ -922,16 +922,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [GNOME Software](https://apps.gnome.org/app/org.gnome.Software/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [Flathub](https://flathub.org/)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Pornography
@@ -941,14 +941,14 @@ This is a list of the platforms software is currently available on. "Apple produ
   
   **Stamps:** WARNING: Sensitive content, explicit material, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
     
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [E621](https://e621.net/posts)
   
   **Stamps:** WARNING: Sensitive content, explicit material, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
     
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 
@@ -957,9 +957,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Web Search Engines
@@ -967,9 +967,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [SearXNG](https://docs.searxng.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # OS & Utilities
@@ -978,9 +978,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [GrapheneOS](https://grapheneos.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Application Launchers for Android
@@ -988,9 +988,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Lawnchair](https://lawnchair.app/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Boot Managers
@@ -998,18 +998,18 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [GRUB](http://www.gnu.org/software/grub/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Compatibility Layer Tools
 
 - [Wine](https://www.winehq.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 
@@ -1018,16 +1018,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [GNOME](https://www.gnome.org/)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [KDE Plasma](https://kde.org/plasma-desktop)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 ### Disk Usage Analyzers
@@ -1035,54 +1035,54 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [GNOME Disk Usage Analyzer](https://wiki.gnome.org/Apps/DiskUsageAnalyzer)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [WinDirStat](https://windirstat.net/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
-### Linux Distros ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Linux Distros <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Arch Linux](https://www.archlinux.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [Fedora](https://fedoraproject.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [NixOS](https://nixos.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 ### Mobile Keyboards for Android
@@ -1090,9 +1090,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [HeliBoard](https://github.com/Helium314/HeliBoard)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Operating Systems
@@ -1100,16 +1100,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Tails](https://tails.net/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [Qubes OS](https://www.qubes-os.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 ### Survival Apps
@@ -1117,9 +1117,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Trail Sense](https://kylecorry.com/Trail-Sense/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### System Cleaners
@@ -1127,9 +1127,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [BleachBit](https://www.bleachbit.org/)
 
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Terminal Emulators for Android
@@ -1137,9 +1137,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Termux](https://termux.dev/en/)
     
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 # Photos & Graphics
@@ -1148,9 +1148,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Blender](https://www.blender.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### CAD Software
@@ -1158,9 +1158,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [FreeCAD](https://www.freecad.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Digital Painting Tools
@@ -1168,9 +1168,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Krita](https://krita.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Image Editors
@@ -1178,26 +1178,26 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [GIMP](https://www.gimp.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
-### Photo Managers ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Photo Managers <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [Aves](https://github.com/deckerst/aves)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Screenshot Capture Tools
@@ -1205,9 +1205,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Flameshot](https://flameshot.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Vector Graphic Apps
@@ -1215,20 +1215,20 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Inkscape](https://inkscape.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 # Remote Work & Education
-### Video Conferencing Tools ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Video Conferencing Tools <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Infomaniak kMeet](https://www.infomaniak.com/en/kmeet)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # Security & Privacy
@@ -1237,16 +1237,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Aegis Authenticator](https://getaegis.app/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [Ente Auth](https://ente.io/auth/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Disk Encryption Tools
@@ -1254,16 +1254,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [LUKS](https://gitlab.com/cryptsetup/cryptsetup)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### File Encryption Software
@@ -1271,19 +1271,19 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Cryptomator](https://cryptomator.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Picocrypt](https://github.com/Picocrypt/Picocrypt)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
-### Firewalls ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Firewalls <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 ### Password Managers
@@ -1291,16 +1291,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [KeePassXC](https://keepassxc.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [KeePassDX](https://www.keepassdx.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Email Aliasing Services
@@ -1308,9 +1308,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [addy.io](https://addy.io/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Virtual Private Network Apps
@@ -1318,16 +1318,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Mullvad](https://www.mullvad.net/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Proton VPN](https://protonvpn.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 # Social & Communications
@@ -1336,40 +1336,40 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [WordPress](https://wordpress.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
-### Communication Protocols ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Communication Protocols <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Matrix](https://matrix.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [XMPP](https://xmpp.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [SMP](https://simplex.chat/docs/protocol/simplex-chat.html)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Signal](https://github.com/signalapp/libsignal)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Dating Services
@@ -1377,9 +1377,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Alovoa](https://alovoa.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Instant Messengers
@@ -1387,16 +1387,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Briar](https://briarproject.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [SimpleX Chat](https://simplex.chat/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Microblogs
@@ -1404,9 +1404,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Mastodon](https://joinmastodon.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Short-Form Video
@@ -1414,16 +1414,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Loops](https://loops.video/)
     
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [ProxiTok](https://github.com/pablouser1/ProxiTok)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Social Networks
@@ -1431,9 +1431,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Lemmy](https://join-lemmy.org/)
   
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Photo Sharing Apps
@@ -1441,9 +1441,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Pixelfed](https://pixelfed.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Random Video Chat Apps
@@ -1451,9 +1451,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Live Talk](https://play.google.com/store/apps/details?id=com.mcastrangertalk.livetalkrandome)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # Sport & Health
@@ -1462,9 +1462,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Open Beauty Facts](https://world.openbeautyfacts.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Breathing Exercise Tools
@@ -1472,9 +1472,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Inner Breeze](https://inbreeze.xyz/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Diabetic Trackers
@@ -1482,9 +1482,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Diaguard](https://diaguard.wordpress.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Diet Creation Tools
@@ -1492,9 +1492,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Daily Dozen](https://nutritionfacts.org/open-source/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Fitness Trackers
@@ -1502,9 +1502,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Gadgetbridge](https://gadgetbridge.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Gym Exercise Trackers
@@ -1512,9 +1512,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Massive](https://github.com/brandonp2412/Massive)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Habit Trackers
@@ -1522,16 +1522,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [Table Habit](https://github.com/FriesI23/mhabit)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Medicine Reminder Tools
@@ -1539,9 +1539,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Simpill](https://gitlab.com/simpilldev/simpill)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"><img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Meditation Tools
@@ -1549,9 +1549,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Medito](https://meditofoundation.org/medito-app)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Menstrual Cycle Trackers
@@ -1559,16 +1559,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [drip.](https://bloodyhealth.gitlab.io/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [Mensinator](https://github.com/EmmaTellblom/Mensinator)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Mood Trackers
@@ -1576,9 +1576,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Pixy](https://pixy.day/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"><img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Nutrition Information Tools
@@ -1586,9 +1586,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Open Food Facts](https://world.openfoodfacts.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### Pedometers
@@ -1596,9 +1596,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Paseo](https://gitlab.com/pardomi/paseo)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"><img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Physical Activity Trackers 
@@ -1606,16 +1606,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [OpenTracks](https://f-droid.org/en/packages/de.dennisguse.opentracks/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Seasonal Food Information Tools
@@ -1623,9 +1623,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Seasonal Foods Calendar](https://flunzmas.com/seasonal-foods-calendar/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)![Software is outdated or abandoned](Assets/Platforms/Software_is_outdated_or_abandoned.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"><img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Relaxation Tools
@@ -1633,9 +1633,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Noice](https://trynoice.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Weed Trackers
@@ -1643,9 +1643,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Petals](https://github.com/LeoColman/Petals)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Weight & Diet Trackers
@@ -1653,30 +1653,30 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Energize](https://codeberg.org/epinez/Energize)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [OpenNutriTracker](https://simonoppowa.github.io/OpenNutriTracker-Website/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [openScale](https://github.com/oliexdev/openScale)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [Waistline](https://github.com/davidhealey/waistline)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Workout Routine Tools
@@ -1684,9 +1684,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Feeel](https://gitlab.com/enjoyingfoss/feeel)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Workout Timers
@@ -1694,9 +1694,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [TimeR Machine](https://github.com/timer-machine/timer-machine-android)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 # System & Hardware
@@ -1705,16 +1705,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [coreboot](https://coreboot.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [Libreboot](https://www.libreboot.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 # Travel & Location
@@ -1723,30 +1723,30 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [OsmAnd](https://osmand.net/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [Organic Maps](https://organicmaps.app/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 - [StreetComplete](https://streetcomplete.app/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Mock Location Apps
@@ -1754,9 +1754,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Fake Traveler](https://github.com/mcastillof/FakeTraveler)
    
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 # Video & Movies
@@ -1765,16 +1765,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Kodi](https://kodi.tv/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Jellyfin](https://jellyfin.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Media Players
@@ -1782,9 +1782,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [VLC Media Player](https://www.videolan.org/vlc/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Movie Streaming Services
@@ -1792,9 +1792,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Stremio](https://www.stremio.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Screen Recorders
@@ -1802,9 +1802,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [OBS Studio](https://obsproject.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Video Downloaders
@@ -1812,26 +1812,26 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
-### Video Editors ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Video Editors <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [Kdenlive](https://kdenlive.org/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Open Video Editor](https://github.com/devhyper/open-video-editor)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Video Sharing Tools
@@ -1839,26 +1839,26 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Odysee](https://odysee.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [PeerTube](https://joinpeertube.org/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
-### Watch Videos Together Tools ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Watch Videos Together Tools <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [OpenTogetherTube](https://opentogethertube.com/)
   
-  **Stamps:** ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 ### YouTube Clients
@@ -1866,16 +1866,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [FreeTube](https://freetubeapp.io/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Tubular](https://github.com/polymorphicshade/Tubular)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### YouTube Frontends
@@ -1883,16 +1883,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Invidious](https://redirect.invidious.io/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 - [Piped](https://github.com/TeamPiped/Piped)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Online](Assets/Stamps/Online.png)
+  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.png" height="16">
 
 
 # Web Browsing
@@ -1901,9 +1901,9 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Search by Image](https://github.com/dessant/search-by-image)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### Web Browsers
@@ -1911,23 +1911,23 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Brave](https://brave.com/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Mullvad Browser](https://mullvad.net/en/browser)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 ### Ad Blockers
@@ -1935,23 +1935,23 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [uBlock Origin](https://github.com/gorhill/uBlock)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [NoScript](https://noscript.net/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
 
 
 - [Pi-hole](https://pi-hole.net/)
   
-  **Stamps:** ![Verified best software](Assets/Platforms/Verified_best_software.png)![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Linux](Assets/Stamps/Linux.png)
+  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.png" height="16">
 
 
 # Other
@@ -1960,16 +1960,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [JMP.chat](https://jmp.chat/)
   
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 - [MySudo](https://mysudo.com/)
   
-  **Stamps:** ![Software is proprietary](Assets/Platforms/Software_is_proprietary.png)![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16"><img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Apple](Assets/Stamps/Apple.png)![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.png" height="16"><img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
 ### QR Code Readers
@@ -1977,16 +1977,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 - [Binary Eye](https://www.markusfisch.de/apps-android.html#binary-eye)
     
-  **Stamps:** ![My top choices](Assets/Platforms/My_top_choices.png)![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"><img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16">
 
 
-### Text to Speech Service ![This section needs improved](Assets/Platforms/This_section_needs_improved.png)
+### Text to Speech Service <img alt="This section needs improved" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
 
 
 - [RHVoice](https://rhvoice.org/)
     
-  **Stamps:** ![I have personally used and inspected this software](Assets/Platforms/I_have_personally_used_and_inspected_this_software.png)
+  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
-  **Platforms:** ![Android](Assets/Stamps/Android.png)![Linux](Assets/Stamps/Linux.png)![Windows](Assets/Stamps/Windows.png)
+  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.png" height="16"><img alt="Linux" src="Assets/Platforms/Linux.png" height="16"><img alt="Windows" src="Assets/Platforms/Windows.png" height="16">
