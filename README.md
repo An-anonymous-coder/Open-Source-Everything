@@ -3,7 +3,7 @@ For a while now, I have been meticulously creating a list of open source softwar
 
 
 # Versioning
-**Version 56.2024.12.04.4**
+**Version 57.2024.12.04.5**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -17,7 +17,7 @@ The release code is in the format:
 This repository is mirrored on other platforms. It was originally hosted on GitHub, but is now hosted on GitLab. It was at one point accidentally deleted on GitHub, so it shows up as a fork of another user's repository there after it was restored.
 
 ### GitLab (Host)
-https://gitlab.com/an-anonymous-coder1/Open-Source-Everything
+
 
 ### GitHub (Mirror)
 https://github.com/An-anonymous-coder/Open-Source-Everything
@@ -57,59 +57,59 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Table of Contents
-[AI Tools & Services](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#ai-tools--services)
+[AI Tools & Services](#ai-tools--services)
 
-[Audio & Music](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#audio--music)
+[Audio & Music](#audio--music)
 
-[Backup & Sync](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#backup--sync)
+[Backup & Sync](#backup--sync)
 
-[Business & Commerce](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#business--commerce)
+[Business & Commerce](#business--commerce)
 
-[CD/DVD Tools](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#cddvd-tools)
+[CD/DVD Tools](#cddvd-tools)
 
-[Development](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#development)
+[Development](#development)
 
-[Digital Coins & Cryptocurrency](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#digital-coins--cryptocurrency)
+[Digital Coins & Cryptocurrency](#digital-coins--cryptocurrency)
 
-[Education & Reference](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#education--reference)
+[Education & Reference](#education--reference)
 
-[File Management](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#file-management)
+[File Management](#file-management)
 
-[File Sharing](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#file-sharing)
+[File Sharing](#file-sharing)
 
-[Games](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#games)
+[Games](#games)
 
-[Gaming Software](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#gaming-software)
+[Gaming Software](#gaming-software)
 
-[Home & Family](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#home--family)
+[Home & Family](#home--family)
 
-[Network & Admin](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#network--admin)
+[Network & Admin](#network--admin)
 
-[News & Books](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#news--books)
+[News & Books](#news--books)
 
-[Office & Productivity](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#office--productivity)
+[Office & Productivity](#office--productivity)
 
-[Online Services](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#online-services)
+[Online Services](#online-services)
 
-[OS & Utilities](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#os--utilities)
+[OS & Utilities](#os--utilities)
 
-[Photos & Graphics](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#photos--graphics)
+[Photos & Graphics](#photos--graphics)
 
-[Remote Work & Education](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#remote-work--education)
+[Remote Work & Education](#remote-work--education)
 
-[Security & Privacy](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#security--privacy)
+[Security & Privacy](#security--privacy)
 
-[Social & Communications](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#social--communications)
+[Social & Communications](#social--communications)
 
-[Sport & Health](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#sport--health)
+[Sport & Health](#sport--health)
 
-[System & Hardware](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#system--hardware)
+[System & Hardware](#system--hardware)
 
-[Travel & Location](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#travel--location)
+[Travel & Location](#travel--location)
 
-[Video & Movies](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#video--movies)
+[Video & Movies](#video--movies)
 
-[Web Browsing](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#web-browsing)
+[Web Browsing](#web-browsing)
 
 
 # AI Tools & Services
