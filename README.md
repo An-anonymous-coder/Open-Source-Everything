@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 47.2024.12.03.4**
+**Version 48.2024.12.03.5**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -118,405 +118,1065 @@ This is a list of the platforms software is currently available on. "Apple produ
 ### AI Chatbots <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [GPT4ALL](https://gpt4all.io/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[GPT4ALL](https://gpt4all.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Ollama](https://ollama.com/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Ollama](https://ollama.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Venice](https://venice.ai/)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Venice](https://venice.ai/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 
 ### AI Image Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Craiyon](https://www.craiyon.com/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Craiyon](https://www.craiyon.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [FLUX.1](https://blackforestlabs.ai/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[FLUX.1](https://blackforestlabs.ai/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### AI Music Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Stable Audio Open](https://huggingface.co/stabilityai/stable-audio-open-1.0)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Stable Audio Open](https://huggingface.co/stabilityai/stable-audio-open-1.0)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### AI Video Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Hotshot](https://hotshot.co/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Hotshot](https://hotshot.co/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Mochi AI](https://www.genmo.ai/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Mochi AI](https://www.genmo.ai/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Samsar](https://www.samsar.one/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Samsar](https://www.samsar.one/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Stable Video Diffusion](https://stability.ai/stable-video)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Stable Video Diffusion](https://stability.ai/stable-video)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Audio & Music
 ### Audio Editors
 
 
-- [Audacity](https://www.audacityteam.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Audacity](https://www.audacityteam.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Music Recognition Apps
 
 
-- [Audire](https://github.com/alexmercerind/audire)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Audire](https://github.com/alexmercerind/audire)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Audile](https://github.com/aleksey-saenko/MusicRecognizer)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Podcast Players
 
 
-- [AntennaPod](https://antennapod.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[AntennaPod](https://antennapod.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Backup & Sync
 ### Backup Clients
 
 
-- [Duplicati](https://www.duplicati.com/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Duplicati](https://www.duplicati.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Vorta](https://vorta.borgbase.com/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[Vorta](https://vorta.borgbase.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Cloud Storage Services <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Nextcloud](https://nextcloud.com/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Nextcloud](https://nextcloud.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### File Sync Tools
 
 
-- [Syncthing](https://syncthing.net/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Syncthing](https://syncthing.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Business & Commerce
 ### Virtual Card Services
 
 
-- [Privacy.com](https://privacy.com/)
-  
-  **Stamps:** <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Privacy.com](https://privacy.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Personal Finance Tools
 
 
-- [Ivy Wallet](https://ivywallet.app/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Ivy Wallet](https://ivywallet.app/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Survey Creators
 
 
-- [LimeSurvey](https://www.limesurvey.org/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[LimeSurvey](https://www.limesurvey.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # CD/DVD Tools
 ### Bootable USB Creators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [belenaEtcher](https://etcher.balena.io/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[belenaEtcher](https://etcher.balena.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [EtchDroid](https://etchdroid.app/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[EtchDroid](https://etchdroid.app/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Rufus](https://rufus.ie/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Rufus](https://rufus.ie/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Ventoy](https://www.ventoy.net/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Ventoy](https://www.ventoy.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Disc Burners
 
 
-- [Brasero](https://wiki.gnome.org/Apps/Brasero)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[Brasero](https://wiki.gnome.org/Apps/Brasero)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Development
 ### Code Editors
 
 
-- [VSCodium](https://vscodium.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[VSCodium](https://vscodium.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [GNU Emacs](https://www.gnu.org/software/emacs/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[GNU Emacs](https://www.gnu.org/software/emacs/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Pastebin Services
 
 
-- [PrivateBin](https://privatebin.info/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[PrivateBin](https://privatebin.info/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Source Code Hosting Services
 
 
-- [GitLab](https://about.gitlab.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[GitLab](https://about.gitlab.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Codeberg](https://codeberg.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Codeberg](https://codeberg.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Digital Coins & Cryptocurrency
 ### Cryptocurrency Coins
 
 
-- [Monero](https://getmonero.org/home)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Monero](https://getmonero.org/home)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Education & Reference
 ### Encyclopedias
 
 
-- [Wikipedia](https://www.wikipedia.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Wikipedia](https://www.wikipedia.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Flashcard Learning Tools
 
 
-- [AnkiDroid](https://github.com/ankidroid/Anki-Android/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[AnkiDroid](https://github.com/ankidroid/Anki-Android/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Grammar Checkers
 
 
-- [LanguageTool](https://languagetool.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[LanguageTool](https://languagetool.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Sky Maps
 
 
-- [Sky Map](https://github.com/sky-map-team/stardroid)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Sky Map](https://github.com/sky-map-team/stardroid)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Web Archiving Services
 
 
-- [Wayback Machine](https://web.archive.org/)
-  
-  **Stamps:** <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Wayback Machine](https://web.archive.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # File Management
 ### File Archivers <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [7-Zip](https://www.7-zip.org/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[7-Zip](https://www.7-zip.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [PeaZip](https://peazip.github.io/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[PeaZip](https://peazip.github.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # File Sharing
 ### Large File Transfer Services
 
 
-- [KDE Connect](https://kdeconnect.kde.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[KDE Connect](https://kdeconnect.kde.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [LocalSend](https://localsend.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[LocalSend](https://localsend.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [OnionShare](https://onionshare.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[OnionShare](https://onionshare.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Torrent Clients
 
 
-- [qBittorrent](https://qbittorrent.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[qBittorrent](https://qbittorrent.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Torrent Search Engines
 
-- [BTDigg](https://btdig.com/)
+[BTDigg](https://btdig.com/)
   
   **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
@@ -527,485 +1187,1295 @@ This is a list of the platforms software is currently available on. "Apple produ
 ### Chess Games
 
 
-- [Lichess](https://lichess.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Lichess](https://lichess.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [blichess](https://github.com/vovagorodok/blichess)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[blichess](https://github.com/vovagorodok/blichess)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Music Games
 
 
-- [osu!](https://osu.ppy.sh/home)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[osu!](https://osu.ppy.sh/home)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Puzzle Games
 
 
-- [2048 (PFA)](https://secuso.aifb.kit.edu/english/653.php)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[2048 (PFA)](https://secuso.aifb.kit.edu/english/653.php)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Simon Tatham's Portable Puzzle Collection](http://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> 
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Simon Tatham's Portable Puzzle Collection](http://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Open Sudoku](https://opensudoku.moire.org/)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Open Sudoku](https://opensudoku.moire.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Gaming Software
 ### Game Emulators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [RetroArch](https://retroarch.com/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[RetroArch](https://retroarch.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Home & Family
 ### Genealogy Tools <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Gramps](https://gramps-project.org/blog/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Gramps](https://gramps-project.org/blog/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Network & Admin
 ### CAPTCHAs <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [mCaptcha](https://mcaptcha.org/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[mCaptcha](https://mcaptcha.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### DNS Resolvers <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> 
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Control D](https://controld.com/free-dns)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Control D](https://controld.com/free-dns)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Network Monitors
 
 
-- [Wireshark](https://www.wireshark.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Wireshark](https://www.wireshark.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Nmap](http://nmap.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Nmap](http://nmap.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Router Custom Firmwares <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [DD-WRT](https://dd-wrt.com/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[DD-WRT](https://dd-wrt.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [OPNsense](https://opnsense.org/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[OPNsense](https://opnsense.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [OpenWrt](https://openwrt.org/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[OpenWrt](https://openwrt.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Virtualization Tools 
 
 
-- [VirtualBox](https://www.virtualbox.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[VirtualBox](https://www.virtualbox.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Docker](https://www.docker.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Docker](https://www.docker.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Work Profile for Android
 
 
-- [Shelter](https://github.com/PeterCxy/Shelter)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Shelter](https://github.com/PeterCxy/Shelter)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # News & Books
 ### Ebook Libraries
 
 
-- [Anna's Archive](https://annas-archive.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Anna's Archive](https://annas-archive.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Open Library](https://openlibrary.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Open Library](https://openlibrary.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Ebook Readers
 
 
-- [calibre](https://calibre-ebook.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[calibre](https://calibre-ebook.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Librera Reader](https://librera.mobi/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Librera Reader](https://librera.mobi/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### RSS Readers
 
 
-- [Feeder](https://github.com/spacecowboy/Feeder)
-    
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Feeder](https://github.com/spacecowboy/Feeder)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Office & Productivity
 ### Email Clients
 
 
-- [Thunderbird](https://www.thunderbird.net/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Thunderbird](https://www.thunderbird.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Betterbird](https://www.betterbird.eu/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Betterbird](https://www.betterbird.eu/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Mind Mapping Tools
 
 
-- [draw.io](https://www.diagrams.net/)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[draw.io](https://www.diagrams.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Note Taking Apps
 
 
-- [Joplin](https://joplinapp.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Joplin](https://joplinapp.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Xournal++](https://xournalpp.github.io/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Xournal++](https://xournalpp.github.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Office Suites
 
 
-- [LibreOffice](https://www.libreoffice.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[LibreOffice](https://www.libreoffice.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### PDF Readers
 
 
-- [Evince](https://wiki.gnome.org/Apps/Evince)
+[Evince](https://wiki.gnome.org/Apps/Evince)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
 
-
-- [Okular](https://okular.kde.org/)
-
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Okular](https://okular.kde.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Scheduling and Calendar Apps
 
 
-- [Etar](https://github.com/Etar-Group/Etar-Calendar)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Etar](https://github.com/Etar-Group/Etar-Calendar)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Fossify Calendar](https://github.com/FossifyOrg/Calendar)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Fossify Calendar](https://github.com/FossifyOrg/Calendar)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Text Editors (CLI)
 
 
-- [GNU nano](https://www.nano-editor.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[GNU nano](https://www.nano-editor.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Vim](https://www.vim.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Vim](https://www.vim.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Text Editors (GUI)
 
 
-- [gedit](https://gedit-technology.github.io/apps/gedit/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[gedit](https://gedit-technology.github.io/apps/gedit/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Kate](https://kate-editor.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Kate](https://kate-editor.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Notepad++](https://notepad-plus-plus.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-  
-  **Platforms:** <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Notepad++](https://notepad-plus-plus.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### WebMail Providers
 
 
-- [Proton Mail](https://proton.me/mail)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Proton Mail](https://proton.me/mail)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Tuta Mail](https://tuta.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Tuta Mail](https://tuta.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Online Services
 ### App Stores for Android <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Accrescent](https://accrescent.app/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Accrescent](https://accrescent.app/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Aurora Store](https://auroraoss.com/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Aurora Store](https://auroraoss.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [F-Droid](https://f-droid.org/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[F-Droid](https://f-droid.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Obtainium](https://obtainium.imranr.dev/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Obtainium](https://obtainium.imranr.dev/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### App Stores for Linux
 
 
-- [GNOME Software](https://apps.gnome.org/app/org.gnome.Software/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[GNOME Software](https://apps.gnome.org/app/org.gnome.Software/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Flathub](https://flathub.org/)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Flathub](https://flathub.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Pornography
 
 
-- [Danbooru](https://danbooru.donmai.us/)
-  
-  **Stamps:** WARNING: Sensitive content, explicit material, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
-    
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Danbooru](https://danbooru.donmai.us/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            WARNING: Sensitive content, explicit material, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [E621](https://e621.net/posts)
-  
-  **Stamps:** WARNING: Sensitive content, explicit material, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
-    
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[E621](https://e621.net/posts)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            WARNING: Sensitive content, explicit material, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 
 ### Weather Forecast Tools
 
 
-- [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Breezy Weather](https://github.com/breezy-weather/breezy-weather)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Web Search Engines
 
 
-- [SearXNG](https://docs.searxng.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[SearXNG](https://docs.searxng.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # OS & Utilities
 ### Android Distributions
 
 
-- [GrapheneOS](https://grapheneos.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[GrapheneOS](https://grapheneos.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Application Launchers for Android
 
 
-- [Lawnchair](https://lawnchair.app/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Lawnchair](https://lawnchair.app/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Boot Managers
 
 
-- [GRUB](http://www.gnu.org/software/grub/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[GRUB](http://www.gnu.org/software/grub/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Compatibility Layer Tools
 
-- [Wine](https://www.winehq.org/)
+[Wine](https://www.winehq.org/)
   
   **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
   
@@ -1016,271 +2486,721 @@ This is a list of the platforms software is currently available on. "Apple produ
 ### Desktop Environments
 
 
-- [GNOME](https://www.gnome.org/)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[GNOME](https://www.gnome.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [KDE Plasma](https://kde.org/plasma-desktop)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[KDE Plasma](https://kde.org/plasma-desktop)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Disk Usage Analyzers
 
 
-- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [GNOME Disk Usage Analyzer](https://wiki.gnome.org/Apps/DiskUsageAnalyzer)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[GNOME Disk Usage Analyzer](https://wiki.gnome.org/Apps/DiskUsageAnalyzer)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [WinDirStat](https://windirstat.net/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[WinDirStat](https://windirstat.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Linux Distros <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Arch Linux](https://www.archlinux.org/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[Arch Linux](https://www.archlinux.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Fedora](https://fedoraproject.org/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[Fedora](https://fedoraproject.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [NixOS](https://nixos.org/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[NixOS](https://nixos.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Mobile Keyboards for Android
 
 
-- [HeliBoard](https://github.com/Helium314/HeliBoard)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[HeliBoard](https://github.com/Helium314/HeliBoard)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Operating Systems
 
 
-- [Tails](https://tails.net/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[Tails](https://tails.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Qubes OS](https://www.qubes-os.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[Qubes OS](https://www.qubes-os.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Survival Apps
 
 
-- [Trail Sense](https://kylecorry.com/Trail-Sense/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Trail Sense](https://kylecorry.com/Trail-Sense/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### System Cleaners
 
 
-- [BleachBit](https://www.bleachbit.org/)
-
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[BleachBit](https://www.bleachbit.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Terminal Emulators for Android
 
 
-- [Termux](https://termux.dev/en/)
-    
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Termux](https://termux.dev/en/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Photos & Graphics
 ### 3D Modelers
 
 
-- [Blender](https://www.blender.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Blender](https://www.blender.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### CAD Software
 
 
-- [FreeCAD](https://www.freecad.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[FreeCAD](https://www.freecad.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Digital Painting Tools
 
 
-- [Krita](https://krita.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Krita](https://krita.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Image Editors
 
 
-- [GIMP](https://www.gimp.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[GIMP](https://www.gimp.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Photo Managers <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Fossify Gallery](https://github.com/FossifyOrg/Gallery)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Aves](https://github.com/deckerst/aves)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Aves](https://github.com/deckerst/aves)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Screenshot Capture Tools
 
 
-- [Flameshot](https://flameshot.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Flameshot](https://flameshot.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Vector Graphic Apps
 
 
-- [Inkscape](https://inkscape.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Inkscape](https://inkscape.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Remote Work & Education
 ### Video Conferencing Tools <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Infomaniak kMeet](https://www.infomaniak.com/en/kmeet)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Infomaniak kMeet](https://www.infomaniak.com/en/kmeet)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Security & Privacy
 ### Authenticators
 
 
-- [Aegis Authenticator](https://getaegis.app/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Aegis Authenticator](https://getaegis.app/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Ente Auth](https://ente.io/auth/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Ente Auth](https://ente.io/auth/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Disk Encryption Tools
 
 
-- [LUKS](https://gitlab.com/cryptsetup/cryptsetup)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[LUKS](https://gitlab.com/cryptsetup/cryptsetup)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### File Encryption Software
 
 
-- [Cryptomator](https://cryptomator.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Cryptomator](https://cryptomator.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Picocrypt](https://github.com/Picocrypt/Picocrypt)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Picocrypt](https://github.com/Picocrypt/Picocrypt)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Firewalls <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -1289,704 +3209,1874 @@ This is a list of the platforms software is currently available on. "Apple produ
 ### Password Managers
 
 
-- [KeePassXC](https://keepassxc.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[KeePassXC](https://keepassxc.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [KeePassDX](https://www.keepassdx.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[KeePassDX](https://www.keepassdx.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Email Aliasing Services
 
 
-- [addy.io](https://addy.io/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[addy.io](https://addy.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Virtual Private Network Apps
 
 
-- [Mullvad](https://www.mullvad.net/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Mullvad](https://www.mullvad.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Proton VPN](https://protonvpn.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Proton VPN](https://protonvpn.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Social & Communications
 ### Blog Publishing Tools
 
 
-- [WordPress](https://wordpress.org/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[WordPress](https://wordpress.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Communication Protocols <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Matrix](https://matrix.org/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Matrix](https://matrix.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [XMPP](https://xmpp.org/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[XMPP](https://xmpp.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [SMP](https://simplex.chat/docs/protocol/simplex-chat.html)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[SMP](https://simplex.chat/docs/protocol/simplex-chat.html)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Signal](https://github.com/signalapp/libsignal)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Signal](https://github.com/signalapp/libsignal)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Dating Services
 
 
-- [Alovoa](https://alovoa.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Alovoa](https://alovoa.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Instant Messengers
 
 
-- [Briar](https://briarproject.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Briar](https://briarproject.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [SimpleX Chat](https://simplex.chat/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[SimpleX Chat](https://simplex.chat/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Microblogs
 
 
-- [Mastodon](https://joinmastodon.org/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Mastodon](https://joinmastodon.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Short-Form Video
 
 
-- [Loops](https://loops.video/)
-    
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Loops](https://loops.video/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [ProxiTok](https://github.com/pablouser1/ProxiTok)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[ProxiTok](https://github.com/pablouser1/ProxiTok)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Social Networks
 
 
-- [Lemmy](https://join-lemmy.org/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Lemmy](https://join-lemmy.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Photo Sharing Apps
 
 
-- [Pixelfed](https://pixelfed.org/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Pixelfed](https://pixelfed.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Random Video Chat Apps
 
 
-- [Live Talk](https://play.google.com/store/apps/details?id=com.mcastrangertalk.livetalkrandome)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Live Talk](https://play.google.com/store/apps/details?id=com.mcastrangertalk.livetalkrandome)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Sport & Health
 ### Beauty Product Information Tools
 
 
-- [Open Beauty Facts](https://world.openbeautyfacts.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Open Beauty Facts](https://world.openbeautyfacts.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Breathing Exercise Tools
 
 
-- [Inner Breeze](https://inbreeze.xyz/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Inner Breeze](https://inbreeze.xyz/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Diabetic Trackers
 
 
-- [Diaguard](https://diaguard.wordpress.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Diaguard](https://diaguard.wordpress.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Diet Creation Tools
 
 
-- [Daily Dozen](https://nutritionfacts.org/open-source/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Daily Dozen](https://nutritionfacts.org/open-source/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Fitness Trackers
 
 
-- [Gadgetbridge](https://gadgetbridge.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Gadgetbridge](https://gadgetbridge.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Gym Exercise Trackers
 
 
-- [Massive](https://github.com/brandonp2412/Massive)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Massive](https://github.com/brandonp2412/Massive)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Habit Trackers
 
 
-- [Loop Habit Tracker](https://github.com/iSoron/uhabits)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Loop Habit Tracker](https://github.com/iSoron/uhabits)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Table Habit](https://github.com/FriesI23/mhabit)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Table Habit](https://github.com/FriesI23/mhabit)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Medicine Reminder Tools
 
 
-- [Simpill](https://gitlab.com/simpilldev/simpill)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Simpill](https://gitlab.com/simpilldev/simpill)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Meditation Tools
 
 
-- [Medito](https://meditofoundation.org/medito-app)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Medito](https://meditofoundation.org/medito-app)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Menstrual Cycle Trackers
 
 
-- [drip.](https://bloodyhealth.gitlab.io/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[drip.](https://bloodyhealth.gitlab.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Mensinator](https://github.com/EmmaTellblom/Mensinator)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Mensinator](https://github.com/EmmaTellblom/Mensinator)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Mood Trackers
 
 
-- [Pixy](https://pixy.day/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Pixy](https://pixy.day/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Nutrition Information Tools
 
 
-- [Open Food Facts](https://world.openfoodfacts.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Open Food Facts](https://world.openfoodfacts.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Pedometers
 
 
-- [Paseo](https://gitlab.com/pardomi/paseo)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Paseo](https://gitlab.com/pardomi/paseo)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Physical Activity Trackers 
 
 
-- [FitoTrack](https://codeberg.org/jannis/FitoTrack)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[FitoTrack](https://codeberg.org/jannis/FitoTrack)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [OpenTracks](https://f-droid.org/en/packages/de.dennisguse.opentracks/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[OpenTracks](https://f-droid.org/en/packages/de.dennisguse.opentracks/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Seasonal Food Information Tools
 
 
-- [Seasonal Foods Calendar](https://flunzmas.com/seasonal-foods-calendar/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Seasonal Foods Calendar](https://flunzmas.com/seasonal-foods-calendar/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Relaxation Tools
 
 
-- [Noice](https://trynoice.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Noice](https://trynoice.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Weed Trackers
 
 
-- [Petals](https://github.com/LeoColman/Petals)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Petals](https://github.com/LeoColman/Petals)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Weight & Diet Trackers
 
 
-- [Energize](https://codeberg.org/epinez/Energize)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Energize](https://codeberg.org/epinez/Energize)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [OpenNutriTracker](https://simonoppowa.github.io/OpenNutriTracker-Website/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[OpenNutriTracker](https://simonoppowa.github.io/OpenNutriTracker-Website/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [openScale](https://github.com/oliexdev/openScale)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[openScale](https://github.com/oliexdev/openScale)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Waistline](https://github.com/davidhealey/waistline)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Waistline](https://github.com/davidhealey/waistline)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Workout Routine Tools
 
 
-- [Feeel](https://gitlab.com/enjoyingfoss/feeel)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Feeel](https://gitlab.com/enjoyingfoss/feeel)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Workout Timers
 
 
-- [TimeR Machine](https://github.com/timer-machine/timer-machine-android)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[TimeR Machine](https://github.com/timer-machine/timer-machine-android)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # System & Hardware
 ### BIOS/UEFI Replacements
 
 
-- [coreboot](https://coreboot.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[coreboot](https://coreboot.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Libreboot](https://www.libreboot.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[Libreboot](https://www.libreboot.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Travel & Location
 ### Map Services
 
 
-- [OpenStreetMap](https://www.openstreetmap.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[OpenStreetMap](https://www.openstreetmap.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [OsmAnd](https://osmand.net/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[OsmAnd](https://osmand.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Organic Maps](https://organicmaps.app/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[Organic Maps](https://organicmaps.app/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [StreetComplete](https://streetcomplete.app/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[StreetComplete](https://streetcomplete.app/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Mock Location Apps
 
 
-- [Fake Traveler](https://github.com/mcastillof/FakeTraveler)
-   
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Fake Traveler](https://github.com/mcastillof/FakeTraveler)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Video & Movies
 ### Media Centers
 
 
-- [Kodi](https://kodi.tv/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Kodi](https://kodi.tv/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Jellyfin](https://jellyfin.org/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Jellyfin](https://jellyfin.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Media Players
 
 
-- [VLC Media Player](https://www.videolan.org/vlc/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[VLC Media Player](https://www.videolan.org/vlc/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Movie Streaming Services
 
 
-- [Stremio](https://www.stremio.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Stremio](https://www.stremio.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Screen Recorders
 
 
-- [OBS Studio](https://obsproject.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[OBS Studio](https://obsproject.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Video Downloaders
 
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[yt-dlp](https://github.com/yt-dlp/yt-dlp)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Video Editors <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [Kdenlive](https://kdenlive.org/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Kdenlive](https://kdenlive.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Open Video Editor](https://github.com/devhyper/open-video-editor)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Open Video Editor](https://github.com/devhyper/open-video-editor)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Video Sharing Tools
 
 
-- [Odysee](https://odysee.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Odysee](https://odysee.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [PeerTube](https://joinpeertube.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[PeerTube](https://joinpeertube.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Watch Videos Together Tools <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [OpenTogetherTube](https://opentogethertube.com/)
-  
-  **Stamps:** <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[OpenTogetherTube](https://opentogethertube.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### YouTube Clients
 
 
-- [FreeTube](https://freetubeapp.io/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[FreeTube](https://freetubeapp.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Tubular](https://github.com/polymorphicshade/Tubular)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Tubular](https://github.com/polymorphicshade/Tubular)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### YouTube Frontends
 
 
-- [Invidious](https://redirect.invidious.io/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Invidious](https://redirect.invidious.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Piped](https://github.com/TeamPiped/Piped)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+[Piped](https://github.com/TeamPiped/Piped)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Web Browsing
 ### Image Search Engines
 
 
-- [Search by Image](https://github.com/dessant/search-by-image)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Search by Image](https://github.com/dessant/search-by-image)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Web Browsers
 
 
-- [Brave](https://brave.com/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Brave](https://brave.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Mullvad Browser](https://mullvad.net/en/browser)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Mullvad Browser](https://mullvad.net/en/browser)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[Tor Browser](https://www.torproject.org/projects/torbrowser.html)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Ad Blockers
 
 
-- [uBlock Origin](https://github.com/gorhill/uBlock)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[uBlock Origin](https://github.com/gorhill/uBlock)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [NoScript](https://noscript.net/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[NoScript](https://noscript.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [Pi-hole](https://pi-hole.net/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+[Pi-hole](https://pi-hole.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 # Other
 ### Phone Number Services
 
 
-- [JMP.chat](https://jmp.chat/)
-  
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[JMP.chat](https://jmp.chat/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
-- [MySudo](https://mysudo.com/)
-  
-  **Stamps:** <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[MySudo](https://mysudo.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### QR Code Readers
 
 
-- [Binary Eye](https://www.markusfisch.de/apps-android.html#binary-eye)
-    
-  **Stamps:** <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+[Binary Eye](https://www.markusfisch.de/apps-android.html#binary-eye)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
 
 
 ### Text to Speech Service <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
 
 
-- [RHVoice](https://rhvoice.org/)
-    
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+[RHVoice](https://rhvoice.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+<hr>
