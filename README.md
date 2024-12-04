@@ -3,7 +3,7 @@ For a while now, I have been meticulously creating a list of open source softwar
 
 
 # Versioning
-**Version 57.2024.12.04.5**
+**Version 58.2024.12.04.6**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -17,7 +17,7 @@ The release code is in the format:
 This repository is mirrored on other platforms. It was originally hosted on GitHub, but is now hosted on GitLab. It was at one point accidentally deleted on GitHub, so it shows up as a fork of another user's repository there after it was restored.
 
 ### GitLab (Host)
-
+https://gitlab.com/an-anonymous-coder1/Open-Source-Everything
 
 ### GitHub (Mirror)
 https://github.com/An-anonymous-coder/Open-Source-Everything
