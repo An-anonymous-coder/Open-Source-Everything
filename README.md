@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 49.2024.12.03.6**
+**Version 50.2024.12.03.7**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -179,7 +179,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-
 
 
 ### AI Image Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -1132,11 +1131,26 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 ### Torrent Search Engines
 
+
 [BTDigg](https://btdig.com/)
-  
-  **Stamps:** <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
 
 
 # Games
@@ -2253,7 +2267,6 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-
 ### Weather Forecast Tools
 
 
@@ -2377,12 +2390,26 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 ### Compatibility Layer Tools
 
-[Wine](https://www.winehq.org/)
-  
-  **Stamps:** <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-  
-  **Platforms:** <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
 
+[Wine](https://www.winehq.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
 
 
 ### Desktop Environments
