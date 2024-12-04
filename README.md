@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 51.2024.12.03.8**
+**Version 52.2024.12.04.0**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -546,9 +546,30 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
         <td>
             <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+[Syncthing-Fork](https://github.com/Catfriend1/syncthing-android)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
         </td>
     </tr>
 </table>
@@ -2959,6 +2980,31 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
+### QR Code Readers
+
+
+[Binary Eye](https://www.markusfisch.de/apps-android.html#binary-eye)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Survival Apps
 
 
@@ -3032,6 +3078,32 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
         <td>
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Text to Speech Service <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+
+
+[RHVoice](https://rhvoice.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
 </table>
@@ -3284,6 +3356,32 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Security & Privacy
+### Anti-Virus Apps
+
+
+[ClamAV](https://www.clamav.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Authenticators
 
 
@@ -3336,6 +3434,32 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
+### Data Breach Tools
+
+
+[Have I Been Pwned?](https://haveibeenpwned.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Disk Encryption Tools
 
 
@@ -3381,6 +3505,33 @@ This is a list of the platforms software is currently available on. "Apple produ
             <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Email Aliasing Services
+
+
+[addy.io](https://addy.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
 </table>
@@ -3492,17 +3643,38 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### Email Aliasing Services
+### Phone Number Services
 
 
-[addy.io](https://addy.io/)
+[JMP.chat](https://jmp.chat/)
 <table>
     <tr>
         <td>
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+[MySudo](https://mysudo.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16">
             <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
             <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
         </td>
@@ -3512,8 +3684,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
 </table>
@@ -3531,6 +3703,7 @@ This is a list of the platforms software is currently available on. "Apple produ
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
             <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3548,6 +3721,30 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
+[Orbot](https://orbot.app/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 [Proton VPN](https://protonvpn.com/)
 <table>
     <tr>
@@ -3557,6 +3754,7 @@ This is a list of the platforms software is currently available on. "Apple produ
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
             <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5156,110 +5354,6 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Web Browsing
-### Image Search Engines
-
-
-[Search by Image](https://github.com/dessant/search-by-image)
-<table>
-    <tr>
-        <td>
-            <b>Stamps</b>
-        </td>
-        <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Platforms</b>
-        </td>
-        <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-        </td>
-    </tr>
-</table>
-
-
-### Web Browsers
-
-
-[Brave](https://brave.com/)
-<table>
-    <tr>
-        <td>
-            <b>Stamps</b>
-        </td>
-        <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Platforms</b>
-        </td>
-        <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-        </td>
-    </tr>
-</table>
-
-
-[Mullvad Browser](https://mullvad.net/en/browser)
-<table>
-    <tr>
-        <td>
-            <b>Stamps</b>
-        </td>
-        <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Platforms</b>
-        </td>
-        <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-        </td>
-    </tr>
-</table>
-
-
-[Tor Browser](https://www.torproject.org/projects/torbrowser.html)
-<table>
-    <tr>
-        <td>
-            <b>Stamps</b>
-        </td>
-        <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Platforms</b>
-        </td>
-        <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-        </td>
-    </tr>
-</table>
-
-
 ### Ad Blockers
 
 
@@ -5337,39 +5431,17 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-# Other
-### Phone Number Services
+### Chromium-based Browsers
 
 
-[JMP.chat](https://jmp.chat/)
+[Brave](https://brave.com/)
 <table>
     <tr>
         <td>
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Platforms</b>
-        </td>
-        <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-        </td>
-    </tr>
-</table>
-
-
-[MySudo](https://mysudo.com/)
-<table>
-    <tr>
-        <td>
-            <b>Stamps</b>
-        </td>
-        <td>
-            <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
             <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
             <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
         </td>
@@ -5381,21 +5453,48 @@ This is a list of the platforms software is currently available on. "Apple produ
         <td>
             <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
 </table>
 
 
-### QR Code Readers
+### Firefox-based Browsers
 
 
-[Binary Eye](https://www.markusfisch.de/apps-android.html#binary-eye)
+[Mullvad Browser](https://mullvad.net/en/browser)
 <table>
     <tr>
         <td>
             <b>Stamps</b>
         </td>
         <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+[Tor Browser](https://www.torproject.org/projects/torbrowser.html)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
             <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
             <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
         </td>
@@ -5405,23 +5504,26 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
 </table>
 
 
-### Text to Speech Service <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Image Search Engines
 
 
-[RHVoice](https://rhvoice.org/)
+[Search by Image](https://github.com/dessant/search-by-image)
 <table>
     <tr>
         <td>
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5429,9 +5531,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
 </table>
