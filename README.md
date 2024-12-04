@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 54.2024.12.04.2**
+**Version 55.2024.12.04.3**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -110,8 +110,6 @@ This is a list of the platforms software is currently available on. "Apple produ
 [Video & Movies](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#video--movies)
 
 [Web Browsing](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#web-browsing)
-
-[Other](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything/#other)
 
 
 # AI Tools & Services
@@ -2555,6 +2553,31 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
+### Crowdfunding Services
+
+
+[Liberapay](https://liberapay.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+
 ### Pornography
 
 
@@ -3266,6 +3289,53 @@ This is a list of the platforms software is currently available on. "Apple produ
             <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Camera Apps
+
+
+[Open Camera](https://opencamera.org.uk/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+[Secure Camera](https://github.com/GrapheneOS/Camera)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
         </td>
     </tr>
 </table>
