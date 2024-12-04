@@ -1,9 +1,9 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
-For a while now I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very few software here are proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. Sections and software marked with "This section needs improved" may not be best software and require further examination to come to a decision. 
+For a while now, I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very little software here is proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. Sections and software marked with "This section needs to be improved" may not be the best software and require further examination to come to a decision.
 
 
 # Versioning
-**Version 55.2024.12.04.3**
+**Version 56.2024.12.04.4**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -30,17 +30,17 @@ Coming soon!
 ### Stamps
 Stamps give you a general idea of the consensus around a piece of software. This helps you better gague which software is highly recommended by me or the community as a whole. 
 
-<img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16"> = Verified best software
+<img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16"> = Verified best software
 
-<img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16"> = My top choices
+<img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16"> = My top choices
 
-<img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> = I have personally used and inspected this software
+<img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16"> = I have personally used and inspected this software
 
-<img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16"> = Software is proprietary
+<img alt="This software is proprietary" src="Assets/Stamps/Proprietary.png" height="16"> = This software is proprietary
 
-<img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16"> = Software is outdated/abandoned
+<img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.png" height="16"> = This software is outdated or abandoned
 
-<img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16"> = This section needs improved
+<img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16"> = This section needs to be improved
 
 ### Platforms
 This is a list of the platforms software is currently available on. "Apple products" includes iOS, macOS, and iPadOS.
@@ -113,7 +113,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # AI Tools & Services
-### AI Chatbots <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### AI Chatbots <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [GPT4ALL](https://gpt4all.io/)
@@ -123,7 +123,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -169,8 +169,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -186,7 +186,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### AI Image Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### AI Image Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Craiyon](https://www.craiyon.com/)
@@ -196,7 +196,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -217,7 +217,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -234,7 +234,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### AI Music Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### AI Music Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Stable Audio Open](https://huggingface.co/stabilityai/stable-audio-open-1.0)
@@ -244,7 +244,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -258,7 +258,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### AI Video Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### AI Video Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Hotshot](https://hotshot.co/)
@@ -268,7 +268,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -289,7 +289,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -310,7 +310,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -331,7 +331,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -356,9 +356,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -384,9 +384,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-            <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.png" height="16">
         </td>
     </tr>
     <tr>
@@ -407,8 +407,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -432,8 +432,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -458,7 +458,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -481,7 +481,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -496,7 +496,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### Cloud Storage Services <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Cloud Storage Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Nextcloud](https://nextcloud.com/)
@@ -506,7 +506,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -534,8 +534,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -558,8 +558,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -584,7 +584,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -608,7 +608,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -635,9 +635,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -654,7 +654,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # CD/DVD Tools
-### Bootable USB Creators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Bootable USB Creators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [belenaEtcher](https://etcher.balena.io/)
@@ -664,7 +664,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -687,9 +687,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -710,7 +710,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -731,7 +731,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -756,9 +756,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -783,9 +783,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -808,8 +808,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -836,7 +836,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -860,8 +860,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -883,7 +883,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -907,9 +907,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -936,7 +936,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -959,7 +959,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -985,9 +985,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1014,9 +1014,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1042,7 +1042,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1066,8 +1066,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1094,7 +1094,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1118,9 +1118,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1137,7 +1137,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # File Management
-### File Archivers <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### File Archivers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [7-Zip](https://www.7-zip.org/)
@@ -1147,7 +1147,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1170,7 +1170,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1197,7 +1197,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1221,9 +1221,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1247,9 +1247,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1277,8 +1277,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1301,8 +1301,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1326,7 +1326,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1351,8 +1351,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1375,9 +1375,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1401,8 +1401,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1429,8 +1429,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1451,8 +1451,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> 
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16"> 
         </td>
     </tr>
     <tr>
@@ -1477,8 +1477,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1493,10 +1493,10 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Gaming Software
-### Anti-Cheat Tools <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Anti-Cheat Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
-### Game Emulators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Game Emulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [RetroArch](https://retroarch.com/)
@@ -1506,7 +1506,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1525,7 +1525,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Home & Family
-### Genealogy Tools <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Genealogy Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Gramps](https://gramps-project.org/blog/)
@@ -1535,7 +1535,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1561,7 +1561,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1580,7 +1580,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Network & Admin
-### CAPTCHAs <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### CAPTCHAs <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [mCaptcha](https://mcaptcha.org/)
@@ -1590,7 +1590,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1604,7 +1604,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### DNS Resolvers <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### DNS Resolvers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
@@ -1614,7 +1614,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16"> 
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16"> 
         </td>
     </tr>
     <tr>
@@ -1639,7 +1639,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1667,9 +1667,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1692,9 +1692,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1710,7 +1710,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### Router Custom Firmwares <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Router Custom Firmwares <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [DD-WRT](https://dd-wrt.com/)
@@ -1720,7 +1720,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1743,7 +1743,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1764,7 +1764,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1788,8 +1788,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1812,9 +1812,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1841,7 +1841,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1866,9 +1866,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1889,7 +1889,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1913,8 +1913,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1937,7 +1937,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1961,8 +1961,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -1987,7 +1987,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2010,7 +2010,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2036,8 +2036,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2064,9 +2064,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2091,7 +2091,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2117,9 +2117,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2146,7 +2146,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2167,7 +2167,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2192,8 +2192,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2214,9 +2214,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2240,9 +2240,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2265,8 +2265,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2292,9 +2292,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2317,8 +2317,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2341,7 +2341,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2365,9 +2365,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2392,9 +2392,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2413,7 +2413,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Online Services
-### App Stores for Android <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### App Stores for Android <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Accrescent](https://accrescent.app/)
@@ -2423,9 +2423,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2446,7 +2446,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2467,7 +2467,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2489,9 +2489,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2516,7 +2516,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2537,8 +2537,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2563,7 +2563,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2623,7 +2623,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### URL Shorteners <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### URL Shorteners <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [url.zip](https://www.url.zip/)
@@ -2633,7 +2633,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2654,7 +2654,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2678,9 +2678,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2704,9 +2704,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2732,9 +2732,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2758,9 +2758,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2784,9 +2784,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2812,9 +2812,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2840,8 +2840,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2862,8 +2862,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2887,7 +2887,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2908,9 +2908,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2932,7 +2932,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2946,7 +2946,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### Linux Distros <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Linux Distros <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Arch Linux](https://www.archlinux.org/)
@@ -2956,7 +2956,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2977,7 +2977,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -2998,7 +2998,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3019,7 +3019,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3043,9 +3043,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3069,9 +3069,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3092,9 +3092,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3118,8 +3118,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3143,9 +3143,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3169,8 +3169,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3196,8 +3196,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3211,7 +3211,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### Text to Speech Service <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Text to Speech Service <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [RHVoice](https://rhvoice.org/)
@@ -3221,7 +3221,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3248,9 +3248,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3276,9 +3276,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3304,8 +3304,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3326,8 +3326,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3351,9 +3351,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3379,9 +3379,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3397,7 +3397,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### Photo Managers <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Photo Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
@@ -3407,8 +3407,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3429,9 +3429,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3455,9 +3455,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3483,9 +3483,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3502,7 +3502,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Remote Work & Education
-### Video Conferencing Tools <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Video Conferencing Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Infomaniak kMeet](https://www.infomaniak.com/en/kmeet)
@@ -3512,7 +3512,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3541,7 +3541,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3567,9 +3567,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3590,8 +3590,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3619,9 +3619,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3645,9 +3645,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3668,8 +3668,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3695,9 +3695,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3722,8 +3722,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3747,8 +3747,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3764,7 +3764,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### Firewalls <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Firewalls <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 ### Password Managers
@@ -3777,9 +3777,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3802,9 +3802,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3828,7 +3828,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3849,9 +3849,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3876,9 +3876,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3903,9 +3903,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3927,9 +3927,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3957,7 +3957,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3975,7 +3975,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### Communication Protocols <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Communication Protocols <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Matrix](https://matrix.org/)
@@ -3985,7 +3985,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4010,7 +4010,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4035,7 +4035,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4059,7 +4059,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4086,7 +4086,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4111,9 +4111,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4137,9 +4137,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4166,7 +4166,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4192,9 +4192,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4216,8 +4216,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4241,7 +4241,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4267,7 +4267,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4292,7 +4292,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4318,9 +4318,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4345,9 +4345,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4372,9 +4372,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4398,9 +4398,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4425,9 +4425,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4451,9 +4451,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4477,8 +4477,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4499,8 +4499,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4524,10 +4524,10 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-            <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4551,9 +4551,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4578,9 +4578,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4602,8 +4602,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4627,10 +4627,10 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-            <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4655,9 +4655,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4683,10 +4683,10 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-            <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4710,9 +4710,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4733,8 +4733,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4758,10 +4758,10 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-            <img alt="Software is outdated or abandoned" src="Assets/Stamps/Software_is_outdated_or_abandoned.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4785,9 +4785,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4811,9 +4811,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4837,8 +4837,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4859,8 +4859,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4882,8 +4882,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4904,8 +4904,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4929,9 +4929,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4955,9 +4955,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -4982,8 +4982,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5004,8 +5004,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5030,9 +5030,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5053,8 +5053,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5076,9 +5076,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5101,9 +5101,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5127,8 +5127,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5153,7 +5153,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5177,7 +5177,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5204,9 +5204,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5233,7 +5233,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5260,9 +5260,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5288,9 +5288,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5306,7 +5306,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### Video Editors <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Video Editors <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [Kdenlive](https://kdenlive.org/)
@@ -5316,7 +5316,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5339,9 +5339,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5365,8 +5365,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5389,8 +5389,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5405,7 +5405,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### Watch Videos Together Tools <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+### Watch Videos Together Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
 [OpenTogetherTube](https://opentogethertube.com/)
@@ -5415,7 +5415,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5439,9 +5439,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5464,9 +5464,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5490,9 +5490,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5513,8 +5513,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5539,9 +5539,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5565,9 +5565,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5591,8 +5591,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5616,9 +5616,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5645,8 +5645,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5669,9 +5669,9 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5698,7 +5698,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Verified_best_software.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
         </td>
     </tr>
     <tr>
