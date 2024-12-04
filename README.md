@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 52.2024.12.04.0**
+**Version 53.2024.12.04.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -576,34 +576,6 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Business & Commerce
-### Virtual Card Services
-
-
-[Privacy.com](https://privacy.com/)
-<table>
-    <tr>
-        <td>
-            <b>Stamps</b>
-        </td>
-        <td>
-            <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Platforms</b>
-        </td>
-        <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
-        </td>
-    </tr>
-</table>
-
-
 ### Personal Finance Tools
 
 
@@ -649,6 +621,34 @@ This is a list of the platforms software is currently available on. "Apple produ
             <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Virtual Card Services
+
+
+[Privacy.com](https://privacy.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Software is proprietary" src="Assets/Stamps/Software_is_proprietary.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/My_top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
@@ -2527,6 +2527,51 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
         <td>
             WARNING: Sensitive content, explicit material, adult, inappropriate, mature, NSFW, 18+, pornography, nudity, etc. 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### URL Shorteners <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
+
+
+[url.zip](https://www.url.zip/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+[v.gd](https://v.gd/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/I_have_personally_used_and_inspected_this_software.png" height="16">
         </td>
     </tr>
     <tr>
