@@ -3,7 +3,7 @@ For a while now I have been meticulously creating a list of open source software
 
 
 # Versioning
-**Version 48.2024.12.03.5**
+**Version 49.2024.12.03.6**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -137,7 +137,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Ollama](https://ollama.com/)
@@ -159,7 +158,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Venice](https://venice.ai/)
@@ -181,7 +179,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 
@@ -207,7 +204,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [FLUX.1](https://blackforestlabs.ai/)
@@ -229,7 +225,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### AI Music Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -254,7 +249,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### AI Video Generators <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -279,7 +273,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Mochi AI](https://www.genmo.ai/)
@@ -301,7 +294,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Samsar](https://www.samsar.one/)
@@ -323,7 +315,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Stable Video Diffusion](https://stability.ai/stable-video)
@@ -345,7 +336,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Audio & Music
@@ -371,7 +361,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Music Recognition Apps
@@ -396,7 +385,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
@@ -418,7 +406,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Podcast Players
@@ -443,7 +430,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Backup & Sync
@@ -469,7 +455,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Vorta](https://vorta.borgbase.com/)
@@ -491,7 +476,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Cloud Storage Services <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -516,7 +500,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### File Sync Tools
@@ -541,7 +524,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Business & Commerce
@@ -567,7 +549,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Personal Finance Tools
@@ -592,7 +573,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Survey Creators
@@ -617,7 +597,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # CD/DVD Tools
@@ -643,7 +622,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [EtchDroid](https://etchdroid.app/)
@@ -665,7 +643,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Rufus](https://rufus.ie/)
@@ -687,7 +664,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Ventoy](https://www.ventoy.net/)
@@ -709,7 +685,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Disc Burners
@@ -734,7 +709,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Development
@@ -760,7 +734,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [GNU Emacs](https://www.gnu.org/software/emacs/)
@@ -782,7 +755,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Pastebin Services
@@ -807,7 +779,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Source Code Hosting Services
@@ -832,7 +803,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Codeberg](https://codeberg.org/)
@@ -854,7 +824,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Digital Coins & Cryptocurrency
@@ -880,7 +849,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Education & Reference
@@ -906,7 +874,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Flashcard Learning Tools
@@ -931,7 +898,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Grammar Checkers
@@ -956,7 +922,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Sky Maps
@@ -981,7 +946,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Web Archiving Services
@@ -1006,7 +970,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # File Management
@@ -1032,7 +995,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [PeaZip](https://peazip.github.io/)
@@ -1054,7 +1016,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # File Sharing
@@ -1080,7 +1041,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [LocalSend](https://localsend.org/)
@@ -1102,7 +1062,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [OnionShare](https://onionshare.org/)
@@ -1124,7 +1083,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Torrent Clients
@@ -1149,7 +1107,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)
@@ -1171,7 +1128,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Torrent Search Engines
@@ -1206,7 +1162,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [blichess](https://github.com/vovagorodok/blichess)
@@ -1228,7 +1183,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Music Games
@@ -1253,7 +1207,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Puzzle Games
@@ -1278,7 +1231,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Simon Tatham's Portable Puzzle Collection](http://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
@@ -1300,7 +1252,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Open Sudoku](https://opensudoku.moire.org/)
@@ -1322,7 +1273,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Gaming Software
@@ -1348,7 +1298,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Home & Family
@@ -1374,7 +1323,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Network & Admin
@@ -1400,7 +1348,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### DNS Resolvers <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -1425,7 +1372,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Control D](https://controld.com/free-dns)
@@ -1447,7 +1393,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Network Monitors
@@ -1472,7 +1417,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Nmap](http://nmap.org/)
@@ -1494,7 +1438,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Router Custom Firmwares <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -1519,7 +1462,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [OPNsense](https://opnsense.org/)
@@ -1541,7 +1483,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [OpenWrt](https://openwrt.org/)
@@ -1563,7 +1504,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Virtualization Tools 
@@ -1588,7 +1528,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Docker](https://www.docker.com/)
@@ -1610,7 +1549,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Work Profile for Android
@@ -1635,7 +1573,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # News & Books
@@ -1661,7 +1598,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Open Library](https://openlibrary.org/)
@@ -1683,7 +1619,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Ebook Readers
@@ -1708,7 +1643,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Librera Reader](https://librera.mobi/)
@@ -1730,7 +1664,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### RSS Readers
@@ -1755,7 +1688,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Office & Productivity
@@ -1781,7 +1713,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Betterbird](https://www.betterbird.eu/)
@@ -1803,7 +1734,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Mind Mapping Tools
@@ -1828,7 +1758,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Note Taking Apps
@@ -1853,7 +1782,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Xournal++](https://xournalpp.github.io/)
@@ -1875,7 +1803,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Office Suites
@@ -1900,7 +1827,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### PDF Readers
@@ -1925,7 +1851,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Okular](https://okular.kde.org/)
@@ -1947,7 +1872,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Scheduling and Calendar Apps
@@ -1972,7 +1896,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Fossify Calendar](https://github.com/FossifyOrg/Calendar)
@@ -1994,7 +1917,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Text Editors (CLI)
@@ -2019,7 +1941,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Vim](https://www.vim.org/)
@@ -2041,7 +1962,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Text Editors (GUI)
@@ -2066,7 +1986,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Kate](https://kate-editor.org/)
@@ -2088,7 +2007,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Notepad++](https://notepad-plus-plus.org/)
@@ -2110,7 +2028,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### WebMail Providers
@@ -2135,7 +2052,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Tuta Mail](https://tuta.com/)
@@ -2157,7 +2073,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Online Services
@@ -2183,7 +2098,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Aurora Store](https://auroraoss.com/)
@@ -2205,7 +2119,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [F-Droid](https://f-droid.org/)
@@ -2227,7 +2140,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Obtainium](https://obtainium.imranr.dev/)
@@ -2249,7 +2161,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### App Stores for Linux
@@ -2274,7 +2185,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Flathub](https://flathub.org/)
@@ -2296,7 +2206,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Pornography
@@ -2321,7 +2230,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [E621](https://e621.net/posts)
@@ -2343,7 +2251,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 
@@ -2369,7 +2276,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Web Search Engines
@@ -2394,7 +2300,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # OS & Utilities
@@ -2420,7 +2325,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Application Launchers for Android
@@ -2445,7 +2349,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Boot Managers
@@ -2470,7 +2373,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Compatibility Layer Tools
@@ -2505,7 +2407,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [KDE Plasma](https://kde.org/plasma-desktop)
@@ -2527,7 +2428,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Disk Usage Analyzers
@@ -2552,7 +2452,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [GNOME Disk Usage Analyzer](https://wiki.gnome.org/Apps/DiskUsageAnalyzer)
@@ -2574,7 +2473,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [WinDirStat](https://windirstat.net/)
@@ -2596,7 +2494,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Linux Distros <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -2621,7 +2518,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Fedora](https://fedoraproject.org/)
@@ -2643,7 +2539,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [NixOS](https://nixos.org/)
@@ -2665,7 +2560,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
@@ -2687,7 +2581,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Mobile Keyboards for Android
@@ -2712,7 +2605,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Operating Systems
@@ -2737,7 +2629,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Qubes OS](https://www.qubes-os.org/)
@@ -2759,7 +2650,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Survival Apps
@@ -2784,7 +2674,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### System Cleaners
@@ -2809,7 +2698,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Terminal Emulators for Android
@@ -2834,7 +2722,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Photos & Graphics
@@ -2860,7 +2747,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### CAD Software
@@ -2885,7 +2771,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Digital Painting Tools
@@ -2910,7 +2795,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Image Editors
@@ -2935,7 +2819,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Photo Managers <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -2960,7 +2843,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Aves](https://github.com/deckerst/aves)
@@ -2982,7 +2864,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Screenshot Capture Tools
@@ -3007,7 +2888,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Vector Graphic Apps
@@ -3032,7 +2912,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Remote Work & Education
@@ -3058,7 +2937,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Security & Privacy
@@ -3084,7 +2962,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Ente Auth](https://ente.io/auth/)
@@ -3106,7 +2983,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Disk Encryption Tools
@@ -3131,7 +3007,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
@@ -3153,7 +3028,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### File Encryption Software
@@ -3178,7 +3052,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Picocrypt](https://github.com/Picocrypt/Picocrypt)
@@ -3200,7 +3073,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Firewalls <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -3228,7 +3100,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [KeePassDX](https://www.keepassdx.com/)
@@ -3250,7 +3121,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Email Aliasing Services
@@ -3275,7 +3145,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Virtual Private Network Apps
@@ -3300,7 +3169,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Proton VPN](https://protonvpn.com/)
@@ -3322,7 +3190,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Social & Communications
@@ -3348,7 +3215,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Communication Protocols <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -3373,7 +3239,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [XMPP](https://xmpp.org/)
@@ -3395,7 +3260,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [SMP](https://simplex.chat/docs/protocol/simplex-chat.html)
@@ -3417,7 +3281,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Signal](https://github.com/signalapp/libsignal)
@@ -3439,7 +3302,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Dating Services
@@ -3464,7 +3326,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Instant Messengers
@@ -3489,7 +3350,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [SimpleX Chat](https://simplex.chat/)
@@ -3511,7 +3371,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Microblogs
@@ -3536,7 +3395,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Short-Form Video
@@ -3561,7 +3419,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [ProxiTok](https://github.com/pablouser1/ProxiTok)
@@ -3583,7 +3440,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Social Networks
@@ -3608,7 +3464,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Photo Sharing Apps
@@ -3633,7 +3488,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Random Video Chat Apps
@@ -3658,7 +3512,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Sport & Health
@@ -3684,7 +3537,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Breathing Exercise Tools
@@ -3709,7 +3561,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Diabetic Trackers
@@ -3734,7 +3585,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Diet Creation Tools
@@ -3759,7 +3609,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Fitness Trackers
@@ -3784,7 +3633,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Gym Exercise Trackers
@@ -3809,7 +3657,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Habit Trackers
@@ -3834,7 +3681,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Table Habit](https://github.com/FriesI23/mhabit)
@@ -3856,7 +3702,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Medicine Reminder Tools
@@ -3881,7 +3726,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Meditation Tools
@@ -3906,7 +3750,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Menstrual Cycle Trackers
@@ -3931,7 +3774,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Mensinator](https://github.com/EmmaTellblom/Mensinator)
@@ -3953,7 +3795,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Mood Trackers
@@ -3978,7 +3819,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Nutrition Information Tools
@@ -4003,7 +3843,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Pedometers
@@ -4028,7 +3867,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Physical Activity Trackers 
@@ -4053,7 +3891,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [OpenTracks](https://f-droid.org/en/packages/de.dennisguse.opentracks/)
@@ -4075,7 +3912,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Seasonal Food Information Tools
@@ -4100,7 +3936,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Relaxation Tools
@@ -4125,7 +3960,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Weed Trackers
@@ -4150,7 +3984,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Weight & Diet Trackers
@@ -4175,7 +4008,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [OpenNutriTracker](https://simonoppowa.github.io/OpenNutriTracker-Website/)
@@ -4197,7 +4029,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [openScale](https://github.com/oliexdev/openScale)
@@ -4219,7 +4050,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Waistline](https://github.com/davidhealey/waistline)
@@ -4241,7 +4071,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Workout Routine Tools
@@ -4266,7 +4095,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Workout Timers
@@ -4291,7 +4119,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # System & Hardware
@@ -4317,7 +4144,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Libreboot](https://www.libreboot.org/)
@@ -4339,7 +4165,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Travel & Location
@@ -4365,7 +4190,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [OsmAnd](https://osmand.net/)
@@ -4387,7 +4211,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Organic Maps](https://organicmaps.app/)
@@ -4409,7 +4232,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [StreetComplete](https://streetcomplete.app/)
@@ -4431,7 +4253,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Mock Location Apps
@@ -4456,7 +4277,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Video & Movies
@@ -4482,7 +4302,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Jellyfin](https://jellyfin.org/)
@@ -4504,7 +4323,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Media Players
@@ -4529,7 +4347,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Movie Streaming Services
@@ -4554,7 +4371,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Screen Recorders
@@ -4579,7 +4395,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Video Downloaders
@@ -4604,7 +4419,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Video Editors <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -4629,7 +4443,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Open Video Editor](https://github.com/devhyper/open-video-editor)
@@ -4651,7 +4464,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Video Sharing Tools
@@ -4676,7 +4488,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [PeerTube](https://joinpeertube.org/)
@@ -4698,7 +4509,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Watch Videos Together Tools <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
@@ -4723,7 +4533,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### YouTube Clients
@@ -4748,7 +4557,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Tubular](https://github.com/polymorphicshade/Tubular)
@@ -4770,7 +4578,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### YouTube Frontends
@@ -4795,7 +4602,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Piped](https://github.com/TeamPiped/Piped)
@@ -4817,7 +4623,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Web Browsing
@@ -4843,7 +4648,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Web Browsers
@@ -4868,7 +4672,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Mullvad Browser](https://mullvad.net/en/browser)
@@ -4890,7 +4693,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
@@ -4912,7 +4714,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Ad Blockers
@@ -4937,7 +4738,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [NoScript](https://noscript.net/)
@@ -4959,7 +4759,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [Pi-hole](https://pi-hole.net/)
@@ -4981,7 +4780,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 # Other
@@ -5007,7 +4805,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 [MySudo](https://mysudo.com/)
@@ -5029,7 +4826,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### QR Code Readers
@@ -5054,7 +4850,6 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
     </tr>
 </table>
-<hr>
 
 
 ### Text to Speech Service <img alt="This section needs improved" src="Assets/Stamps/This_section_needs_improved.png" height="16">
