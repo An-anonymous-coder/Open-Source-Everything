@@ -3,7 +3,7 @@ For a while now, I have been meticulously creating a list of open source softwar
 
 
 # Versioning
-**Version 58.2024.12.04.6**
+**Version 59.2024.12.08.0**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -1856,6 +1856,32 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # News & Books
+### Bible Study Tools
+
+
+[AndBible](https://andbible.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Ebook Libraries
 
 
@@ -1977,6 +2003,32 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Office & Productivity
+### Clipboard Managers
+
+
+[CopyQ](https://hluk.github.io/CopyQ/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Email Clients
 
 
