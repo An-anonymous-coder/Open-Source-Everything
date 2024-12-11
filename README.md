@@ -3,7 +3,7 @@ For a while now, I have been meticulously creating a list of open source softwar
 
 
 # Versioning
-**Version 60.2024.12.11.0**
+**Version 61.2024.12.11.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -217,6 +217,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
             <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
@@ -2427,6 +2428,33 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Time Tracking Tools
+
+
+[ActivityWatch](https://activitywatch.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
@@ -5207,6 +5235,7 @@ This is a list of the platforms software is currently available on. "Apple produ
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
             <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.png" height="16">
         </td>
     </tr>
     <tr>
@@ -5341,6 +5370,55 @@ This is a list of the platforms software is currently available on. "Apple produ
             <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
             <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Video Converters
+
+
+[FFmpeg](https://ffmpeg.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+[HandBrake](https://handbrake.fr/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
         </td>
     </tr>
     <tr>
