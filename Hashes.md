@@ -1,6 +1,9 @@
 This file contains SHA256 hashes of the README.md file for each release.
 
-# 61.2024.12.11.1 (Latest)
+# 62.2024.12.15.0 (Latest)
+`6ba602dd80784d246539659e51703cc2adc2613258b2aef2dded2fc3cfee1ea7`
+
+# 61.2024.12.11.1
 `69de3507ca1d72f672281f92a53b2c83908d885f0a1498cd8ea589056cfa099b`
 
 # 60.2024.12.11.0
@@ -141,7 +144,7 @@ This file contains SHA256 hashes of the README.md file for each release.
 # 15.2024.10.11.0 (Ported to GitLab)
 `9dc1efa26146831e97c7474eb22e0de3a102d499306f4fd660fef2d86d52183d`
 
-# 14.2024.10.09.1-DEPRECATED (Latest GitHub release)
+# 14.2024.10.09.1-DEPRECATED (Latest GitHub "Host" release)
 `6fe8b369df971de40bf70c44f5e5a5ea6ceb744cf821c808be565142540208fc`
 
 # 14.2024.10.09.1

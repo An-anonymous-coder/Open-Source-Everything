@@ -3,7 +3,7 @@ For a while now, I have been meticulously creating a list of open source softwar
 
 
 # Versioning
-**Version 61.2024.12.11.1**
+**Version 62.2024.12.15.0**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -800,6 +800,34 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Development
+### Android Development Tools
+
+
+[Android Studio](https://developer.android.com/studio)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Code Editors
 
 
@@ -848,6 +876,33 @@ This is a list of the platforms software is currently available on. "Apple produ
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Game Development Tools
+
+
+[Godot Engine](https://godotengine.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
 </table>
@@ -3338,6 +3393,30 @@ This is a list of the platforms software is currently available on. "Apple produ
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Virtual Assistant
+
+
+[Dicio](https://github.com/Stypox/dicio-android)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
         </td>
     </tr>
 </table>
