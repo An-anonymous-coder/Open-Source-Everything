@@ -26,9 +26,11 @@ You can support the project by:
 - Contributing to the actual software that is listed
 - Anything else you can think of
 
+Copying my list without making changes *does not help*, and only creates confusion for people trying to find the original, up-to-date list. Modifying this list to make it your own *is* alright, since not everyone will agree with my decisions here. The software has and always will remain under the GPLv3 license, so I have no control over what you do or don't do.
+
 # Why is *insert some Firefox-based browser here* not on this list?
 
-Most Firefox-based browsers cannot be recommended in good faith due to their poor implementation of per-site process isolation, [especially on Android](https://divestos.org/pages/browsers#processIsolation). Firefox *does* have an implementation for the desktop versions of the browser, called Fission, but [it is still weaker than the Chromium implementation](https://madaidans-insecurities.github.io/firefox-chromium.html#sandboxing). Mullvad Browser and the Tor Browser are the only exceptions, because their privacy benefits with fingerprinting resistance outweigh the security issues.
+Most Firefox-based browsers cannot be recommended in good faith due to their poor implementation of per-site process isolation, [especially on Android](https://divestos.org/pages/browsers#processIsolation). Firefox *does* have an implementation called Fission, for the desktop versions of the browser, but [it is still weaker than the Chromium implementation](https://madaidans-insecurities.github.io/firefox-chromium.html#sandboxing). Mullvad Browser and the Tor Browser are the only exceptions, because their privacy benefits with fingerprinting resistance outweigh the security issues.
 
 # Why is Bitwarden not included in this list?
 
@@ -47,3 +49,7 @@ Essentially, Audacity was bought, and made some mistakes. It currently **does no
 # Why did you move this project from GitHub to GitLab?
 
 I accidentally deleted the GitHub repository, and I needed somewhere to quickly get the project back up, in case GitHub couldn't restore it. GitHub requires a paid account to be able to restore deleted repositories, so it was a gamble whether GitHub support would bend the rules a bit. Thankfully, they were able to recover the project, at the cost of it falsely being marked as a fork of a different user, who had previously forked my project. GitLab seemed like a good choice since it is open source and hosts a lot of other big open source projects, but it may be moved to Codeberg in the future, due to some security concerns.
+
+# Why are some adult content software suggestions included?
+
+The goal of Open Source Everything is to provide the best open source options for *everything*, and this is one of very few lists that made the decision to include an adult content section. This is kept minimal, and I will rarely ever make changes to it. If you aren't alright with this, it's easy enough to ignore, or make your own list that excludes it. 
