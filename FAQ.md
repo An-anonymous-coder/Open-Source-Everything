@@ -13,6 +13,7 @@ Instead, I highly encourage you to donate to any of the software listed in the p
 # How can I support the project without donations?
 
 You can support the project by:
+- Filling in gaps placemarked by the "This section needs to be improved" stamp
 - Reporting or fixing typos or grammar mistakes
 - Reporting or fixing incorrect/broken links
 - Reporting or fixing incorrect "Platform" badges
