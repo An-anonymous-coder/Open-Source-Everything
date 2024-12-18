@@ -16,6 +16,7 @@ You can support the project by:
 - Reporting or fixing typos or grammar mistakes
 - Reporting or fixing incorrect/broken links
 - Reporting or fixing incorrect "Platform" badges
+- Reporting or fixing software or sections not in alphabetical order
 - Reporting software that isn't soure-available that doesn't have the "This software is proprietary" stamp
 - Reporting software that is abandoned or no longer available that doesn't have the "This software is outdated or abandoned" stamp
 - Reporting software that has "gone rogue"
