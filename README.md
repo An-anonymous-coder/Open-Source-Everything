@@ -3,7 +3,7 @@ For a while now, I have been meticulously creating a list of open source softwar
 
 
 # Versioning
-**Version 65.2024.12.18.2**
+**Version 66.2024.12.18.3**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -3450,16 +3450,18 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-### Linux Distros <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+### Linux Distros
 
 
-[Arch Linux](https://www.archlinux.org/)
+[Qubes OS](https://www.qubes-os.org/)
 <table>
     <tr>
         <td>
             <b>Stamps</b>
         </td>
         <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
             <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
@@ -3474,13 +3476,15 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-[Fedora](https://fedoraproject.org/)
+[Secureblue](https://github.com/secureblue/secureblue)
 <table>
     <tr>
         <td>
             <b>Stamps</b>
         </td>
         <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
             <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
@@ -3495,35 +3499,16 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-[NixOS](https://nixos.org/)
+[Tails](https://tails.net/)
 <table>
     <tr>
         <td>
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Platforms</b>
-        </td>
-        <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-        </td>
-    </tr>
-</table>
-
-
-[openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
-<table>
-    <tr>
-        <td>
-            <b>Stamps</b>
-        </td>
-        <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
     </tr>
     <tr>
@@ -3566,30 +3551,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 ### Operating Systems
 
 
-[Tails](https://tails.net/)
-<table>
-    <tr>
-        <td>
-            <b>Stamps</b>
-        </td>
-        <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Platforms</b>
-        </td>
-        <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-        </td>
-    </tr>
-</table>
-
-
-[Qubes OS](https://www.qubes-os.org/)
+[Linux kernel](https://www.kernel.org/)
 <table>
     <tr>
         <td>
