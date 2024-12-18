@@ -3,7 +3,7 @@ For a while now, I have been meticulously creating a list of open source softwar
 
 
 # Versioning
-**Version 63.2024.12.18.0**
+**Version 64.2024.12.18.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -45,9 +45,9 @@ Stamps give you a general idea of the consensus around a piece of software. This
 ### Platforms
 This is a list of the platforms software is currently available on. "Apple products" includes iOS, macOS, and iPadOS.
 
-<img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> = Available for Apple products
-
 <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> = Available for Android products
+
+<img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> = Available for Apple products
 
 <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> = Available for Linux
 
@@ -178,8 +178,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
@@ -567,8 +567,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -627,6 +627,32 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Business & Commerce
+### Budget Managers
+
+
+[GnuCash](https://www.gnucash.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Personal Finance Tools
 
 
@@ -698,8 +724,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
@@ -898,8 +924,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -953,6 +979,32 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
         <td>
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Software Frameworks <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+
+
+[Qt](https://www.qt.io/product/framework)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
 </table>
@@ -1025,8 +1077,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -1112,6 +1164,89 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Education & Reference
+### 2D Graphing Calculators
+
+
+[GeoGebra Classic](https://www.geogebra.org/classic)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### 3D Graphing Calculators
+
+
+[GeoGebra 3D Calculator](https://www.geogebra.org/3d)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Circuit Simulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+
+
+[KiCad](https://www.kicad.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Encyclopedias
 
 
@@ -1132,8 +1267,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
@@ -1236,8 +1371,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
@@ -1313,8 +1448,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -1339,8 +1474,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -1365,8 +1500,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -1468,8 +1603,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
@@ -1518,8 +1653,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -1568,8 +1703,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -1622,8 +1757,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -1677,8 +1812,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -1688,6 +1823,60 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 # Network & Admin
+### Anonymizing Networks
+
+
+[Tor](https://www.torproject.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+[I2P](https://geti2p.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### CAPTCHAs <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
@@ -1755,8 +1944,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -1780,8 +1969,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -2259,8 +2448,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -2312,8 +2501,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -2410,6 +2599,30 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
         <td>
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Task Automation Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+
+
+[AutoHotkey](https://autohotkey.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
 </table>
@@ -2558,8 +2771,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -2587,8 +2800,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -2614,8 +2827,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -3034,8 +3247,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
         </td>
     </tr>
@@ -3152,6 +3365,57 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Font Editors
+
+
+[FontForge](https://fontforge.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Key Mapping Tools
+
+
+[AntiMicroX](https://github.com/AntiMicroX/antimicroX)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
@@ -3633,6 +3897,32 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
+### Panorama Makers
+
+
+[Hugin](https://hugin.sourceforge.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Photo Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
 
 
@@ -3756,8 +4046,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -3835,8 +4125,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -3993,8 +4283,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -4121,8 +4411,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
         </td>
     </tr>
 </table>
@@ -4148,8 +4438,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -4175,8 +4465,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
         </td>
     </tr>
 </table>
@@ -4199,8 +4489,35 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Vulnerability Scanners
+
+
+[Metasploit](https://metasploit.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -4227,8 +4544,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -4255,8 +4572,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -4280,8 +4597,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
@@ -4305,8 +4622,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -4329,8 +4646,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -4383,8 +4700,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -4409,8 +4726,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -4436,8 +4753,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
@@ -4464,8 +4781,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
         </td>
     </tr>
 </table>
@@ -4511,8 +4828,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
@@ -4590,8 +4907,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
         </td>
     </tr>
 </table>
@@ -4670,8 +4987,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
         </td>
     </tr>
 </table>
@@ -4823,8 +5140,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
         </td>
     </tr>
 </table>
@@ -4850,8 +5167,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
         </td>
     </tr>
 </table>
@@ -4900,8 +5217,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
         </td>
     </tr>
 </table>
@@ -4927,8 +5244,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
@@ -5130,8 +5447,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
         </td>
     </tr>
 </table>
@@ -5324,8 +5641,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
         </td>
     </tr>
 </table>
@@ -5348,8 +5665,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
         </td>
     </tr>
@@ -5424,8 +5741,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -5448,8 +5765,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -5477,8 +5794,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -5504,8 +5821,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -5686,8 +6003,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
@@ -5861,8 +6178,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -5887,8 +6204,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -5938,8 +6255,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -5991,8 +6308,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
@@ -6018,8 +6335,8 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
         </td>
     </tr>
 </table>
