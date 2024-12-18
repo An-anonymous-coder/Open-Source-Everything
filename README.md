@@ -3,7 +3,7 @@ For a while now, I have been meticulously creating a list of open source softwar
 
 
 # Versioning
-**Version 66.2024.12.18.3**
+**Version 67.2024.12.18.4**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -1634,6 +1634,32 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
+### Flight Simulators
+
+
+[FlightGear](https://www.flightgear.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Music Games
 
 
@@ -1758,6 +1784,140 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
         <td>
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Racing Games
+
+
+[SuperTuxKart](https://supertuxkart.net/Main_Page)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Real-time Strategy Games
+
+
+[0 A.D.](https://play0ad.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Role-playing Games
+
+
+[Shattered Pixel Dungeon](https://shatteredpixel.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Sandbox Games
+
+
+[Luanti](https://www.luanti.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16"> 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Turn Based Games
+
+
+[The Battle for Wesnoth](https://www.wesnoth.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
 </table>
@@ -3476,7 +3636,7 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
-[Secureblue](https://github.com/secureblue/secureblue)
+[secureblue](https://github.com/secureblue/secureblue)
 <table>
     <tr>
         <td>
