@@ -3,7 +3,7 @@ For a while now, I have been meticulously creating a list of open source softwar
 
 
 # Versioning
-**Version 64.2024.12.18.1**
+**Version 65.2024.12.18.2**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -45,13 +45,13 @@ Stamps give you a general idea of the consensus around a piece of software. This
 ### Platforms
 This is a list of the platforms software is currently available on. "Apple products" includes iOS, macOS, and iPadOS.
 
-<img alt="Android" src="Assets/Platforms/Android.svg" height="16"> = Available for Android products
+<img alt="Android" src="Assets/Platforms/Android.svg" height="16"> = Available for Android devices
 
-<img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> = Available for Apple products
+<img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> = Available for Apple devices
 
-<img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> = Available for Linux
+<img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> = Available for Linux devices
 
-<img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> = Available for Windows
+<img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> = Available for Windows devices
 
 <img alt="Online" src="Assets/Platforms/Online.svg" height="16"> = Available online
 
@@ -1657,6 +1657,34 @@ This is a list of the platforms software is currently available on. "Apple produ
             <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Platform Games
+
+
+[Journey to the Center of Hawkthorne](https://projecthawkthorne.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16"> 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
 </table>
