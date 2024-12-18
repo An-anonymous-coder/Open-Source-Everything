@@ -1,6 +1,6 @@
-# This file is under development
+# THIS FILE IS UNDER DEVELOPMENT
 
-This is an early look at a section I am making. Nothing here is final and there will be mistakes. Do not open issues about this yet.
+**This is an early look at a section I am making. Nothing here is final and there will be mistakes. Do not open issues about this yet.**
 
 # Do you accept donations? How do I donate?
 
