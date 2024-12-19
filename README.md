@@ -3,7 +3,7 @@ For a while now, I have been meticulously creating a list of open source softwar
 
 
 # Versioning
-**Version 67.2024.12.18.4**
+**Version 68.2024.12.18.5**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -32,11 +32,11 @@ Stamps give you a general idea of the consensus around a piece of software. This
 
 <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16"> = Verified best software
 
+<img alt="This software is proprietary" src="Assets/Stamps/Proprietary.png" height="16"> = This software is proprietary
+
 <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16"> = My top choices
 
 <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16"> = I have personally used and inspected this software
-
-<img alt="This software is proprietary" src="Assets/Stamps/Proprietary.png" height="16"> = This software is proprietary
 
 <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.png" height="16"> = This software is outdated or abandoned
 
@@ -169,6 +169,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
+            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.png" height="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
             <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
         </td>
@@ -284,27 +285,6 @@ This is a list of the platforms software is currently available on. "Apple produ
 
 
 [Mochi AI](https://www.genmo.ai/)
-<table>
-    <tr>
-        <td>
-            <b>Stamps</b>
-        </td>
-        <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Platforms</b>
-        </td>
-        <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
-        </td>
-    </tr>
-</table>
-
-
-[Samsar](https://www.samsar.one/)
 <table>
     <tr>
         <td>
@@ -663,7 +643,7 @@ This is a list of the platforms software is currently available on. "Apple produ
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.png" height="16">
         </td>
     </tr>
     <tr>
