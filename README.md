@@ -1,9 +1,12 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
-For a while now, I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very little software here is proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. Sections and software marked with "This section needs to be improved" may not be the best software and require further examination to come to a decision.
+Open Source Everything is a curated list of the best source-available software. Unlike other lists that try to provide a wide selection of software, this list instead focuses on only the best software in each category. 
 
+While proprietary software is avoided on this list where possible, there are some circumstances where proprietary software provides a boost in privacy or security where no source-available alternative does. Those options are marked with the <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.png" height="16"> stamp. 
+
+Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
 # Versioning
-**Version 68.2024.12.18.5**
+**Version 69.2024.12.20.0**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -1227,6 +1230,33 @@ This is a list of the platforms software is currently available on. "Apple produ
 </table>
 
 
+### Code Learning Services
+
+
+[freeCodeCamp](https://www.freecodecamp.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Encyclopedias
 
 
@@ -1326,6 +1356,32 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
         <td>
             <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Translators
+
+
+[LibreTranslate](https://libretranslate.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
 </table>
@@ -2263,6 +2319,56 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
         <td>
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### SSH Clients
+
+
+[OpenSSH](https://www.openssh.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+[PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
 </table>
@@ -3709,6 +3815,33 @@ This is a list of the platforms software is currently available on. "Apple produ
         </td>
         <td>
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Printing Systems
+
+
+[Common Unix Printing System](https://www.cups.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.png" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.png" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.png" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
 </table>
