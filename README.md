@@ -6,7 +6,7 @@ While proprietary software is avoided on this list where possible, there are som
 Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
 # Versioning
-**Version 70.2024.12.21.0**
+**Version 71.2024.12.21.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -31,7 +31,7 @@ Coming soon!
 
 # Legend
 ### Stamps
-Stamps give you a general idea of the consensus around a piece of software. This helps you better gague which software is highly recommended by me or the community as a whole. 
+Stamps give you a general idea of the consensus around a piece of software. This helps you better gague which software is highly recommended by me or the open source community as a whole.
 
 <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16"> = Verified best software
 
@@ -46,7 +46,7 @@ Stamps give you a general idea of the consensus around a piece of software. This
 <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16"> = This section needs to be improved
 
 ### Platforms
-This is a list of the platforms software is currently available on. "Apple products" includes iOS, macOS, and iPadOS.
+These are the platforms a piece of software is currently available on.
 
 <img alt="Android" src="Assets/Platforms/Android.svg" height="16"> = Available for Android devices
 
