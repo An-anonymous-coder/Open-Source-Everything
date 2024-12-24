@@ -10,6 +10,8 @@ https://github.com/pluja/awesome-privacy
 
 https://github.com/paulaime/Awesome-Privacy
 
+https://github.com/MMachado05/floss-alternatives
+
 https://awesome-privacy.xyz/
 
 https://github.com/lissy93/awesome-privacy
@@ -21,7 +23,5 @@ https://en.wikipedia.org/wiki/List_of_commercial_video_games_with_later_released
 https://en.wikipedia.org/wiki/List_of_open-source_video_games
 
 https://opensourcesoftwaredirectory.com/
-
-https://gist.github.com/MMachado05/89ddebd8b28cbb648a5c2f574dc21338
 
 https://alternativeto.net/platform/all/?license=opensource

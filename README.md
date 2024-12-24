@@ -6,7 +6,7 @@ While proprietary software is avoided on this list where possible, there are som
 Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
 # Versioning
-**Version 74.2024.12.24.2**
+**Version 75.2024.12.24.3**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -542,7 +542,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
         </td>
     </tr>
     <tr>
@@ -993,7 +993,7 @@ These are the platforms a piece of software is currently available on.
 </table>
 
 
-### Source Code Hosting Services
+### Source Code Hosting Services (Online)
 
 
 [GitLab](https://about.gitlab.com/)
@@ -1035,6 +1035,56 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Source Code Hosting Services (Self-Hosted)
+
+
+[Gitea](https://about.gitea.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+[Gogs](https://gogs.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
         </td>
     </tr>
 </table>
@@ -2272,6 +2322,35 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Proxies
+
+
+[ShadowSocks](https://shadowsocks.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
             <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
@@ -4398,7 +4477,7 @@ These are the platforms a piece of software is currently available on.
 
 
 # Security & Privacy
-### Anti-Virus Apps
+### Anti-Virus Tools
 
 
 [ClamAV](https://www.clamav.net/)
@@ -4419,6 +4498,31 @@ These are the platforms a piece of software is currently available on.
             <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+[VirusTotal](https://www.virustotal.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
 </table>
@@ -6738,6 +6842,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
             <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
         </td>
     </tr>
@@ -6760,6 +6865,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
             <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
         </td>
     </tr>
