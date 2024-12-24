@@ -6,7 +6,7 @@ While proprietary software is avoided on this list where possible, there are som
 Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
 # Versioning
-**Version 72.2024.12.24.0**
+**Version 73.2024.12.24.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -2451,6 +2451,32 @@ These are the platforms a piece of software is currently available on.
 </table>
 
 
+### Web Analytics Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+
+
+[Matomo](https://matomo.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Work Profile for Android
 
 
@@ -4823,7 +4849,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
         </td>
     </tr>
     <tr>
@@ -4836,6 +4863,30 @@ These are the platforms a piece of software is currently available on.
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Comment Platforms
+
+
+[Isso](https://isso-comments.de/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
         </td>
     </tr>
 </table>
@@ -5885,6 +5936,31 @@ These are the platforms a piece of software is currently available on.
 </table>
 
 
+### Server Management Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+
+
+[Webmin](https://webmin.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
 # Travel & Location
 ### Map Services
 
@@ -6517,6 +6593,34 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+        </td>
+    </tr>
+</table>
+
+
+### Bookmark Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+
+
+[Raindrop.io](https://raindrop.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
         </td>
     </tr>
 </table>
