@@ -16,6 +16,8 @@ https://awesome-privacy.xyz/
 
 https://github.com/lissy93/awesome-privacy
 
+https://github.com/unicodeveloper/awesome-opensource-apps
+
 https://en.wikipedia.org/wiki/List_of_commercial_video_games_with_available_source_code
 
 https://en.wikipedia.org/wiki/List_of_commercial_video_games_with_later_released_source_code
@@ -25,3 +27,5 @@ https://en.wikipedia.org/wiki/List_of_open-source_video_games
 https://opensourcesoftwaredirectory.com/
 
 https://alternativeto.net/platform/all/?license=opensource
+
+https://www.opensourcealternative.to/
