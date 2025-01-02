@@ -5,25 +5,29 @@ While proprietary software is avoided on this list where possible, there are som
 
 Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
+
 # Versioning
-**Version 78.2025.1.2.1**
+**Version 79.2025.1.2.2**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
 - **Year:** The year of the release
 - **Month:** The month of the release
 - **Day:** The day of the release
-- **Daily Release Index:** How many releases were made that day, starting at 0
+- **Daily Release Index:** Index of the releases made each day, beginning at 0
 
 
 # Mirrors
 This repository is mirrored on other platforms. It was originally hosted on GitHub, but is now hosted on GitLab. It was at one point accidentally deleted on GitHub, so it shows up as a fork of another user's repository there after it was restored.
 
+
 ### GitLab (Host)
 https://gitlab.com/an-anonymous-coder1/Open-Source-Everything
 
+
 ### GitHub (Mirror)
 https://github.com/An-anonymous-coder/Open-Source-Everything
+
 
 ### Codeberg (Mirror)
 Coming soon!
@@ -33,30 +37,31 @@ Coming soon!
 ### Stamps
 Stamps give you a general idea of the consensus around a piece of software. This helps you better gague which software is highly recommended by me or the open source community as a whole.
 
-<img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16"> = Verified best software
+<img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16"> Verified best software
 
-<img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> = This software is proprietary
+<img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> This software is proprietary
 
-<img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16"> = My top choices
+<img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16"> My top choices
 
-<img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16"> = I have personally used and inspected this software
+<img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16"> This software has been used and inspected
 
-<img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16"> = This software is outdated or abandoned
+<img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16"> This software is outdated or abandoned
 
-<img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16"> = This section needs to be improved
+<img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16"> This section needs to be improved
+
 
 ### Platforms
 These are the platforms a piece of software is currently available on.
 
-<img alt="Android" src="Assets/Platforms/Android.svg" width="16"> = Available for Android devices
+<img alt="Android" src="Assets/Platforms/Android.svg" width="16"> Available for Android devices
 
-<img alt="Apple" src="Assets/Platforms/Apple.svg" width="16"> = Available for Apple devices
+<img alt="Apple" src="Assets/Platforms/Apple.svg" width="16"> Available for Apple devices
 
-<img alt="Linux" src="Assets/Platforms/Linux.svg" width="16"> = Available for Linux devices
+<img alt="Linux" src="Assets/Platforms/Linux.svg" width="16"> Available for Linux devices
 
-<img alt="Windows" src="Assets/Platforms/Windows.svg" width="16"> = Available for Windows devices
+<img alt="Windows" src="Assets/Platforms/Windows.svg" width="16"> Available for Windows devices
 
-<img alt="Online" src="Assets/Platforms/Online.svg" width="16"> = Available online
+<img alt="Online" src="Assets/Platforms/Online.svg" width="16"> Available online
 
 
 # Table of Contents
@@ -126,7 +131,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -149,7 +154,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -174,7 +179,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -200,7 +205,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -222,7 +227,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -342,7 +347,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -370,7 +375,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -445,7 +450,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
             <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
@@ -468,7 +473,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -541,7 +546,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -723,7 +728,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -775,7 +780,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -844,7 +849,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -871,7 +876,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -899,7 +904,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -923,7 +928,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1126,7 +1131,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1204,7 +1209,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1233,7 +1238,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1262,7 +1267,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1316,7 +1321,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1343,7 +1348,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1369,7 +1374,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1421,7 +1426,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1447,7 +1452,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1473,7 +1478,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1576,7 +1581,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1602,7 +1607,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1655,7 +1660,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1679,7 +1684,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1705,7 +1710,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1730,7 +1735,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1781,7 +1786,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1809,7 +1814,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -1837,7 +1842,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1859,7 +1864,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -1885,7 +1890,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1989,7 +1994,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -2157,7 +2162,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2182,7 +2187,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2258,7 +2263,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -2313,7 +2318,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2338,7 +2343,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2366,7 +2371,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2463,7 +2468,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2512,7 +2517,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2537,7 +2542,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2617,7 +2622,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2643,7 +2648,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2689,7 +2694,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2712,7 +2717,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2737,7 +2742,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2788,7 +2793,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2838,7 +2843,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2867,7 +2872,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2920,7 +2925,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2994,7 +2999,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3017,7 +3022,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3067,7 +3072,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3091,7 +3096,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3119,7 +3124,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3143,7 +3148,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3219,7 +3224,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3246,7 +3251,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3277,7 +3282,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3298,7 +3303,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3319,7 +3324,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3343,7 +3348,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3368,7 +3373,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3390,7 +3395,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3485,7 +3490,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3506,7 +3511,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3532,7 +3537,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3558,7 +3563,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3586,7 +3591,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3612,7 +3617,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3638,7 +3643,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3666,7 +3671,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3693,7 +3698,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3715,7 +3720,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3762,7 +3767,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3784,7 +3789,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3861,7 +3866,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3884,7 +3889,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3907,7 +3912,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3933,7 +3938,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3959,7 +3964,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3985,7 +3990,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4011,7 +4016,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4037,7 +4042,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4090,7 +4095,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4117,7 +4122,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4141,7 +4146,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4167,7 +4172,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4194,7 +4199,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4222,7 +4227,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4249,7 +4254,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4271,7 +4276,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4297,7 +4302,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4325,7 +4330,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4351,7 +4356,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4404,7 +4409,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4427,7 +4432,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4453,7 +4458,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4481,7 +4486,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4590,7 +4595,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4642,7 +4647,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4668,7 +4673,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4718,7 +4723,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4744,7 +4749,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4826,7 +4831,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4851,7 +4856,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4898,7 +4903,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4925,7 +4930,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4949,7 +4954,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4976,7 +4981,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5003,7 +5008,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5027,7 +5032,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5056,7 +5061,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5135,7 +5140,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5185,7 +5190,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5209,7 +5214,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5263,7 +5268,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5289,7 +5294,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5316,7 +5321,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5344,7 +5349,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5370,7 +5375,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5393,7 +5398,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5441,7 +5446,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5520,7 +5525,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5547,7 +5552,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5574,7 +5579,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5600,7 +5605,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5627,7 +5632,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5653,7 +5658,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5678,7 +5683,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5700,7 +5705,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5726,7 +5731,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
             <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
@@ -5753,7 +5758,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5780,7 +5785,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5803,7 +5808,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5829,7 +5834,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
             <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
@@ -5857,7 +5862,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5885,7 +5890,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
             <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
@@ -5912,7 +5917,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5934,7 +5939,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5960,7 +5965,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
             <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
@@ -5987,7 +5992,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6013,7 +6018,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6038,7 +6043,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6060,7 +6065,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6083,7 +6088,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6105,7 +6110,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6131,7 +6136,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6157,7 +6162,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6257,7 +6262,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6279,7 +6284,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6303,7 +6308,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6328,7 +6333,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6353,7 +6358,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
             <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
@@ -6432,7 +6437,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6488,7 +6493,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6514,7 +6519,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6565,7 +6570,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6616,7 +6621,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6641,7 +6646,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6716,7 +6721,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6741,7 +6746,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6767,7 +6772,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6789,7 +6794,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6816,7 +6821,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6842,7 +6847,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6920,7 +6925,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6943,7 +6948,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6966,7 +6971,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6988,7 +6993,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -7014,7 +7019,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -7042,7 +7047,7 @@ These are the platforms a piece of software is currently available on.
         </td>
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -7067,7 +7072,7 @@ These are the platforms a piece of software is currently available on.
         <td>
             <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
             <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
