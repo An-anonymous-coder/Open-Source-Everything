@@ -1,11 +1,13 @@
-<h1 align="center">
-    Open Source Everything
-</h1>
-<h3 align="center">
-    <i>
-        "I FLOSS WITH FREEDOM!"
-    </i>
-</h3>
+<div align="center">
+    <h1>
+        Open Source Everything
+    </h1>
+    <h3>
+        <i>
+            "I FLOSS WITH FREEDOM!"
+        </i>
+    </h3>
+</div>
 
 **Open Source Everything** is a curated list of the best source-available software. Unlike other lists that try to provide a wide selection of software, this list instead focuses on only the best software in each category. 
 
@@ -15,7 +17,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 
 # Versioning
-### Current version: `82.2025.1.2.5`
+### Current version: `83.2025.1.2.6`
 
 The version code follows the format:
 - **Total Releases:** The total number of releases since creation
