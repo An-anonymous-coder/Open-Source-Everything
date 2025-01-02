@@ -1,5 +1,9 @@
-# Open Source Everything: I FLOSS WITH FREEDOM
-Open Source Everything is a curated list of the best source-available software. Unlike other lists that try to provide a wide selection of software, this list instead focuses on only the best software in each category. 
+<center>
+    <h1>Open Source Everything</h1>
+    <h3><i>"I FLOSS WITH FREEDOM!"</i></h3>
+</center>
+
+**Open Source Everything** is a curated list of the best source-available software. Unlike other lists that try to provide a wide selection of software, this list instead focuses on only the best software in each category. 
 
 While proprietary software is avoided on this list where possible, there are some circumstances where proprietary software provides a boost in privacy or security where no source-available alternative does. Those options are marked with the <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> stamp. 
 
@@ -7,9 +11,9 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 
 # Versioning
-**Version 79.2025.1.2.2**
+### Current version: `80.2025.1.2.3`
 
-The release code is in the format:
+The version code follows the format:
 - **Total Releases:** The total number of releases since creation
 - **Year:** The year of the release
 - **Month:** The month of the release
@@ -30,12 +34,12 @@ https://github.com/An-anonymous-coder/Open-Source-Everything
 
 
 ### Codeberg (Mirror)
-Coming soon!
+*Coming soon!*
 
 
 # Legend
 ### Stamps
-Stamps give you a general idea of the consensus around a piece of software. This helps you better gague which software is highly recommended by me or the open source community as a whole.
+Stamps give you a general idea of the consensus around a piece of software. They help you gague which software is recommended by me and the open source community as a whole.
 
 <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16"> Verified best software
 
@@ -51,7 +55,7 @@ Stamps give you a general idea of the consensus around a piece of software. This
 
 
 ### Platforms
-These are the platforms a piece of software is currently available on.
+Platforms tell you on which devices software is available to be used. Because this list does not focus on a wide selection of software, alternatives may not be listed for some platforms.
 
 <img alt="Android" src="Assets/Platforms/Android.svg" width="16"> Available for Android devices
 
