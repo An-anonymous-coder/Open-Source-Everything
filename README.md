@@ -15,9 +15,8 @@ While proprietary software is avoided on this list where possible, there are som
 
 Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
-
 # Versioning
-### Current version: `83.2025.1.2.6`
+### Current version: `84.2025.1.2.7`
 
 The version code follows the format:
 - **Total Releases:** The total number of releases since creation
@@ -26,22 +25,17 @@ The version code follows the format:
 - **Day:** The day of the release
 - **Daily Release Index:** Index of the releases made each day, beginning at 0
 
-
 # Mirrors
 This repository is mirrored on other platforms. It was originally hosted on GitHub, but is now hosted on GitLab. It was at one point accidentally deleted on GitHub, so it shows up as a fork of another user's repository there after it was restored.
-
 
 ### GitLab (Host)
 https://gitlab.com/an-anonymous-coder1/Open-Source-Everything
 
-
 ### GitHub (Mirror)
 https://github.com/An-anonymous-coder/Open-Source-Everything
 
-
 ### Codeberg (Mirror)
 *Coming soon!*
-
 
 # Legend
 ### Stamps
@@ -59,7 +53,6 @@ Stamps give you a general idea of the consensus around a piece of software. They
 
 <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16"> This section needs to be improved
 
-
 ### Platforms
 Platforms tell you on which devices software is available to be used. Because this list does not focus on a wide selection of software, alternatives may not be listed for some platforms.
 
@@ -72,7 +65,6 @@ Platforms tell you on which devices software is available to be used. Because th
 <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16"> Available for Windows devices
 
 <img alt="Online" src="Assets/Platforms/Online.svg" width="16"> Available online
-
 
 # Table of Contents
 [AI Tools & Services](#ai-tools--services)
@@ -129,10 +121,8 @@ Platforms tell you on which devices software is available to be used. Because th
 
 [Web Browsing](#web-browsing)
 
-
 # AI Tools & Services
 ### AI Chatbots <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [GPT4ALL](https://gpt4all.io/)
 <table>
@@ -156,7 +146,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Ollama](https://ollama.com/)
 <table>
     <tr>
@@ -178,7 +167,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Venice](https://venice.ai/)
 <table>
@@ -204,9 +192,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### AI Image Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Craiyon](https://www.craiyon.com/)
 <table>
@@ -227,7 +213,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [FLUX.1](https://blackforestlabs.ai/)
 <table>
@@ -253,9 +238,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### AI Music Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Stable Audio Open](https://huggingface.co/stabilityai/stable-audio-open-1.0)
 <table>
@@ -277,9 +260,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### AI Video Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Hotshot](https://hotshot.co/)
 <table>
@@ -301,7 +282,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Mochi AI](https://www.genmo.ai/)
 <table>
     <tr>
@@ -321,7 +301,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Stable Video Diffusion](https://stability.ai/stable-video)
 <table>
@@ -343,10 +322,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Audio & Music
 ### Audio Editors
-
 
 [Audacity](https://www.audacityteam.org/)
 <table>
@@ -372,9 +349,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Audio Transcription Tools
-
 
 [Transcribro](https://github.com/soupslurpr/Transcribro)
 <table>
@@ -398,9 +373,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Music Production Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [LMMS](https://lmms.io/)
 <table>
@@ -423,7 +396,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [MuseScore Studio](https://musescore.org/)
 <table>
@@ -448,9 +420,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Music Recognition Apps
-
 
 [Audire](https://github.com/alexmercerind/audire)
 <table>
@@ -474,7 +444,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
 <table>
     <tr>
@@ -496,9 +465,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Podcast Players
-
 
 [AntennaPod](https://antennapod.org/)
 <table>
@@ -521,10 +488,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Backup & Sync
 ### Backup Clients
-
 
 [Duplicati](https://www.duplicati.com/)
 <table>
@@ -548,7 +513,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Vorta](https://vorta.borgbase.com/)
 <table>
     <tr>
@@ -570,9 +534,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Cloud Storage Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Nextcloud](https://nextcloud.com/)
 <table>
@@ -598,9 +560,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### File Sync Tools
-
 
 [Syncthing](https://syncthing.net/)
 <table>
@@ -625,7 +585,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android)
 <table>
     <tr>
@@ -647,10 +606,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Business & Commerce
 ### Budget Managers
-
 
 [GnuCash](https://www.gnucash.org/)
 <table>
@@ -674,9 +631,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Personal Finance Tools
-
 
 [Ivy Wallet](https://ivywallet.app/)
 <table>
@@ -698,9 +653,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Survey Creators
-
 
 [LimeSurvey](https://www.limesurvey.org/)
 <table>
@@ -725,9 +678,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Virtual Card Services
-
 
 [Privacy.com](https://privacy.com/)
 <table>
@@ -753,10 +704,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # CD/DVD Tools
-### Bootable USB Creators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
+### Bootable USB Creators
 
 [belenaEtcher](https://etcher.balena.io/)
 <table>
@@ -765,7 +714,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -779,7 +730,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [EtchDroid](https://etchdroid.app/)
 <table>
@@ -803,28 +753,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
-[Rufus](https://rufus.ie/)
-<table>
-    <tr>
-        <td>
-            <b>Stamps</b>
-        </td>
-        <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Platforms</b>
-        </td>
-        <td>
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
-        </td>
-    </tr>
-</table>
-
-
 [Ventoy](https://www.ventoy.net/)
 <table>
     <tr>
@@ -846,9 +774,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Disc Burners
-
 
 [Brasero](https://wiki.gnome.org/Apps/Brasero)
 <table>
@@ -872,10 +798,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Development
 ### Android Development Tools
-
 
 [Android Studio](https://developer.android.com/studio)
 <table>
@@ -901,9 +825,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Code Editors
-
 
 [VSCodium](https://vscodium.com/)
 <table>
@@ -929,7 +851,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [GNU Emacs](https://www.gnu.org/software/emacs/)
 <table>
     <tr>
@@ -954,9 +875,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Game Development Tools
-
 
 [Godot Engine](https://godotengine.org/)
 <table>
@@ -981,9 +900,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Pastebin Services
-
 
 [PrivateBin](https://privatebin.info/)
 <table>
@@ -1005,9 +922,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Software Frameworks <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Qt](https://www.qt.io/product/framework)
 <table>
@@ -1031,9 +946,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Source Code Hosting Services (Online)
-
 
 [GitLab](https://about.gitlab.com/)
 <table>
@@ -1057,7 +970,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Codeberg](https://codeberg.org/)
 <table>
     <tr>
@@ -1078,9 +990,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Source Code Hosting Services (Self-Hosted)
-
 
 [Gitea](https://about.gitea.com/)
 <table>
@@ -1105,7 +1015,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Gogs](https://gogs.io/)
 <table>
     <tr>
@@ -1128,9 +1037,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Version Control Systems
-
 
 [Git](https://git-scm.com/)
 <table>
@@ -1157,9 +1064,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Web Servers
-
 
 [Apache](https://httpd.apache.org/)
 <table>
@@ -1183,7 +1088,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [nginx](https://nginx.com/)
 <table>
     <tr>
@@ -1205,10 +1109,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Digital Coins & Cryptocurrency
 ### Cryptocurrency Coins
-
 
 [Monero](https://getmonero.org/home)
 <table>
@@ -1234,10 +1136,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Education & Reference
 ### 2D Graphing Calculators
-
 
 [GeoGebra Classic](https://www.geogebra.org/classic)
 <table>
@@ -1264,9 +1164,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### 3D Graphing Calculators
-
 
 [GeoGebra 3D Calculator](https://www.geogebra.org/3d)
 <table>
@@ -1292,9 +1190,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Circuit Simulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [KiCad](https://www.kicad.org/)
 <table>
@@ -1318,9 +1214,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Code Learning Services
-
 
 [freeCodeCamp](https://www.freecodecamp.org/)
 <table>
@@ -1345,9 +1239,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Encyclopedias
-
 
 [Wikipedia](https://www.wikipedia.org/)
 <table>
@@ -1373,9 +1265,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Flashcard Learning Tools
-
 
 [AnkiDroid](https://github.com/ankidroid/Anki-Android/)
 <table>
@@ -1397,9 +1287,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Grammar Checkers
-
 
 [LanguageTool](https://languagetool.org/)
 <table>
@@ -1425,9 +1313,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Sky Maps
-
 
 [Sky Map](https://github.com/sky-map-team/stardroid)
 <table>
@@ -1449,9 +1335,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Translators
-
 
 [LibreTranslate](https://libretranslate.com/)
 <table>
@@ -1475,9 +1359,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Web Archiving Services
-
 
 [Wayback Machine](https://web.archive.org/)
 <table>
@@ -1503,10 +1385,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # File Management
 ### File Archivers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [7-Zip](https://www.7-zip.org/)
 <table>
@@ -1530,7 +1410,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [PeaZip](https://peazip.github.io/)
 <table>
     <tr>
@@ -1553,10 +1432,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # File Sharing
 ### Large File Transfer Services
-
 
 [KDE Connect](https://kdeconnect.kde.org/)
 <table>
@@ -1580,7 +1457,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [LocalSend](https://localsend.org/)
 <table>
@@ -1606,7 +1482,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [OnionShare](https://onionshare.org/)
 <table>
@@ -1634,9 +1509,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Torrent Clients
-
 
 [qBittorrent](https://qbittorrent.org/)
 <table>
@@ -1661,7 +1534,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)
 <table>
     <tr>
@@ -1683,9 +1555,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Torrent Search Engines
-
 
 [BTDigg](https://btdig.com/)
 <table>
@@ -1707,10 +1577,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Games
 ### Chess Games
-
 
 [Lichess](https://lichess.org/)
 <table>
@@ -1735,7 +1603,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [blichess](https://github.com/vovagorodok/blichess)
 <table>
     <tr>
@@ -1758,9 +1625,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Flight Simulators
-
 
 [FlightGear](https://www.flightgear.org/)
 <table>
@@ -1784,9 +1649,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Music Games
-
 
 [osu!](https://osu.ppy.sh/home)
 <table>
@@ -1812,9 +1675,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Platform Games
-
 
 [Journey to the Center of Hawkthorne](https://projecthawkthorne.com/)
 <table>
@@ -1840,9 +1701,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Puzzle Games
-
 
 [2048 (PFA)](https://secuso.aifb.kit.edu/english/653.php)
 <table>
@@ -1864,7 +1723,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Simon Tatham's Portable Puzzle Collection](http://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 <table>
@@ -1891,7 +1749,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Open Sudoku](https://opensudoku.moire.org/)
 <table>
     <tr>
@@ -1913,9 +1770,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Racing Games
-
 
 [SuperTuxKart](https://supertuxkart.net/Main_Page)
 <table>
@@ -1940,9 +1795,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Real-time Strategy Games
-
 
 [0 A.D.](https://play0ad.com/)
 <table>
@@ -1966,9 +1819,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Role-playing Games
-
 
 [Shattered Pixel Dungeon](https://shatteredpixel.com/)
 <table>
@@ -1993,9 +1844,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Sandbox Games
-
 
 [Luanti](https://www.luanti.org/)
 <table>
@@ -2020,9 +1869,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Turn Based Games
-
 
 [The Battle for Wesnoth](https://www.wesnoth.org/)
 <table>
@@ -2047,13 +1894,10 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Gaming Software
 ### Anti-Cheat Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
-
 ### Game Emulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [RetroArch](https://retroarch.com/)
 <table>
@@ -2079,10 +1923,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Home & Family
 ### Genealogy Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Gramps](https://gramps-project.org/blog/)
 <table>
@@ -2106,9 +1948,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Home Automation Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Home Assistant](https://www.home-assistant.io/)
 <table>
@@ -2132,7 +1972,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [openHAB](https://www.openhab.org/)
 <table>
@@ -2158,10 +1997,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Network & Admin
 ### Anonymizing Networks
-
 
 [Tor](https://www.torproject.org/)
 <table>
@@ -2186,7 +2023,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [I2P](https://geti2p.net/)
 <table>
@@ -2213,9 +2049,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### CAPTCHAs <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [mCaptcha](https://mcaptcha.org/)
 <table>
@@ -2237,9 +2071,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Certificate Authorities
-
 
 [Let's Encrypt](https://letsencrypt.org/)
 <table>
@@ -2262,9 +2094,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### DNS Resolvers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
 <table>
@@ -2290,7 +2120,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Control D](https://controld.com/free-dns)
 <table>
     <tr>
@@ -2315,9 +2144,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Network Monitors
-
 
 [Wireshark](https://www.wireshark.org/)
 <table>
@@ -2343,7 +2170,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Nmap](http://nmap.org/)
 <table>
     <tr>
@@ -2368,9 +2194,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Proxies
-
 
 [ShadowSocks](https://shadowsocks.org/)
 <table>
@@ -2397,9 +2221,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Router Custom Firmwares <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [DD-WRT](https://dd-wrt.com/)
 <table>
@@ -2423,7 +2245,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [OPNsense](https://opnsense.org/)
 <table>
     <tr>
@@ -2443,7 +2264,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [OpenWrt](https://openwrt.org/)
 <table>
@@ -2465,9 +2285,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### SSH Clients
-
 
 [OpenSSH](https://www.openssh.com/)
 <table>
@@ -2493,7 +2311,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 <table>
     <tr>
@@ -2515,9 +2332,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Virtualization Tools 
-
 
 [VirtualBox](https://www.virtualbox.org/)
 <table>
@@ -2541,7 +2356,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Docker](https://www.docker.com/)
 <table>
@@ -2568,9 +2382,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Web Analytics Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Matomo](https://matomo.org/)
 <table>
@@ -2594,9 +2406,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Work Profile for Android
-
 
 [Shelter](https://github.com/PeterCxy/Shelter)
 <table>
@@ -2618,10 +2428,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # News & Books
 ### Bible Study Tools
-
 
 [AndBible](https://andbible.org/)
 <table>
@@ -2645,9 +2453,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Ebook Libraries
-
 
 [Anna's Archive](https://annas-archive.org/)
 <table>
@@ -2671,7 +2477,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Open Library](https://openlibrary.org/)
 <table>
     <tr>
@@ -2692,9 +2497,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Ebook Readers
-
 
 [calibre](https://calibre-ebook.com/)
 <table>
@@ -2719,7 +2522,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Librera Reader](https://librera.mobi/)
 <table>
     <tr>
@@ -2740,9 +2542,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### RSS Readers
-
 
 [Feeder](https://github.com/spacecowboy/Feeder)
 <table>
@@ -2765,10 +2565,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Office & Productivity
 ### Clipboard Managers
-
 
 [CopyQ](https://hluk.github.io/CopyQ/)
 <table>
@@ -2792,9 +2590,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Email Clients
-
 
 [Thunderbird](https://www.thunderbird.net/)
 <table>
@@ -2818,7 +2614,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Betterbird](https://www.betterbird.eu/)
 <table>
     <tr>
@@ -2841,9 +2636,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Mind Mapping Tools
-
 
 [draw.io](https://www.diagrams.net/)
 <table>
@@ -2869,9 +2662,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Note Taking Apps
-
 
 [Joplin](https://joplinapp.org/)
 <table>
@@ -2899,7 +2690,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Xournal++](https://xournalpp.github.io/)
 <table>
     <tr>
@@ -2922,9 +2712,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Office Suites
-
 
 [LibreOffice](https://www.libreoffice.org/)
 <table>
@@ -2951,9 +2739,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### PDF Readers
-
 
 [Evince](https://wiki.gnome.org/Apps/Evince)
 <table>
@@ -2974,7 +2760,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Okular](https://okular.kde.org/)
 <table>
@@ -2997,9 +2782,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Scheduling and Calendar Apps
-
 
 [Etar](https://github.com/Etar-Group/Etar-Calendar)
 <table>
@@ -3021,7 +2804,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Fossify Calendar](https://github.com/FossifyOrg/Calendar)
 <table>
@@ -3045,9 +2827,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Task Automation Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [AutoHotkey](https://autohotkey.com/)
 <table>
@@ -3069,9 +2849,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Text Editors (CLI)
-
 
 [GNU nano](https://www.nano-editor.org/)
 <table>
@@ -3097,7 +2875,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Vim](https://www.vim.org/)
 <table>
     <tr>
@@ -3121,9 +2898,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Text Editors (GUI)
-
 
 [gedit](https://gedit-technology.github.io/apps/gedit/)
 <table>
@@ -3149,7 +2924,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Kate](https://kate-editor.org/)
 <table>
     <tr>
@@ -3173,7 +2947,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Notepad++](https://notepad-plus-plus.org/)
 <table>
     <tr>
@@ -3194,9 +2967,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Time Tracking Tools
-
 
 [ActivityWatch](https://activitywatch.net/)
 <table>
@@ -3221,9 +2992,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### WebMail Providers
-
 
 [Proton Mail](https://proton.me/mail)
 <table>
@@ -3251,7 +3020,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Tuta Mail](https://tuta.com/)
 <table>
     <tr>
@@ -3278,10 +3046,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Online Services
 ### App Stores for Android <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Accrescent](https://accrescent.app/)
 <table>
@@ -3305,7 +3071,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Aurora Store](https://auroraoss.com/)
 <table>
     <tr>
@@ -3325,7 +3090,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [F-Droid](https://f-droid.org/)
 <table>
@@ -3347,7 +3111,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Obtainium](https://obtainium.imranr.dev/)
 <table>
@@ -3372,9 +3135,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### App Stores for Linux
-
 
 [GNOME Software](https://apps.gnome.org/app/org.gnome.Software/)
 <table>
@@ -3395,7 +3156,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Flathub](https://flathub.org/)
 <table>
@@ -3419,9 +3179,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Crowdfunding Services
-
 
 [Liberapay](https://liberapay.com/)
 <table>
@@ -3444,9 +3202,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </table>
 
 
-
 ### Pornography
-
 
 [Danbooru](https://danbooru.donmai.us/)
 <table>
@@ -3468,7 +3224,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [E621](https://e621.net/posts)
 <table>
     <tr>
@@ -3489,9 +3244,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### URL Shorteners <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [url.zip](https://www.url.zip/)
 <table>
@@ -3513,7 +3266,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [v.gd](https://v.gd/)
 <table>
     <tr>
@@ -3534,9 +3286,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Weather Forecast Tools
-
 
 [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
 <table>
@@ -3560,9 +3310,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Web Search Engines
-
 
 [SearXNG](https://docs.searxng.org/)
 <table>
@@ -3587,10 +3335,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # OS & Utilities
 ### Android Distributions
-
 
 [GrapheneOS](https://grapheneos.org/)
 <table>
@@ -3614,9 +3360,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Application Launchers for Android
-
 
 [Lawnchair](https://lawnchair.app/)
 <table>
@@ -3640,9 +3384,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Boot Managers
-
 
 [GRUB](http://www.gnu.org/software/grub/)
 <table>
@@ -3668,9 +3410,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Compatibility Layer Tools
-
 
 [Wine](https://www.winehq.org/)
 <table>
@@ -3696,9 +3436,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Desktop Environments
-
 
 [GNOME](https://www.gnome.org/)
 <table>
@@ -3721,7 +3459,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [KDE Plasma](https://kde.org/plasma-desktop)
 <table>
     <tr>
@@ -3743,9 +3480,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Disk Usage Analyzers
-
 
 [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
 <table>
@@ -3766,7 +3501,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [GNOME Disk Usage Analyzer](https://wiki.gnome.org/Apps/DiskUsageAnalyzer)
 <table>
@@ -3791,7 +3525,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [WinDirStat](https://windirstat.net/)
 <table>
     <tr>
@@ -3812,9 +3545,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Font Editors
-
 
 [FontForge](https://fontforge.org/)
 <table>
@@ -3838,9 +3569,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Key Mapping Tools
-
 
 [AntiMicroX](https://github.com/AntiMicroX/antimicroX)
 <table>
@@ -3863,9 +3592,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Linux Distros
-
 
 [Qubes OS](https://www.qubes-os.org/)
 <table>
@@ -3889,7 +3616,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [secureblue](https://github.com/secureblue/secureblue)
 <table>
     <tr>
@@ -3911,7 +3637,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Tails](https://tails.net/)
 <table>
@@ -3935,9 +3660,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Mobile Keyboards for Android
-
 
 [HeliBoard](https://github.com/Helium314/HeliBoard)
 <table>
@@ -3961,9 +3684,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Operating Systems
-
 
 [Linux kernel](https://www.kernel.org/)
 <table>
@@ -3987,9 +3708,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Printing Systems
-
 
 [Common Unix Printing System](https://www.cups.org/)
 <table>
@@ -4014,9 +3733,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### QR Code Readers
-
 
 [Binary Eye](https://www.markusfisch.de/apps-android.html#binary-eye)
 <table>
@@ -4039,9 +3756,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Survival Apps
-
 
 [Trail Sense](https://kylecorry.com/Trail-Sense/)
 <table>
@@ -4065,9 +3780,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### System Cleaners
-
 
 [BleachBit](https://www.bleachbit.org/)
 <table>
@@ -4092,9 +3805,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### System Tweakers
-
 
 [privacy.sexy](https://privacy.sexy/)
 <table>
@@ -4120,9 +3831,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Terminal Emulators for Android
-
 
 [Termux](https://termux.dev/en/)
 <table>
@@ -4145,9 +3854,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Text to Speech Service <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [RHVoice](https://rhvoice.org/)
 <table>
@@ -4171,9 +3878,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Virtual Assistant
-
 
 [Dicio](https://github.com/Stypox/dicio-android)
 <table>
@@ -4195,10 +3900,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Photos & Graphics
 ### 3D Modelers
-
 
 [Blender](https://www.blender.org/)
 <table>
@@ -4224,9 +3927,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### CAD Software
-
 
 [FreeCAD](https://www.freecad.org/)
 <table>
@@ -4252,9 +3953,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Camera Apps
-
 
 [Open Camera](https://opencamera.org.uk/)
 <table>
@@ -4277,7 +3976,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Secure Camera](https://github.com/GrapheneOS/Camera)
 <table>
     <tr>
@@ -4299,9 +3997,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Digital Painting Tools
-
 
 [Krita](https://krita.org/)
 <table>
@@ -4327,9 +4023,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Icon Libraries
-
 
 [Font Awesome](https://fontawesome.com/)
 <table>
@@ -4353,9 +4047,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Image Editors
-
 
 [GIMP](https://www.gimp.org/)
 <table>
@@ -4381,9 +4073,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Panorama Makers
-
 
 [Hugin](https://hugin.sourceforge.io/)
 <table>
@@ -4407,9 +4097,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Photo Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 <table>
@@ -4431,7 +4119,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Aves](https://github.com/deckerst/aves)
 <table>
@@ -4455,9 +4142,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Screenshot Capture Tools
-
 
 [Flameshot](https://flameshot.org/)
 <table>
@@ -4483,9 +4168,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Vector Graphic Apps
-
 
 [Inkscape](https://inkscape.org/)
 <table>
@@ -4511,10 +4194,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Remote Work & Education
 ### Video Conferencing Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Infomaniak kMeet](https://www.infomaniak.com/en/kmeet)
 <table>
@@ -4540,10 +4221,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Security & Privacy
 ### Anti-Virus Tools
-
 
 [ClamAV](https://www.clamav.net/)
 <table>
@@ -4566,7 +4245,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [VirusTotal](https://www.virustotal.com/)
 <table>
@@ -4592,9 +4270,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Authenticators
-
 
 [Aegis Authenticator](https://getaegis.app/)
 <table>
@@ -4617,7 +4293,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Ente Auth](https://ente.io/auth/)
 <table>
@@ -4644,9 +4319,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Data Breach Tools
-
 
 [Have I Been Pwned?](https://haveibeenpwned.com/)
 <table>
@@ -4670,9 +4343,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Disk Encryption Tools
-
 
 [LUKS](https://gitlab.com/cryptsetup/cryptsetup)
 <table>
@@ -4695,7 +4366,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
 <table>
@@ -4720,9 +4390,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Disposable Email Services
-
 
 [MailDrop](https://maildrop.cc/)
 <table>
@@ -4746,9 +4414,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Email Aliasing Services
-
 
 [addy.io](https://addy.io/)
 <table>
@@ -4773,9 +4439,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### File Encryption Software
-
 
 [Cryptomator](https://cryptomator.org/)
 <table>
@@ -4801,7 +4465,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Picocrypt](https://github.com/Picocrypt/Picocrypt)
 <table>
     <tr>
@@ -4825,12 +4488,9 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Firewalls <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
-
 ### Password Managers
-
 
 [KeePassXC](https://keepassxc.org/)
 <table>
@@ -4856,7 +4516,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [KeePassDX](https://www.keepassdx.com/)
 <table>
     <tr>
@@ -4879,9 +4538,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Phone Number Services
-
 
 [JMP.chat](https://jmp.chat/)
 <table>
@@ -4902,7 +4559,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [MySudo](https://mysudo.com/)
 <table>
@@ -4927,9 +4583,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Privacy Tools
-
 
 [Exodus Privacy](https://exodus-privacy.eu.org/)
 <table>
@@ -4954,7 +4608,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Terms of Service; Didn't Read](https://tosdr.org/)
 <table>
     <tr>
@@ -4978,9 +4631,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Virtual Private Network Apps
-
 
 [Mullvad](https://www.mullvad.net/)
 <table>
@@ -5008,7 +4659,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Orbot](https://orbot.app/)
 <table>
     <tr>
@@ -5031,7 +4681,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Proton VPN](https://protonvpn.com/)
 <table>
@@ -5058,9 +4707,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Vulnerability Scanners
-
 
 [Metasploit](https://metasploit.com/)
 <table>
@@ -5085,10 +4732,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Social & Communications
 ### Blog Publishing Tools
-
 
 [WordPress](https://wordpress.org/)
 <table>
@@ -5115,9 +4760,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Comment Platforms
-
 
 [Isso](https://isso-comments.de/)
 <table>
@@ -5139,9 +4782,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Communication Protocols <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Matrix](https://matrix.org/)
 <table>
@@ -5167,7 +4808,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [XMPP](https://xmpp.org/)
 <table>
     <tr>
@@ -5192,7 +4832,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [SMP](https://simplex.chat/docs/protocol/simplex-chat.html)
 <table>
     <tr>
@@ -5215,7 +4854,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Signal](https://github.com/signalapp/libsignal)
 <table>
@@ -5240,9 +4878,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Dating Services
-
 
 [Alovoa](https://alovoa.com/)
 <table>
@@ -5265,9 +4901,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Instant Messengers
-
 
 [Briar](https://briarproject.org/)
 <table>
@@ -5294,7 +4928,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [SimpleX Chat](https://simplex.chat/)
 <table>
     <tr>
@@ -5320,9 +4953,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Microblogs
-
 
 [Mastodon](https://joinmastodon.org/)
 <table>
@@ -5346,9 +4977,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Random Chat
-
 
 [MeroChat](https://mero.chat/)
 <table>
@@ -5372,9 +5001,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Short-Form Video
-
 
 [Loops](https://loops.video/)
 <table>
@@ -5399,7 +5026,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [ProxiTok](https://github.com/pablouser1/ProxiTok)
 <table>
     <tr>
@@ -5421,9 +5047,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Social Media Analytics <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Postiz](https://postiz.com/)
 <table>
@@ -5445,9 +5069,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Social Networks
-
 
 [Lemmy](https://join-lemmy.org/)
 <table>
@@ -5471,9 +5093,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Photo Sharing Apps
-
 
 [Pixelfed](https://pixelfed.org/)
 <table>
@@ -5496,9 +5116,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Random Video Chat Apps
-
 
 [Live Talk](https://play.google.com/store/apps/details?id=com.mcastrangertalk.livetalkrandome)
 <table>
@@ -5521,10 +5139,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Sport & Health
 ### Beauty Product Information Tools
-
 
 [Open Beauty Facts](https://world.openbeautyfacts.org/)
 <table>
@@ -5549,9 +5165,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Breathing Exercise Tools
-
 
 [Inner Breeze](https://inbreeze.xyz/)
 <table>
@@ -5576,9 +5190,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Diabetic Trackers
-
 
 [Diaguard](https://diaguard.wordpress.com/)
 <table>
@@ -5602,9 +5214,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Diet Creation Tools
-
 
 [Daily Dozen](https://nutritionfacts.org/open-source/)
 <table>
@@ -5629,9 +5239,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Fitness Trackers
-
 
 [Gadgetbridge](https://gadgetbridge.org/)
 <table>
@@ -5655,9 +5263,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Gym Exercise Trackers
-
 
 [Massive](https://github.com/brandonp2412/Massive)
 <table>
@@ -5681,9 +5287,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Habit Trackers
-
 
 [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 <table>
@@ -5706,7 +5310,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Table Habit](https://github.com/FriesI23/mhabit)
 <table>
     <tr>
@@ -5728,9 +5331,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Medicine Reminder Tools
-
 
 [Simpill](https://gitlab.com/simpilldev/simpill)
 <table>
@@ -5755,9 +5356,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Meditation Tools
-
 
 [Medito](https://meditofoundation.org/medito-app)
 <table>
@@ -5782,9 +5381,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Menstrual Cycle Trackers
-
 
 [drip.](https://bloodyhealth.gitlab.io/)
 <table>
@@ -5809,7 +5406,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Mensinator](https://github.com/EmmaTellblom/Mensinator)
 <table>
     <tr>
@@ -5831,9 +5427,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Mood Trackers
-
 
 [Pixy](https://pixy.day/)
 <table>
@@ -5859,9 +5453,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Nutrition Information Tools
-
 
 [Open Food Facts](https://world.openfoodfacts.org/)
 <table>
@@ -5887,9 +5479,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Pedometers
-
 
 [Paseo](https://gitlab.com/pardomi/paseo)
 <table>
@@ -5914,9 +5504,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Physical Activity Trackers 
-
 
 [FitoTrack](https://codeberg.org/jannis/FitoTrack)
 <table>
@@ -5940,7 +5528,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [OpenTracks](https://f-droid.org/en/packages/de.dennisguse.opentracks/)
 <table>
     <tr>
@@ -5962,9 +5549,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Seasonal Food Information Tools
-
 
 [Seasonal Foods Calendar](https://flunzmas.com/seasonal-foods-calendar/)
 <table>
@@ -5989,9 +5574,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Relaxation Tools
-
 
 [Noice](https://trynoice.com/)
 <table>
@@ -6015,9 +5598,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Weed Trackers
-
 
 [Petals](https://github.com/LeoColman/Petals)
 <table>
@@ -6041,9 +5622,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Weight & Diet Trackers
-
 
 [Energize](https://codeberg.org/epinez/Energize)
 <table>
@@ -6065,7 +5644,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [OpenNutriTracker](https://simonoppowa.github.io/OpenNutriTracker-Website/)
 <table>
@@ -6089,7 +5667,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [openScale](https://github.com/oliexdev/openScale)
 <table>
     <tr>
@@ -6110,7 +5687,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Waistline](https://github.com/davidhealey/waistline)
 <table>
@@ -6133,9 +5709,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Workout Routine Tools
-
 
 [Feeel](https://gitlab.com/enjoyingfoss/feeel)
 <table>
@@ -6159,9 +5733,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Workout Timers
-
 
 [TimeR Machine](https://github.com/timer-machine/timer-machine-android)
 <table>
@@ -6185,10 +5757,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # System & Hardware
 ### BIOS/UEFI Replacements
-
 
 [coreboot](https://coreboot.org/)
 <table>
@@ -6211,7 +5781,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Libreboot](https://www.libreboot.org/)
 <table>
     <tr>
@@ -6233,9 +5802,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Server Management Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Webmin](https://webmin.com/)
 <table>
@@ -6258,10 +5825,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Travel & Location
 ### Map Services
-
 
 [OpenStreetMap](https://www.openstreetmap.org/)
 <table>
@@ -6285,7 +5850,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [OsmAnd](https://osmand.net/)
 <table>
     <tr>
@@ -6307,7 +5871,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Organic Maps](https://organicmaps.app/)
 <table>
@@ -6333,7 +5896,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [StreetComplete](https://streetcomplete.app/)
 <table>
     <tr>
@@ -6356,9 +5918,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Mock Location Apps
-
 
 [Fake Traveler](https://github.com/mcastillof/FakeTraveler)
 <table>
@@ -6382,10 +5942,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Video & Movies
 ### Media Centers
-
 
 [Kodi](https://kodi.tv/)
 <table>
@@ -6410,7 +5968,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Jellyfin](https://jellyfin.org/)
 <table>
     <tr>
@@ -6434,9 +5991,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Media Players
-
 
 [VLC Media Player](https://www.videolan.org/vlc/)
 <table>
@@ -6463,9 +6018,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Movie Streaming Services
-
 
 [Stremio](https://www.stremio.com/)
 <table>
@@ -6490,9 +6043,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Screen Recorders
-
 
 [OBS Studio](https://obsproject.com/)
 <table>
@@ -6518,9 +6069,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Video Converters
-
 
 [FFmpeg](https://ffmpeg.org/)
 <table>
@@ -6544,7 +6093,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [HandBrake](https://handbrake.fr/)
 <table>
     <tr>
@@ -6567,9 +6115,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Video Downloaders
-
 
 [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 <table>
@@ -6595,9 +6141,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Video Editors <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Kdenlive](https://kdenlive.org/)
 <table>
@@ -6621,7 +6165,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Open Video Editor](https://github.com/devhyper/open-video-editor)
 <table>
     <tr>
@@ -6644,9 +6187,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Video Sharing Tools
-
 
 [Odysee](https://odysee.com/)
 <table>
@@ -6671,7 +6212,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [PeerTube](https://joinpeertube.org/)
 <table>
     <tr>
@@ -6694,9 +6234,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Watch Videos Together Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [OpenTogetherTube](https://opentogethertube.com/)
 <table>
@@ -6718,9 +6256,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### YouTube Clients
-
 
 [FreeTube](https://freetubeapp.io/)
 <table>
@@ -6746,7 +6282,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Tubular](https://github.com/polymorphicshade/Tubular)
 <table>
     <tr>
@@ -6769,9 +6304,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### YouTube Frontends
-
 
 [Invidious](https://redirect.invidious.io/)
 <table>
@@ -6795,7 +6328,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Piped](https://github.com/TeamPiped/Piped)
 <table>
     <tr>
@@ -6817,10 +6349,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 # Web Browsing
 ### Ad Blockers
-
 
 [uBlock Origin](https://github.com/gorhill/uBlock)
 <table>
@@ -6847,7 +6377,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [NoScript](https://noscript.net/)
 <table>
     <tr>
@@ -6873,7 +6402,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Pi-hole](https://pi-hole.net/)
 <table>
     <tr>
@@ -6895,9 +6423,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Bookmark Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
-
 
 [Raindrop.io](https://raindrop.io/)
 <table>
@@ -6923,9 +6449,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Browser Testing Tools
-
 
 [Am I Unique?](https://amiunique.org/fingerprint)
 <table>
@@ -6947,7 +6471,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [BrowserAudit](https://browseraudit.com/)
 <table>
@@ -6971,7 +6494,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [Cover Your Tracks](https://coveryourtracks.eff.org/)
 <table>
     <tr>
@@ -6994,7 +6516,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 [CreepJS](https://abrahamjuliot.github.io/creepjs/)
 <table>
     <tr>
@@ -7016,9 +6537,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Chromium-based Browsers
-
 
 [Brave](https://brave.com/)
 <table>
@@ -7045,9 +6564,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Firefox-based Browsers
-
 
 [Mullvad Browser](https://mullvad.net/en/browser)
 <table>
@@ -7071,7 +6588,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
 <table>
@@ -7098,9 +6614,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Image Search Engines
-
 
 [Search by Image](https://github.com/dessant/search-by-image)
 <table>
