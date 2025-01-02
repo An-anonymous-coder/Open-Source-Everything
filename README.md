@@ -1,12 +1,12 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
 Open Source Everything is a curated list of the best source-available software. Unlike other lists that try to provide a wide selection of software, this list instead focuses on only the best software in each category. 
 
-While proprietary software is avoided on this list where possible, there are some circumstances where proprietary software provides a boost in privacy or security where no source-available alternative does. Those options are marked with the <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" height="16"> stamp. 
+While proprietary software is avoided on this list where possible, there are some circumstances where proprietary software provides a boost in privacy or security where no source-available alternative does. Those options are marked with the <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> stamp. 
 
-Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
+Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
 # Versioning
-**Version 77.2025.1.2.0**
+**Version 78.2025.1.2.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -33,30 +33,30 @@ Coming soon!
 ### Stamps
 Stamps give you a general idea of the consensus around a piece of software. This helps you better gague which software is highly recommended by me or the open source community as a whole.
 
-<img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16"> = Verified best software
+<img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16"> = Verified best software
 
-<img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" height="16"> = This software is proprietary
+<img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> = This software is proprietary
 
-<img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16"> = My top choices
+<img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16"> = My top choices
 
-<img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16"> = I have personally used and inspected this software
+<img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16"> = I have personally used and inspected this software
 
-<img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" height="16"> = This software is outdated or abandoned
+<img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16"> = This software is outdated or abandoned
 
-<img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16"> = This section needs to be improved
+<img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16"> = This section needs to be improved
 
 ### Platforms
 These are the platforms a piece of software is currently available on.
 
-<img alt="Android" src="Assets/Platforms/Android.svg" height="16"> = Available for Android devices
+<img alt="Android" src="Assets/Platforms/Android.svg" width="16"> = Available for Android devices
 
-<img alt="Apple" src="Assets/Platforms/Apple.svg" height="16"> = Available for Apple devices
+<img alt="Apple" src="Assets/Platforms/Apple.svg" width="16"> = Available for Apple devices
 
-<img alt="Linux" src="Assets/Platforms/Linux.svg" height="16"> = Available for Linux devices
+<img alt="Linux" src="Assets/Platforms/Linux.svg" width="16"> = Available for Linux devices
 
-<img alt="Windows" src="Assets/Platforms/Windows.svg" height="16"> = Available for Windows devices
+<img alt="Windows" src="Assets/Platforms/Windows.svg" width="16"> = Available for Windows devices
 
-<img alt="Online" src="Assets/Platforms/Online.svg" height="16"> = Available online
+<img alt="Online" src="Assets/Platforms/Online.svg" width="16"> = Available online
 
 
 # Table of Contents
@@ -116,7 +116,7 @@ These are the platforms a piece of software is currently available on.
 
 
 # AI Tools & Services
-### AI Chatbots <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### AI Chatbots <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [GPT4ALL](https://gpt4all.io/)
@@ -126,7 +126,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -134,9 +134,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -149,7 +149,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -157,9 +157,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -172,9 +172,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -182,15 +182,15 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### AI Image Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### AI Image Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Craiyon](https://www.craiyon.com/)
@@ -200,7 +200,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -208,7 +208,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -221,8 +221,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -230,16 +230,16 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### AI Music Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### AI Music Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Stable Audio Open](https://huggingface.co/stabilityai/stable-audio-open-1.0)
@@ -249,7 +249,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -257,13 +257,13 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### AI Video Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### AI Video Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Hotshot](https://hotshot.co/)
@@ -273,7 +273,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -281,7 +281,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -294,7 +294,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -302,7 +302,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -315,7 +315,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -323,7 +323,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -340,9 +340,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -350,9 +350,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -368,9 +368,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -378,13 +378,13 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Music Production Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Music Production Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [LMMS](https://lmms.io/)
@@ -394,7 +394,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -402,22 +402,22 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-[MuseScore](https://musescore.org/)
+[MuseScore Studio](https://musescore.org/)
 <table>
     <tr>
         <td>
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -425,10 +425,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -444,9 +444,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -454,7 +454,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -467,8 +467,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -476,7 +476,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -492,8 +492,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -501,7 +501,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -518,7 +518,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -526,9 +526,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -541,7 +541,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -549,14 +549,14 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Cloud Storage Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Cloud Storage Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Nextcloud](https://nextcloud.com/)
@@ -566,7 +566,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -574,11 +574,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -594,8 +594,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -603,9 +603,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -618,8 +618,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -627,7 +627,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -644,7 +644,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -652,9 +652,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -670,7 +670,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" height="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -678,7 +678,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -694,7 +694,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -702,10 +702,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -721,9 +721,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -731,16 +731,16 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
 # CD/DVD Tools
-### Bootable USB Creators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Bootable USB Creators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [belenaEtcher](https://etcher.balena.io/)
@@ -750,7 +750,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -758,9 +758,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -773,9 +773,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -783,7 +783,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -796,7 +796,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -804,7 +804,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -817,7 +817,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -825,8 +825,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -842,9 +842,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -852,7 +852,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -869,9 +869,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -879,9 +879,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -897,9 +897,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -907,9 +907,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -922,8 +922,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -931,10 +931,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -950,7 +950,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -958,10 +958,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -977,7 +977,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -985,13 +985,13 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Software Frameworks <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Software Frameworks <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Qt](https://www.qt.io/product/framework)
@@ -1001,7 +1001,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1009,9 +1009,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1027,8 +1027,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1036,8 +1036,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1050,7 +1050,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1058,7 +1058,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1074,7 +1074,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1082,10 +1082,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1098,7 +1098,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1106,9 +1106,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1124,9 +1124,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1134,10 +1134,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1153,7 +1153,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1161,9 +1161,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1176,7 +1176,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1184,8 +1184,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1202,9 +1202,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1212,9 +1212,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1231,9 +1231,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1241,10 +1241,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1260,9 +1260,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1270,15 +1270,15 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Circuit Simulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Circuit Simulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [KiCad](https://www.kicad.org/)
@@ -1288,7 +1288,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1296,9 +1296,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1314,9 +1314,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1324,8 +1324,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1341,9 +1341,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1351,9 +1351,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1369,7 +1369,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1377,7 +1377,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1393,8 +1393,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1402,10 +1402,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1421,7 +1421,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1429,7 +1429,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1445,9 +1445,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1455,7 +1455,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1471,9 +1471,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1481,16 +1481,16 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
 # File Management
-### File Archivers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### File Archivers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [7-Zip](https://www.7-zip.org/)
@@ -1500,7 +1500,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1508,9 +1508,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1523,7 +1523,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1531,9 +1531,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1550,7 +1550,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1558,10 +1558,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1574,9 +1574,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1584,10 +1584,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1600,9 +1600,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1610,11 +1610,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1630,8 +1630,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1639,9 +1639,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1654,8 +1654,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1663,7 +1663,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1679,7 +1679,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1687,7 +1687,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1704,8 +1704,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1713,9 +1713,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1728,9 +1728,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1738,7 +1738,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1754,7 +1754,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1762,9 +1762,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1780,8 +1780,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1789,10 +1789,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1808,8 +1808,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16"> 
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -1817,10 +1817,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1836,8 +1836,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1845,7 +1845,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1858,8 +1858,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16"> 
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -1867,11 +1867,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1884,8 +1884,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1893,7 +1893,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1909,7 +1909,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1917,10 +1917,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1936,7 +1936,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1944,9 +1944,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1962,7 +1962,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1970,10 +1970,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -1989,7 +1989,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16"> 
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -1997,10 +1997,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2016,7 +2016,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2024,20 +2024,20 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
 
 
 # Gaming Software
-### Anti-Cheat Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Anti-Cheat Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
-### Game Emulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Game Emulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [RetroArch](https://retroarch.com/)
@@ -2047,7 +2047,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2055,18 +2055,18 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
 # Home & Family
-### Genealogy Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Genealogy Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Gramps](https://gramps-project.org/blog/)
@@ -2076,7 +2076,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2084,15 +2084,15 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Home Automation Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Home Automation Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Home Assistant](https://www.home-assistant.io/)
@@ -2102,7 +2102,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2110,10 +2110,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2126,7 +2126,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2134,11 +2134,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2155,9 +2155,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2165,9 +2165,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2180,9 +2180,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2190,16 +2190,16 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### CAPTCHAs <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### CAPTCHAs <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [mCaptcha](https://mcaptcha.org/)
@@ -2209,7 +2209,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2217,7 +2217,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2233,8 +2233,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2242,13 +2242,13 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### DNS Resolvers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### DNS Resolvers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
@@ -2258,7 +2258,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16"> 
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -2266,11 +2266,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2283,7 +2283,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2291,11 +2291,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2311,9 +2311,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2321,9 +2321,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2336,9 +2336,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2346,9 +2346,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2364,9 +2364,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2374,16 +2374,16 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Router Custom Firmwares <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Router Custom Firmwares <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [DD-WRT](https://dd-wrt.com/)
@@ -2393,7 +2393,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2401,9 +2401,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2416,7 +2416,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2424,7 +2424,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2437,7 +2437,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2445,7 +2445,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2461,9 +2461,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2471,9 +2471,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2486,7 +2486,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2494,8 +2494,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2511,8 +2511,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2520,9 +2520,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2535,9 +2535,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2545,16 +2545,16 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Web Analytics Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Web Analytics Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Matomo](https://matomo.org/)
@@ -2564,7 +2564,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2572,9 +2572,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2590,7 +2590,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2598,7 +2598,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2615,9 +2615,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2625,7 +2625,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2641,9 +2641,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2651,7 +2651,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2664,7 +2664,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2672,7 +2672,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2688,8 +2688,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2697,9 +2697,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2712,7 +2712,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2720,7 +2720,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2736,8 +2736,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2745,7 +2745,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2762,7 +2762,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2770,9 +2770,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2788,7 +2788,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2796,9 +2796,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2811,7 +2811,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2819,9 +2819,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2837,8 +2837,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2846,10 +2846,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2865,9 +2865,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2875,11 +2875,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2892,7 +2892,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2900,9 +2900,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2918,9 +2918,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2928,10 +2928,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2947,7 +2947,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2955,7 +2955,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2968,7 +2968,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2976,8 +2976,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -2993,8 +2993,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3002,7 +3002,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3015,9 +3015,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3025,13 +3025,13 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Task Automation Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Task Automation Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [AutoHotkey](https://autohotkey.com/)
@@ -3041,7 +3041,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3049,7 +3049,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3065,9 +3065,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3075,9 +3075,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3090,8 +3090,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3099,9 +3099,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3117,9 +3117,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3127,9 +3127,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3142,8 +3142,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3151,9 +3151,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3166,7 +3166,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3174,7 +3174,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3190,7 +3190,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3198,10 +3198,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3217,9 +3217,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3227,11 +3227,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3244,9 +3244,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3254,18 +3254,18 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
 # Online Services
-### App Stores for Android <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### App Stores for Android <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Accrescent](https://accrescent.app/)
@@ -3275,9 +3275,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3285,7 +3285,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3298,7 +3298,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3306,7 +3306,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3319,7 +3319,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3327,8 +3327,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3341,9 +3341,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3351,8 +3351,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3368,7 +3368,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3376,7 +3376,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3389,8 +3389,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3398,8 +3398,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3415,7 +3415,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3423,7 +3423,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3448,7 +3448,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3469,13 +3469,13 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### URL Shorteners <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### URL Shorteners <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [url.zip](https://www.url.zip/)
@@ -3485,7 +3485,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3493,7 +3493,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3506,7 +3506,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3514,7 +3514,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3530,9 +3530,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3540,7 +3540,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3556,9 +3556,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3566,8 +3566,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3584,9 +3584,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3594,7 +3594,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3610,9 +3610,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3620,7 +3620,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3636,9 +3636,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3646,9 +3646,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3664,9 +3664,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3674,9 +3674,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3692,8 +3692,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3701,7 +3701,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3714,8 +3714,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3723,7 +3723,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3739,7 +3739,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3747,7 +3747,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3760,9 +3760,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3770,8 +3770,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3784,7 +3784,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3792,7 +3792,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3808,7 +3808,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3816,9 +3816,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3834,7 +3834,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3842,8 +3842,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3859,9 +3859,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3869,7 +3869,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3882,9 +3882,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3892,7 +3892,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3905,9 +3905,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3915,7 +3915,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3931,9 +3931,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3941,7 +3941,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3957,9 +3957,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3967,7 +3967,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -3983,9 +3983,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3993,8 +3993,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4010,8 +4010,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4019,7 +4019,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4035,9 +4035,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4045,7 +4045,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4061,8 +4061,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4070,9 +4070,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4088,9 +4088,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4098,9 +4098,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4116,8 +4116,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4125,13 +4125,13 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Text to Speech Service <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Text to Speech Service <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [RHVoice](https://rhvoice.org/)
@@ -4141,7 +4141,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4149,9 +4149,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4167,7 +4167,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4175,7 +4175,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4192,9 +4192,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4202,9 +4202,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4220,9 +4220,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4230,9 +4230,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4248,8 +4248,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4257,7 +4257,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4270,8 +4270,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4279,7 +4279,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4295,9 +4295,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4305,9 +4305,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4323,9 +4323,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4333,7 +4333,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4349,9 +4349,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4359,9 +4359,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4377,7 +4377,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4385,15 +4385,15 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Photo Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Photo Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
@@ -4403,8 +4403,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4412,7 +4412,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4425,9 +4425,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4435,7 +4435,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4451,9 +4451,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4461,9 +4461,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4479,9 +4479,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4489,16 +4489,16 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
 
 
 # Remote Work & Education
-### Video Conferencing Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Video Conferencing Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Infomaniak kMeet](https://www.infomaniak.com/en/kmeet)
@@ -4508,7 +4508,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4516,11 +4516,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4537,7 +4537,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4545,9 +4545,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4560,7 +4560,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" height="16">
+            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4568,11 +4568,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4588,9 +4588,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4598,7 +4598,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4611,8 +4611,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4620,11 +4620,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4640,9 +4640,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4650,7 +4650,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4666,9 +4666,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4676,7 +4676,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4689,8 +4689,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4698,9 +4698,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4716,9 +4716,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4726,7 +4726,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4742,9 +4742,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4752,8 +4752,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4769,8 +4769,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4778,10 +4778,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4794,8 +4794,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4803,15 +4803,15 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Firewalls <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Firewalls <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 ### Password Managers
@@ -4824,9 +4824,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4834,9 +4834,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4849,9 +4849,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4859,7 +4859,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4875,7 +4875,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4883,7 +4883,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4896,9 +4896,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4906,8 +4906,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4923,9 +4923,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4933,8 +4933,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4947,9 +4947,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4957,8 +4957,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -4974,9 +4974,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4984,11 +4984,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5001,9 +5001,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5011,8 +5011,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5025,9 +5025,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5035,10 +5035,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5054,9 +5054,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5064,8 +5064,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5082,8 +5082,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5091,11 +5091,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5111,7 +5111,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5119,13 +5119,13 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Communication Protocols <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Communication Protocols <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Matrix](https://matrix.org/)
@@ -5135,7 +5135,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5143,11 +5143,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5160,7 +5160,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5168,11 +5168,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5185,7 +5185,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5193,10 +5193,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5209,7 +5209,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5217,10 +5217,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5236,7 +5236,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5244,8 +5244,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5261,9 +5261,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5271,10 +5271,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5287,9 +5287,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5297,10 +5297,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5316,7 +5316,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5324,9 +5324,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5342,9 +5342,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5352,7 +5352,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5368,9 +5368,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5378,8 +5378,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5392,8 +5392,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5401,7 +5401,31 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+        </td>
+    </tr>
+</table>
+
+
+### Social Media Analytics <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+
+
+[Postiz](https://postiz.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5417,7 +5441,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5425,9 +5449,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5443,7 +5467,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5451,8 +5475,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5468,7 +5492,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5476,8 +5500,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5494,9 +5518,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5504,8 +5528,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5521,9 +5545,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5531,8 +5555,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5548,9 +5572,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5558,7 +5582,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5574,9 +5598,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5584,8 +5608,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5601,9 +5625,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5611,7 +5635,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5627,9 +5651,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5637,7 +5661,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5653,8 +5677,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5662,7 +5686,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5675,8 +5699,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5684,7 +5708,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5700,10 +5724,10 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5711,7 +5735,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5727,9 +5751,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5737,8 +5761,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5754,9 +5778,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5764,8 +5788,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5778,8 +5802,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5787,7 +5811,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5803,10 +5827,10 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5814,8 +5838,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5831,9 +5855,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5841,9 +5865,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5859,10 +5883,10 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5870,7 +5894,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5886,9 +5910,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5896,7 +5920,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5909,8 +5933,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5918,7 +5942,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5934,10 +5958,10 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5945,7 +5969,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5961,9 +5985,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5971,7 +5995,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -5987,9 +6011,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5997,7 +6021,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6013,8 +6037,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6022,7 +6046,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6035,8 +6059,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6044,8 +6068,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6058,8 +6082,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6067,7 +6091,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6080,8 +6104,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6089,7 +6113,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6105,9 +6129,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6115,7 +6139,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6131,9 +6155,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6141,7 +6165,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6158,8 +6182,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6167,7 +6191,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6180,8 +6204,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6189,13 +6213,13 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Server Management Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Server Management Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Webmin](https://webmin.com/)
@@ -6205,7 +6229,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6213,8 +6237,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6231,9 +6255,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6241,7 +6265,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6254,8 +6278,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6263,8 +6287,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6277,9 +6301,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6287,9 +6311,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6302,9 +6326,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6312,7 +6336,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6328,9 +6352,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" height="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6338,7 +6362,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6355,7 +6379,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6363,10 +6387,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6379,7 +6403,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6387,10 +6411,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6406,9 +6430,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6416,10 +6440,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6435,7 +6459,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6443,10 +6467,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6462,9 +6486,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6472,9 +6496,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6490,7 +6514,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6498,9 +6522,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6513,7 +6537,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6521,9 +6545,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6539,9 +6563,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6549,15 +6573,15 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Video Editors <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Video Editors <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Kdenlive](https://kdenlive.org/)
@@ -6567,7 +6591,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6575,9 +6599,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6590,9 +6614,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6600,7 +6624,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6616,8 +6640,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6625,9 +6649,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6640,8 +6664,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6649,14 +6673,14 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Watch Videos Together Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Watch Videos Together Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [OpenTogetherTube](https://opentogethertube.com/)
@@ -6666,7 +6690,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6674,7 +6698,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6690,9 +6714,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6700,9 +6724,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6715,9 +6739,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6725,7 +6749,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6741,9 +6765,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6751,7 +6775,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6764,8 +6788,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6773,7 +6797,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6790,9 +6814,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6800,10 +6824,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6816,9 +6840,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6826,10 +6850,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6842,8 +6866,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6851,13 +6875,13 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </td>
     </tr>
 </table>
 
 
-### Bookmark Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+### Bookmark Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
 
 
 [Raindrop.io](https://raindrop.io/)
@@ -6867,7 +6891,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" height="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6875,11 +6899,11 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6895,8 +6919,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6904,7 +6928,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6917,9 +6941,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6927,7 +6951,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6940,9 +6964,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6950,7 +6974,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6963,8 +6987,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6972,7 +6996,7 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Online" src="Assets/Platforms/Online.svg" height="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
 </table>
@@ -6988,9 +7012,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6998,10 +7022,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -7017,8 +7041,8 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -7026,9 +7050,9 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -7041,9 +7065,9 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" height="16">
-            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="I have personally used and inspected this software" src="Assets/Stamps/Used_and_inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -7051,10 +7075,10 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
-            <img alt="Linux" src="Assets/Platforms/Linux.svg" height="16">
-            <img alt="Windows" src="Assets/Platforms/Windows.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
         </td>
     </tr>
 </table>
@@ -7070,7 +7094,7 @@ These are the platforms a piece of software is currently available on.
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" height="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -7078,8 +7102,8 @@ These are the platforms a piece of software is currently available on.
             <b>Platforms</b>
         </td>
         <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" height="16">
-            <img alt="Apple" src="Assets/Platforms/Apple.svg" height="16">
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
         </td>
     </tr>
 </table>
