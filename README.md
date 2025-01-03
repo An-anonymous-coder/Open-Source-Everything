@@ -16,7 +16,7 @@ While proprietary software is avoided on this list where possible, there are som
 Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
 # Versioning
-### Current version: `85.2025.1.2.8`
+### Current version: `86.2025.1.2.9`
 
 The version code follows the format:
 - **Total Releases:** The total number of releases since creation
@@ -104,6 +104,8 @@ Platforms tell you on which devices software is available to be used. Because th
 [OS & Utilities](#os--utilities)
 
 [Photos & Graphics](#photos--graphics)
+
+[Religion & Prayer](#religion--prayer)
 
 [Remote Work & Education](#remote-work--education)
 
@@ -678,9 +680,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-
 ### Taxes
-
 
 [Open Tax Solver](https://opentaxsolver.sourceforge.net/)
 <table>
@@ -704,7 +704,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 [US Taxes](https://ustaxes.org/)
 <table>
@@ -730,7 +729,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 ### Virtual Card Services
 
@@ -1679,6 +1677,31 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
+### First-Person Shooters
+
+[Xonotic](http://www.xonotic.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+        </td>
+    </tr>
+</table>
+
 ### Flight Simulators
 
 [FlightGear](https://www.flightgear.org/)
@@ -1951,6 +1974,29 @@ Platforms tell you on which devices software is available to be used. Because th
 # Gaming Software
 ### Anti-Cheat Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
+### Game Cheating Tools
+
+[Cheat Engine](https://cheatengine.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+        </td>
+    </tr>
+</table>
+
 ### Game Emulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [RetroArch](https://retroarch.com/)
@@ -1972,6 +2018,53 @@ Platforms tell you on which devices software is available to be used. Because th
             <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+        </td>
+    </tr>
+</table>
+
+### Game Stores
+
+[itch.io](https://itch.io/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+        </td>
+    </tr>
+</table>
+
+[Lutris](https://lutris.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
             <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
         </td>
     </tr>
@@ -2275,6 +2368,32 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
+### Remote Desktop Tools
+
+[RustDesk](https://rustdesk.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+        </td>
+    </tr>
+</table>
+
 ### Router Custom Firmwares <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [DD-WRT](https://dd-wrt.com/)
@@ -2483,30 +2602,6 @@ Platforms tell you on which devices software is available to be used. Because th
 </table>
 
 # News & Books
-### Bible Study Tools
-
-[AndBible](https://andbible.org/)
-<table>
-    <tr>
-        <td>
-            <b>Stamps</b>
-        </td>
-        <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Platforms</b>
-        </td>
-        <td>
-            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
-        </td>
-    </tr>
-</table>
-
 ### Ebook Libraries
 
 [Anna's Archive](https://annas-archive.org/)
@@ -3254,7 +3349,6 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
     </tr>
 </table>
-
 
 ### Pornography
 
@@ -4244,6 +4338,115 @@ Platforms tell you on which devices software is available to be used. Because th
             <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
             <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
             <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+        </td>
+    </tr>
+</table>
+
+# Religion & Prayer
+### Adhan Reminders <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+
+[Al-Azan](https://github.com/meypod/al-azan)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+        </td>
+    </tr>
+</table>
+
+[Prayer Times (Namaz Vakti)](https://github.com/metinkale38/prayer-times-android)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+        </td>
+    </tr>
+</table>
+
+### Bible Study Tools
+
+[AndBible](https://andbible.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+        </td>
+    </tr>
+</table>
+
+### Quran <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+
+[Quran for Android](https://android.quran.com/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+        </td>
+    </tr>
+</table>
+
+[QuranApp](https://github.com/AlfaazPlus/QuranApp)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
         </td>
     </tr>
 </table>
