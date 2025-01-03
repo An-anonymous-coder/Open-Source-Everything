@@ -13,10 +13,10 @@
 
 While proprietary software is avoided on this list where possible, there are some circumstances where proprietary software provides a boost in privacy or security where no source-available alternative does. Those options are marked with the <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> stamp. 
 
-Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
+Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
 # Versioning
-### Current version: `84.2025.1.2.7`
+### Current version: `85.2025.1.2.8`
 
 The version code follows the format:
 - **Total Releases:** The total number of releases since creation
@@ -41,17 +41,17 @@ https://github.com/An-anonymous-coder/Open-Source-Everything
 ### Stamps
 Stamps give you a general idea of the consensus around a piece of software. They help you gague which software is recommended by me and the open source community as a whole.
 
-<img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16"> Verified best software
+<img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16"> Verified best software
 
 <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> This software is proprietary
 
-<img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16"> My top choices
+<img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16"> My top choices
 
-<img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16"> This software has been used and inspected
+<img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16"> This software has been used and inspected
 
-<img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16"> This software is outdated or abandoned
+<img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16"> This software is outdated or abandoned
 
-<img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16"> This section needs to be improved
+<img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16"> This section needs to be improved
 
 ### Platforms
 Platforms tell you on which devices software is available to be used. Because this list does not focus on a wide selection of software, alternatives may not be listed for some platforms.
@@ -122,7 +122,7 @@ Platforms tell you on which devices software is available to be used. Because th
 [Web Browsing](#web-browsing)
 
 # AI Tools & Services
-### AI Chatbots <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### AI Chatbots <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [GPT4ALL](https://gpt4all.io/)
 <table>
@@ -131,7 +131,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -153,7 +153,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -176,8 +176,8 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
         <td>
             <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -192,7 +192,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### AI Image Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### AI Image Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Craiyon](https://www.craiyon.com/)
 <table>
@@ -201,7 +201,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -221,8 +221,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -238,7 +238,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### AI Music Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### AI Music Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Stable Audio Open](https://huggingface.co/stabilityai/stable-audio-open-1.0)
 <table>
@@ -247,7 +247,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -260,7 +260,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### AI Video Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### AI Video Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Hotshot](https://hotshot.co/)
 <table>
@@ -269,7 +269,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -289,7 +289,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -309,7 +309,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -332,9 +332,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -358,9 +358,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -373,7 +373,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Music Production Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Music Production Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [LMMS](https://lmms.io/)
 <table>
@@ -382,7 +382,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -404,7 +404,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -429,9 +429,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -451,8 +451,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -474,8 +474,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -498,7 +498,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -520,7 +520,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -534,7 +534,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Cloud Storage Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Cloud Storage Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Nextcloud](https://nextcloud.com/)
 <table>
@@ -543,7 +543,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -569,8 +569,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -592,8 +592,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -616,7 +616,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -640,7 +640,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -662,7 +662,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -678,6 +678,60 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
+
+### Taxes
+
+
+[Open Tax Solver](https://opentaxsolver.sourceforge.net/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+        </td>
+    </tr>
+</table>
+
+
+[US Taxes](https://ustaxes.org/)
+<table>
+    <tr>
+        <td>
+            <b>Stamps</b>
+        </td>
+        <td>
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Platforms</b>
+        </td>
+        <td>
+            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+        </td>
+    </tr>
+</table>
+
+
 ### Virtual Card Services
 
 [Privacy.com](https://privacy.com/)
@@ -688,8 +742,8 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
         <td>
             <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -714,9 +768,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -738,9 +792,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -760,7 +814,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -783,9 +837,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -808,9 +862,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -834,9 +888,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -858,8 +912,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -884,7 +938,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -909,7 +963,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -922,7 +976,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Software Frameworks <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Software Frameworks <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Qt](https://www.qt.io/product/framework)
 <table>
@@ -931,7 +985,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -955,8 +1009,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -977,7 +1031,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -999,7 +1053,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1022,7 +1076,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1046,9 +1100,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1073,7 +1127,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1095,7 +1149,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1119,9 +1173,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1146,9 +1200,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1173,9 +1227,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1190,7 +1244,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Circuit Simulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Circuit Simulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [KiCad](https://www.kicad.org/)
 <table>
@@ -1199,7 +1253,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1223,9 +1277,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1248,9 +1302,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1274,7 +1328,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1296,8 +1350,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1322,7 +1376,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1344,9 +1398,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1369,8 +1423,8 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
         <td>
             <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1386,7 +1440,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </table>
 
 # File Management
-### File Archivers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### File Archivers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [7-Zip](https://www.7-zip.org/)
 <table>
@@ -1395,7 +1449,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1417,7 +1471,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1442,7 +1496,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1465,9 +1519,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1490,9 +1544,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1518,8 +1572,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1541,8 +1595,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1564,7 +1618,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1587,8 +1641,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1610,9 +1664,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1634,7 +1688,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1658,8 +1712,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1684,8 +1738,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -1710,8 +1764,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1731,8 +1785,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -1756,8 +1810,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1779,7 +1833,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1804,7 +1858,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1828,7 +1882,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1853,7 +1907,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -1878,7 +1932,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1895,9 +1949,9 @@ Platforms tell you on which devices software is available to be used. Because th
 </table>
 
 # Gaming Software
-### Anti-Cheat Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Anti-Cheat Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
-### Game Emulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Game Emulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [RetroArch](https://retroarch.com/)
 <table>
@@ -1906,7 +1960,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1924,7 +1978,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </table>
 
 # Home & Family
-### Genealogy Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Genealogy Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Gramps](https://gramps-project.org/blog/)
 <table>
@@ -1933,7 +1987,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1948,7 +2002,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Home Automation Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Home Automation Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Home Assistant](https://www.home-assistant.io/)
 <table>
@@ -1957,7 +2011,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -1980,7 +2034,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2007,9 +2061,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2031,9 +2085,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2049,7 +2103,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### CAPTCHAs <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### CAPTCHAs <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [mCaptcha](https://mcaptcha.org/)
 <table>
@@ -2058,7 +2112,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2080,8 +2134,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2094,7 +2148,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### DNS Resolvers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### DNS Resolvers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
 <table>
@@ -2103,7 +2157,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16"> 
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16"> 
         </td>
     </tr>
     <tr>
@@ -2127,7 +2181,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2153,9 +2207,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2177,9 +2231,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2203,9 +2257,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2221,7 +2275,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Router Custom Firmwares <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Router Custom Firmwares <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [DD-WRT](https://dd-wrt.com/)
 <table>
@@ -2230,7 +2284,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2252,7 +2306,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2272,7 +2326,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2294,9 +2348,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2318,7 +2372,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2341,8 +2395,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2364,9 +2418,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2382,7 +2436,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Web Analytics Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Web Analytics Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Matomo](https://matomo.org/)
 <table>
@@ -2391,7 +2445,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2415,7 +2469,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2438,9 +2492,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2462,9 +2516,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2484,7 +2538,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2506,8 +2560,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2529,7 +2583,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2551,8 +2605,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2575,7 +2629,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2599,7 +2653,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2621,7 +2675,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2645,8 +2699,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2671,9 +2725,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2697,7 +2751,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2721,9 +2775,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2748,7 +2802,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2768,7 +2822,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2791,8 +2845,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2812,9 +2866,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2827,7 +2881,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Task Automation Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Task Automation Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [AutoHotkey](https://autohotkey.com/)
 <table>
@@ -2836,7 +2890,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2858,9 +2912,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2882,8 +2936,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2907,9 +2961,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2931,8 +2985,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2954,7 +3008,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -2976,7 +3030,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3001,9 +3055,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3027,9 +3081,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3047,7 +3101,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </table>
 
 # Online Services
-### App Stores for Android <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### App Stores for Android <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Accrescent](https://accrescent.app/)
 <table>
@@ -3056,9 +3110,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3078,7 +3132,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3098,7 +3152,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3119,9 +3173,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3144,7 +3198,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3164,8 +3218,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3188,7 +3242,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3244,7 +3298,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### URL Shorteners <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### URL Shorteners <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [url.zip](https://www.url.zip/)
 <table>
@@ -3253,7 +3307,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3273,7 +3327,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3295,9 +3349,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3319,9 +3373,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3345,9 +3399,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3369,9 +3423,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3393,9 +3447,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3419,9 +3473,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3445,8 +3499,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3466,8 +3520,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3489,7 +3543,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3509,9 +3563,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3532,7 +3586,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3554,7 +3608,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3578,7 +3632,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3601,9 +3655,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3623,9 +3677,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3645,9 +3699,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3669,9 +3723,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3693,9 +3747,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3717,9 +3771,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3742,8 +3796,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3765,9 +3819,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3789,8 +3843,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3814,9 +3868,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3840,8 +3894,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3854,7 +3908,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Text to Speech Service <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Text to Speech Service <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [RHVoice](https://rhvoice.org/)
 <table>
@@ -3863,7 +3917,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3887,7 +3941,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3910,9 +3964,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3936,9 +3990,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3962,8 +4016,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -3983,8 +4037,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4006,9 +4060,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4032,9 +4086,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4056,9 +4110,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4082,7 +4136,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4097,7 +4151,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Photo Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Photo Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 <table>
@@ -4106,8 +4160,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4127,9 +4181,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4151,9 +4205,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4177,9 +4231,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4195,7 +4249,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </table>
 
 # Remote Work & Education
-### Video Conferencing Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Video Conferencing Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Infomaniak kMeet](https://www.infomaniak.com/en/kmeet)
 <table>
@@ -4204,7 +4258,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4231,7 +4285,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4279,9 +4333,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4301,8 +4355,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4328,9 +4382,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4352,9 +4406,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4374,8 +4428,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4399,9 +4453,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4423,9 +4477,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4448,8 +4502,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4472,8 +4526,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4488,7 +4542,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Firewalls <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Firewalls <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 ### Password Managers
 
@@ -4499,9 +4553,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4523,9 +4577,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4547,7 +4601,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4568,8 +4622,8 @@ Platforms tell you on which devices software is available to be used. Because th
         </td>
         <td>
             <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4592,9 +4646,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4615,9 +4669,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4640,9 +4694,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4666,9 +4720,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4689,9 +4743,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4716,9 +4770,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4742,8 +4796,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4769,7 +4823,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4782,7 +4836,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Communication Protocols <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Communication Protocols <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Matrix](https://matrix.org/)
 <table>
@@ -4791,7 +4845,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4815,7 +4869,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4839,7 +4893,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4862,7 +4916,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4887,7 +4941,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4910,9 +4964,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4935,9 +4989,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4962,7 +5016,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -4986,9 +5040,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5010,9 +5064,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5033,8 +5087,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5047,7 +5101,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Social Media Analytics <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Social Media Analytics <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Postiz](https://postiz.com/)
 <table>
@@ -5056,7 +5110,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5078,7 +5132,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5102,7 +5156,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5125,7 +5179,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5149,9 +5203,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5174,9 +5228,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5199,9 +5253,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5223,9 +5277,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5248,9 +5302,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5272,9 +5326,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5296,8 +5350,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5317,8 +5371,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5340,10 +5394,10 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5365,9 +5419,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5390,9 +5444,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5413,8 +5467,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5436,10 +5490,10 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5462,9 +5516,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5488,10 +5542,10 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5513,9 +5567,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5535,8 +5589,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5558,10 +5612,10 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5583,9 +5637,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5607,9 +5661,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5631,8 +5685,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5652,8 +5706,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5674,8 +5728,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5695,8 +5749,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5718,9 +5772,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5742,9 +5796,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5767,8 +5821,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5788,8 +5842,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5802,7 +5856,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Server Management Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Server Management Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Webmin](https://webmin.com/)
 <table>
@@ -5811,7 +5865,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5835,9 +5889,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5857,8 +5911,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5879,9 +5933,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5903,9 +5957,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5927,9 +5981,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
-            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated_or_abandoned.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5952,7 +6006,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -5975,7 +6029,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6000,9 +6054,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6027,7 +6081,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6052,9 +6106,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6078,7 +6132,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6100,7 +6154,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6124,9 +6178,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6141,7 +6195,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Video Editors <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Video Editors <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Kdenlive](https://kdenlive.org/)
 <table>
@@ -6150,7 +6204,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6172,9 +6226,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6196,8 +6250,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6219,8 +6273,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6234,7 +6288,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Watch Videos Together Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Watch Videos Together Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [OpenTogetherTube](https://opentogethertube.com/)
 <table>
@@ -6243,7 +6297,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6265,9 +6319,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6289,9 +6343,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6313,9 +6367,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6335,8 +6389,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6359,9 +6413,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6384,9 +6438,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6409,8 +6463,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6423,7 +6477,7 @@ Platforms tell you on which devices software is available to be used. Because th
     </tr>
 </table>
 
-### Bookmark Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+### Bookmark Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
 
 [Raindrop.io](https://raindrop.io/)
 <table>
@@ -6432,7 +6486,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="This section needs to be improved" src="Assets/Stamps/Needs_improved.svg" width="16">
+            <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6458,8 +6512,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6479,9 +6533,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6501,9 +6555,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6523,8 +6577,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6546,9 +6600,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6573,8 +6627,8 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6596,9 +6650,9 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
-            <img alt="My top choices" src="Assets/Stamps/Top_choices.svg" width="16">
-            <img alt="This software has been used and inspected" src="Assets/Stamps/Used_and_inspected.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
         </td>
     </tr>
     <tr>
@@ -6623,7 +6677,7 @@ Platforms tell you on which devices software is available to be used. Because th
             <b>Stamps</b>
         </td>
         <td>
-            <img alt="Verified best software" src="Assets/Stamps/Best_software.svg" width="16">
+            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
         </td>
     </tr>
     <tr>
