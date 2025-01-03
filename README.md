@@ -15,15 +15,15 @@ While proprietary software is avoided on this list where possible, there are som
 
 Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
-<div align="right">
+<div align="center">
     <h1>
         Versioning
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
-        Current version: <tt>89.2025.1.3.2</tt>
+        Current version: <tt>90.2025.1.3.3</tt>
     </h3>
 </div>
 
@@ -34,7 +34,7 @@ The version code follows the format:
 - **Day:** The day of the release
 - **Daily Release Index:** Index of the releases made each day, beginning at 0
 
-<div align="right">
+<div align="center">
     <h1>
         Mirrors
     </h1>
@@ -54,13 +54,13 @@ https://github.com/An-anonymous-coder/Open-Source-Everything
 
 *Coming soon!*
 
-<div align="right">
+<div align="center">
     <h1>
         Legend
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Stamps
     </h3>
@@ -80,7 +80,7 @@ Stamps give you a general idea of the consensus around a piece of software. They
 
 <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16"> This section needs to be improved
 
-<div align="center">
+<div align="left">
     <h3>
         Platforms
     </h3>
@@ -98,7 +98,7 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <img alt="Online" src="Assets/Platforms/Online.svg" width="16"> Available online
 
-<div align="right">
+<div align="center">
     <h1>
         Table of Contents
     </h1>
@@ -160,19 +160,19 @@ Platforms tell you on which devices software is available to be used. Because th
 
 [Web Browsing](#web-browsing)
 
-<div align="right">
+<div align="center">
     <h1>
         AI Tools & Services
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         AI Chatbots <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -258,13 +258,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         AI Image Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -321,13 +321,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         AI Music Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -355,13 +355,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         AI Video Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -439,19 +439,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Audio & Music
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Audio Editors
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -483,13 +483,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Audio Transcription Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -519,13 +519,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Music Production Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -583,13 +583,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Music Recognition Apps
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -645,13 +645,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Podcast Players
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -680,19 +680,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Backup & Sync
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Backup Clients
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -748,13 +748,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Cloud Storage Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -786,13 +786,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         File Sync Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -849,19 +849,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Business & Commerce
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Budget Managers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -891,13 +891,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Personal Finance Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -925,13 +925,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Survey Creators
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -962,13 +962,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Taxes
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1029,13 +1029,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Virtual Card Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1067,19 +1067,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         CD/DVD Tools
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Bootable USB Creators
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1164,13 +1164,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Disc Burners
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1200,19 +1200,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Development
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Android Development Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1244,13 +1244,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Code Editors
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1311,13 +1311,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Game Development Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1348,13 +1348,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Graphics Libraries
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1386,13 +1386,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Pastebin Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1420,13 +1420,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Software Frameworks <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1456,13 +1456,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Source Code Hosting Services (Online)
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1517,13 +1517,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Source Code Hosting Services (Self-Hosted)
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1581,13 +1581,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Version Control Systems
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1620,13 +1620,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Web Servers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1682,19 +1682,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Digital Coins & Cryptocurrency
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Cryptocurrency Coins
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1726,13 +1726,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Crypto Wallets
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1764,19 +1764,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Education & Reference
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         2D Graphing Calculators
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1809,13 +1809,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         3D Graphing Calculators
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1847,13 +1847,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Circuit Simulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1883,13 +1883,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Code Learning Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1920,13 +1920,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Encyclopedias
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1958,13 +1958,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Flashcard Learning Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -1992,13 +1992,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Grammar Checkers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2030,13 +2030,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Sky Maps
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2064,13 +2064,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Translators
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2100,13 +2100,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Web Archiving Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2138,19 +2138,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         File Management
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         File Archivers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2207,19 +2207,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         File Sharing
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Large File Transfer Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2311,13 +2311,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Torrent Clients
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2374,13 +2374,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Torrent Search Engines
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2408,19 +2408,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Games
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Chess Games
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2478,13 +2478,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         First-Person Shooters
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2515,13 +2515,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Flight Simulators
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2551,13 +2551,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Music Games
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2589,13 +2589,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Platform Games
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2627,13 +2627,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Puzzle Games
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2718,13 +2718,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Racing Games
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2755,13 +2755,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Real-time Strategy Games
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2791,13 +2791,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Role-playing Games
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2828,13 +2828,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Sandbox Games
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2865,13 +2865,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Turn Based Games
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2902,25 +2902,25 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Gaming Software
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Anti-Cheat Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Game Cheating Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2949,13 +2949,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Game Emulators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -2987,13 +2987,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Game Stores
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3051,19 +3051,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Home & Family
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Genealogy Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3093,13 +3093,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Home Automation Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3159,19 +3159,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Network & Admin
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Anonymizing Networks
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3233,13 +3233,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         CAPTCHAs <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3267,13 +3267,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Certificate Authorities
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3302,13 +3302,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         DNS Resolvers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3369,13 +3369,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Network Monitors
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3436,13 +3436,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Proxies
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3475,13 +3475,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Remote Desktop Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3513,13 +3513,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Router Custom Firmwares <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3599,13 +3599,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         SSH Clients
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3663,13 +3663,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Virtualization Tools 
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3730,13 +3730,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Web Analytics Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3766,13 +3766,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Work Profile for Android
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3800,19 +3800,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         News & Books
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Ebook Libraries
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3867,13 +3867,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Ebook Readers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3929,13 +3929,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         RSS Readers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -3964,19 +3964,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Office & Productivity
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Clipboard Managers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4006,13 +4006,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Email Clients
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4069,13 +4069,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Mind Mapping Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4107,13 +4107,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Note Taking Apps
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4174,13 +4174,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Office Suites
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4213,13 +4213,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         PDF Readers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4273,13 +4273,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Scheduling and Calendar Apps
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4335,13 +4335,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Task Automation Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4369,13 +4369,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Text Editors (CLI)
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4435,13 +4435,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Text Editors (GUI)
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4526,13 +4526,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Time Tracking Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4563,13 +4563,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         WebMail Providers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4634,19 +4634,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Online Services
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         App Stores for Android <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4755,13 +4755,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         App Stores for Linux
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4816,13 +4816,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Crowdfunding Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4850,13 +4850,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Pornography
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4909,13 +4909,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         URL Shorteners <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -4968,13 +4968,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Weather Forecast Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5004,13 +5004,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Web Search Engines
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5041,19 +5041,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         OS & Utilities
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Android Distributions
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5083,13 +5083,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Application Launchers for Android
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5119,13 +5119,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Boot Managers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5157,13 +5157,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Compatibility Layer Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5195,13 +5195,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Desktop Environments
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5256,13 +5256,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Disk Usage Analyzers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5343,13 +5343,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Font Editors
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5379,13 +5379,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Key Mapping Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5414,13 +5414,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Linux Distros
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5504,13 +5504,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Mobile Keyboards for Android
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5540,13 +5540,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Operating Systems
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5576,13 +5576,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Printing Systems
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5613,13 +5613,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         QR Code Readers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5648,13 +5648,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Survival Apps
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5684,13 +5684,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         System Cleaners
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5721,13 +5721,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         System Tweakers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5759,13 +5759,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Terminal Emulators for Android
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5794,13 +5794,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Text to Speech Service <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5830,13 +5830,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Virtual Assistant
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5864,19 +5864,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Photos & Graphics
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         3D Modelers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5908,13 +5908,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         CAD Software
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -5946,13 +5946,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Camera Apps
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6007,13 +6007,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Digital Painting Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6045,13 +6045,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Icon Libraries
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6081,13 +6081,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Image Editors
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6119,13 +6119,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Panorama Makers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6155,13 +6155,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Photo Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6217,13 +6217,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Screenshot Capture Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6255,13 +6255,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Vector Graphic Apps
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6293,19 +6293,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Religion & Prayer
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Adhan Reminders <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6358,13 +6358,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Bible Study Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6394,13 +6394,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Quran <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6453,19 +6453,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Remote Work & Education
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Video Conferencing Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6497,19 +6497,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Security & Privacy
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Anti-Virus Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6568,13 +6568,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Authenticators
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6634,13 +6634,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Data Breach Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6670,13 +6670,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Disk Encryption Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6734,13 +6734,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Disposable Email Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6770,13 +6770,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Email Aliasing Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6807,13 +6807,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         File Encryption Software
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6873,19 +6873,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Firewalls <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Password Managers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -6944,13 +6944,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Phone Number Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7006,13 +7006,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Privacy Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7071,13 +7071,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Virtual Private Network Apps
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7169,13 +7169,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Vulnerability Scanners
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7206,19 +7206,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Social & Communications
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Blog Publishing Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7251,13 +7251,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Comment Platforms
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7285,13 +7285,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Communication Protocols <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7408,13 +7408,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Dating Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7443,13 +7443,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Instant Messengers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7512,13 +7512,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Microblogs
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7548,13 +7548,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Random Chat
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7584,13 +7584,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Short-Form Video
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7647,13 +7647,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Social Media Analytics <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7681,13 +7681,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Social Networks
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7717,13 +7717,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Photo Sharing Apps
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7752,13 +7752,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Random Video Chat Apps
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7787,19 +7787,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Sport & Health
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Beauty Product Information Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7830,13 +7830,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Breathing Exercise Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7867,13 +7867,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Diabetic Trackers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7903,13 +7903,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Diet Creation Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7940,13 +7940,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Fitness Trackers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -7976,13 +7976,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Gym Exercise Trackers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8012,13 +8012,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Habit Trackers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8073,13 +8073,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Medicine Reminder Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8110,13 +8110,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Meditation Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8147,13 +8147,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Menstrual Cycle Trackers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8210,13 +8210,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Mood Trackers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8248,13 +8248,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Nutrition Information Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8286,13 +8286,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Pedometers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8323,13 +8323,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Physical Activity Trackers 
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8385,13 +8385,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Seasonal Food Information Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8422,13 +8422,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Relaxation Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8458,13 +8458,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Weed Trackers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8494,13 +8494,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Weight & Diet Trackers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8608,13 +8608,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Workout Routine Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8644,13 +8644,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Workout Timers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8680,19 +8680,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         System & Hardware
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         BIOS/UEFI Replacements
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8747,13 +8747,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Server Management Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8782,19 +8782,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Travel & Location
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Map Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8907,13 +8907,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Mock Location Apps
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -8943,19 +8943,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Video & Movies
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Media Centers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9014,13 +9014,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Media Players
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9053,13 +9053,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Movie Streaming Services
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9090,13 +9090,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Screen Recorders
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9128,13 +9128,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Video Converters
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9191,13 +9191,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Video Downloaders
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9229,13 +9229,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Video Editors <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9292,13 +9292,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Video Sharing Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9356,13 +9356,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Watch Videos Together Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9390,13 +9390,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         YouTube Clients
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9455,13 +9455,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         YouTube Frontends
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9517,19 +9517,19 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="right">
+<div align="center">
     <h1>
         Web Browsing
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Ad Blockers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9618,13 +9618,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Bookmark Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9656,13 +9656,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Browser Testing Tools
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9771,13 +9771,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Chromium-based Browsers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9810,13 +9810,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Firefox-based Browsers
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
@@ -9877,13 +9877,13 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="center">
+<div align="left">
     <h3>
         Image Search Engines
     </h3>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div>
     <table>
         <tr>
             <th colspan="2" style="text-align: center;">
