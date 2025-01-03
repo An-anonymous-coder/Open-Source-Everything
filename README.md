@@ -21,9 +21,9 @@ Some software or sections marked with the <img alt="This section needs to be imp
     </h1>
 </div>
 
-<div align="left">
+<div align="center">
     <h3>
-        Current version: <tt>90.2025.1.3.3</tt>
+        Current version: <tt>91.2025.1.3.4</tt>
     </h3>
 </div>
 
@@ -104,61 +104,61 @@ Platforms tell you on which devices software is available to be used. Because th
     </h1>
 </div>
 
-[AI Tools & Services](#ai-tools--services)
+[AI Tools & Services](#--------ai-tools--services----)
 
-[Audio & Music](#audio--music)
+[Audio & Music](#--------audio--music----)
 
-[Backup & Sync](#backup--sync)
+[Backup & Sync](#--------backup--sync----)
 
-[Business & Commerce](#business--commerce)
+[Business & Commerce](#--------business--commerce----)
 
-[CD/DVD Tools](#cddvd-tools)
+[CD/DVD Tools](#--------cddvd-tools----)
 
-[Development](#development)
+[Development](#--------development----)
 
-[Digital Coins & Cryptocurrency](#digital-coins--cryptocurrency)
+[Digital Coins & Cryptocurrency](#--------digital-coins--cryptocurrency----)
 
-[Education & Reference](#education--reference)
+[Education & Reference](#--------education--reference----)
 
-[File Management](#file-management)
+[File Management](#--------file-management----)
 
-[File Sharing](#file-sharing)
+[File Sharing](#--------file-sharing----)
 
-[Games](#games)
+[Games](#--------games----)
 
-[Gaming Software](#gaming-software)
+[Gaming Software](#--------gaming-software----)
 
-[Home & Family](#home--family)
+[Home & Family](#--------home--family----)
 
-[Network & Admin](#network--admin)
+[Network & Admin](#--------network--admin----)
 
-[News & Books](#news--books)
+[News & Books](#--------news--books----)
 
-[Office & Productivity](#office--productivity)
+[Office & Productivity](#--------office--productivity----)
 
-[Online Services](#online-services)
+[Online Services](#--------online-services----)
 
-[OS & Utilities](#os--utilities)
+[OS & Utilities](#--------os--utilities----)
 
-[Photos & Graphics](#photos--graphics)
+[Photos & Graphics](#--------photos--graphics----)
 
-[Religion & Prayer](#religion--prayer)
+[Religion & Prayer](#--------religion--prayer----)
 
-[Remote Work & Education](#remote-work--education)
+[Remote Work & Education](#--------remote-work--education----)
 
-[Security & Privacy](#security--privacy)
+[Security & Privacy](#--------security--privacy----)
 
-[Social & Communications](#social--communications)
+[Social & Communications](#--------social--communications----)
 
-[Sport & Health](#sport--health)
+[Sport & Health](#--------sport--health----)
 
-[System & Hardware](#system--hardware)
+[System & Hardware](#--------system--hardware----)
 
-[Travel & Location](#travel--location)
+[Travel & Location](#--------travel--location----)
 
-[Video & Movies](#video--movies)
+[Video & Movies](#--------video--movies----)
 
-[Web Browsing](#web-browsing)
+[Web Browsing](#--------web-browsing----)
 
 <div align="center">
     <h1>
