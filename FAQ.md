@@ -25,6 +25,7 @@ You can support the project by:
 - Spreading word about the list by word of mouth, posts online, etc.
 - Translating the list into other languages
 - Creating software that can be added to the list
+- Redesigning software icons to be high quality SVGs
 - Contributing to the actual software that is listed
 - Anything else you can think of
 
