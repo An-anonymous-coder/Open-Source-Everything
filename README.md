@@ -23,7 +23,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>92.2025.1.3.5</tt>
+        Current version: <tt>93.2025.1.3.6</tt>
     </h3>
 </div>
 
@@ -175,8 +175,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GPT4ALL.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GPT4ALL.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://gpt4all.io/">
@@ -205,8 +205,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Ollama.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Ollama.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://ollama.com/">
@@ -235,8 +235,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Venice.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Venice.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://venice.ai/">
@@ -276,8 +276,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Craiyon.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Craiyon.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.craiyon.com/">
@@ -304,8 +304,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/FLUX.1.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/FLUX.1.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://blackforestlabs.ai/">
@@ -345,8 +345,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Stable Audio Open.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Stable Audio Open.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://huggingface.co/stabilityai/stable-audio-open-1.0">
@@ -382,8 +382,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Hotshot.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Hotshot.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://hotshot.co/">
@@ -410,8 +410,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Mochi AI.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Mochi AI.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.genmo.ai/">
@@ -438,8 +438,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Stable Video Diffusion.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Stable Video Diffusion.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://stability.ai/stable-video">
@@ -481,8 +481,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Audacity.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Audacity.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.audacityteam.org/">
@@ -522,8 +522,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Transcribro.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Transcribro.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/soupslurpr/Transcribro">
@@ -561,8 +561,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/LMMS.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/LMMS.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://lmms.io/">
@@ -591,8 +591,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/MuseScore Studio.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/MuseScore Studio.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://musescore.org/">
@@ -631,8 +631,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Audire.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Audire.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/alexmercerind/audire">
@@ -661,8 +661,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Audile.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Audile.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/aleksey-saenko/MusicRecognizer">
@@ -699,8 +699,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/AntennaPod.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/AntennaPod.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://antennapod.org/">
@@ -743,8 +743,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Duplicati.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Duplicati.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.duplicati.com/">
@@ -773,8 +773,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Vorta.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Vorta.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://vorta.borgbase.com/">
@@ -811,8 +811,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Nextcloud.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Nextcloud.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://nextcloud.com/">
@@ -852,8 +852,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Syncthing.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Syncthing.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://syncthing.net/">
@@ -883,8 +883,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Syncthing-Fork.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Syncthing-Fork.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/Catfriend1/syncthing-android">
@@ -927,8 +927,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GnuCash.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GnuCash.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.gnucash.org/">
@@ -966,8 +966,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Ivy Wallet.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Ivy Wallet.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://ivywallet.app/">
@@ -1003,8 +1003,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/LimeSurvey.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/LimeSurvey.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.limesurvey.org/">
@@ -1043,8 +1043,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Default.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Default.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://opentaxsolver.sourceforge.net/">
@@ -1074,8 +1074,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/US Taxes.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/US Taxes.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://ustaxes.org/">
@@ -1116,8 +1116,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Privacy.com.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Privacy.com.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://privacy.com/">
@@ -1163,8 +1163,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-        <td rowspan="3">
-                <img src="Assets/Icons/belenaEtcher.png" width="64">
+        <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/belenaEtcher.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://etcher.balena.io/">
@@ -1195,8 +1195,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/EtchDroid.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/EtchDroid.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://etchdroid.app/">
@@ -1225,8 +1225,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Ventoy.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Ventoy.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.ventoy.net/">
@@ -1263,8 +1263,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Brasero.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Brasero.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://wiki.gnome.org/Apps/Brasero">
@@ -1308,8 +1308,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Android Studio.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Android Studio.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://developer.android.com/studio">
@@ -1349,8 +1349,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GNU Emacs.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GNU Emacs.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.gnu.org/software/emacs/">
@@ -1381,8 +1381,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/VSCodium.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/VSCodium.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://vscodium.com/">
@@ -1422,8 +1422,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Godot Engine.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Godot Engine.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://godotengine.org/">
@@ -1462,8 +1462,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Vulkan.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Vulkan.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.khronos.org/vulkan/">
@@ -1503,8 +1503,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/PrivateBin.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/PrivateBin.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://privatebin.info/">
@@ -1540,8 +1540,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Qt.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Qt.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.qt.io/product/framework">
@@ -1579,8 +1579,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GitLab.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GitLab.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://about.gitlab.com/">
@@ -1609,8 +1609,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Codeberg.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Codeberg.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://codeberg.org/">
@@ -1646,8 +1646,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Gitea.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Gitea.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://about.gitea.com/">
@@ -1677,8 +1677,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Gogs.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Gogs.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://gogs.io/">
@@ -1716,8 +1716,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Git.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Git.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://git-scm.com/">
@@ -1758,8 +1758,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Apache.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Apache.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://httpd.apache.org/">
@@ -1788,8 +1788,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/nginx.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/nginx.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://nginx.com/">
@@ -1832,8 +1832,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Monero.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Monero.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://getmonero.org/home">
@@ -1873,8 +1873,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Monero GUI.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Monero GUI.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/monero-project/monero-gui">
@@ -1920,8 +1920,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GeoGebra Classic.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GeoGebra Classic.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.geogebra.org/classic">
@@ -1962,8 +1962,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GeoGebra 3D Calculator.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GeoGebra 3D Calculator.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.geogebra.org/3d">
@@ -2003,8 +2003,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/KiCad.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/KiCad.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.kicad.org/">
@@ -2042,8 +2042,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/freeCodeCamp.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/freeCodeCamp.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.freecodecamp.org/">
@@ -2082,8 +2082,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Wikipedia.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Wikipedia.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.wikipedia.org/">
@@ -2123,8 +2123,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/AnkiDroid.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/AnkiDroid.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/ankidroid/Anki-Android/">
@@ -2160,8 +2160,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/LanguageTool.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/LanguageTool.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://languagetool.org/">
@@ -2201,8 +2201,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Sky Map.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Sky Map.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/sky-map-team/stardroid">
@@ -2238,8 +2238,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/LibreTranslate.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/LibreTranslate.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://libretranslate.com/">
@@ -2277,8 +2277,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Wayback Machine.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Wayback Machine.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://web.archive.org/">
@@ -2324,8 +2324,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/7-Zip.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/7-Zip.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.7-zip.org/">
@@ -2354,8 +2354,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/PeaZip.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/PeaZip.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://peazip.github.io/">
@@ -2399,8 +2399,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/KDE Connect.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/KDE Connect.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://kdeconnect.kde.org/">
@@ -2430,8 +2430,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/LocalSend.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/LocalSend.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://localsend.org/">
@@ -2463,8 +2463,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/OnionShare.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/OnionShare.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://onionshare.org/">
@@ -2506,8 +2506,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/qBittorrent.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/qBittorrent.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://qbittorrent.org/">
@@ -2538,8 +2538,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/LibreTorrent.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/LibreTorrent.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://gitlab.com/proninyaroslav/libretorrent">
@@ -2576,8 +2576,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/BTDigg.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/BTDigg.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://btdig.com/">
@@ -2619,8 +2619,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Lichess.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Lichess.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://lichess.org/">
@@ -2650,8 +2650,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/blichess.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/blichess.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/vovagorodok/blichess">
@@ -2689,8 +2689,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Xonotic.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Xonotic.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="http://www.xonotic.org/">
@@ -2729,8 +2729,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/FlightGear.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/FlightGear.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.flightgear.org/">
@@ -2768,8 +2768,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/osu!.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/osu!.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://osu.ppy.sh/home">
@@ -2809,8 +2809,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Journey to the Center of Hawkthorne.webp" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Journey to the Center of Hawkthorne.webp" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://projecthawkthorne.com/">
@@ -2850,8 +2850,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/2048 (PFA).png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/2048 (PFA).png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://secuso.aifb.kit.edu/english/653.php">
@@ -2879,8 +2879,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Simon Tatham's Portable Puzzle Collection.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Simon Tatham's Portable Puzzle Collection.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="http://www.chiark.greenend.org.uk/~sgtatham/puzzles/">
@@ -2912,8 +2912,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Open Sudoku.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Open Sudoku.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://opensudoku.moire.org/">
@@ -2950,8 +2950,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/SuperTuxKart.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/SuperTuxKart.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://supertuxkart.net/Main_Page">
@@ -2990,8 +2990,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/0 A.D..png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/0 A.D..png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://play0ad.com/">
@@ -3029,8 +3029,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Shattered Pixel Dungeon.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Shattered Pixel Dungeon.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://shatteredpixel.com/">
@@ -3069,8 +3069,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Luanti.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Luanti.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.luanti.org/">
@@ -3109,8 +3109,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/The Battle for Wesnoth.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/The Battle for Wesnoth.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.wesnoth.org/">
@@ -3161,8 +3161,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Cheat Engine.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Cheat Engine.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://cheatengine.org/">
@@ -3199,8 +3199,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/RetroArch.webp" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/RetroArch.webp" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://retroarch.com/">
@@ -3240,8 +3240,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/itch.io.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/itch.io.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://itch.io/">
@@ -3272,8 +3272,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Lutris.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Lutris.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://lutris.net/">
@@ -3316,8 +3316,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Gramps.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Gramps.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://gramps-project.org/blog/">
@@ -3355,8 +3355,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Home Assistant.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Home Assistant.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.home-assistant.io/">
@@ -3386,8 +3386,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/openHAB.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/openHAB.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.openhab.org/">
@@ -3433,8 +3433,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Tor.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Tor.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.torproject.org/">
@@ -3465,8 +3465,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/I2P.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/I2P.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://geti2p.net/">
@@ -3507,8 +3507,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/mCaptcha.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/mCaptcha.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://mcaptcha.org/">
@@ -3544,8 +3544,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Let's Encrypt.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Let's Encrypt.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://letsencrypt.org/">
@@ -3582,8 +3582,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/MullvadDNS.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/MullvadDNS.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://mullvad.net/en/help/dns-over-https-and-dns-over-tls">
@@ -3614,8 +3614,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Control D.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Control D.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://controld.com/free-dns">
@@ -3655,8 +3655,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Wireshark.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Wireshark.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.wireshark.org/">
@@ -3687,8 +3687,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Nmap.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Nmap.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="http://nmap.org/">
@@ -3728,8 +3728,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Shadowsocks.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Shadowsocks.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://shadowsocks.org/">
@@ -3770,8 +3770,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/RustDesk.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/RustDesk.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://rustdesk.com/">
@@ -3811,8 +3811,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/DD-WRT.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/DD-WRT.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://dd-wrt.com/">
@@ -3841,8 +3841,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/OPNsense.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/OPNsense.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://opnsense.org/">
@@ -3869,8 +3869,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/OpenWrt.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/OpenWrt.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://openwrt.org/">
@@ -3906,8 +3906,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/OpenSSH.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/OpenSSH.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.openssh.com/">
@@ -3938,8 +3938,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/PuTTY.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/PuTTY.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/">
@@ -3976,8 +3976,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/VirtualBox.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/VirtualBox.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.virtualbox.org/">
@@ -4007,8 +4007,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Docker.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Docker.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.docker.com/">
@@ -4049,8 +4049,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Matomo.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Matomo.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://matomo.org/">
@@ -4088,8 +4088,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Shelter.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Shelter.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/PeterCxy/Shelter">
@@ -4131,8 +4131,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Anna's Archive.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Anna's Archive.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://annas-archive.org/">
@@ -4161,8 +4161,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Open Library.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Open Library.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://openlibrary.org/">
@@ -4198,8 +4198,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/calibre.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/calibre.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://calibre-ebook.com/">
@@ -4229,8 +4229,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Librera Reader.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Librera Reader.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://librera.mobi/">
@@ -4266,8 +4266,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Feeder.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Feeder.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/spacecowboy/Feeder">
@@ -4310,8 +4310,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/CopyQ.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/CopyQ.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://hluk.github.io/CopyQ/">
@@ -4349,8 +4349,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Thunderbird.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Thunderbird.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.thunderbird.net/">
@@ -4379,8 +4379,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Betterbird.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Betterbird.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.betterbird.eu/">
@@ -4418,8 +4418,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/draw.io.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/draw.io.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.diagrams.net/">
@@ -4459,8 +4459,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Joplin.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Joplin.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://joplinapp.org/">
@@ -4493,8 +4493,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Xournal++.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Xournal++.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://xournalpp.github.io/">
@@ -4532,8 +4532,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/LibreOffice.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/LibreOffice.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.libreoffice.org/">
@@ -4574,8 +4574,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Evince.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Evince.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://wiki.gnome.org/Apps/Evince">
@@ -4602,8 +4602,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Okular.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Okular.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://okular.kde.org/">
@@ -4640,8 +4640,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Etar.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Etar.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/Etar-Group/Etar-Calendar">
@@ -4669,8 +4669,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Fossify Calendar.webp" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Fossify Calendar.webp" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/FossifyOrg/Calendar">
@@ -4708,8 +4708,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/AutoHotkey.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/AutoHotkey.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://autohotkey.com/">
@@ -4745,8 +4745,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GNU nano.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GNU nano.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.nano-editor.org/">
@@ -4777,8 +4777,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Vim.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Vim.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.vim.org/">
@@ -4817,8 +4817,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/gedit.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/gedit.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://gedit-technology.github.io/apps/gedit/">
@@ -4849,8 +4849,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Kate.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Kate.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://kate-editor.org/">
@@ -4880,8 +4880,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Notepad++.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Notepad++.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://notepad-plus-plus.org/">
@@ -4917,8 +4917,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/ActivityWatch.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/ActivityWatch.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://activitywatch.net/">
@@ -4957,8 +4957,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Proton Mail.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Proton Mail.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://proton.me/mail">
@@ -4991,8 +4991,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Tuta Mail.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Tuta Mail.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://tuta.com/">
@@ -5040,8 +5040,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Accrescent.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Accrescent.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://accrescent.app/">
@@ -5070,8 +5070,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Aurora Store.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Aurora Store.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://auroraoss.com/">
@@ -5098,8 +5098,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/F-Droid.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/F-Droid.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://f-droid.org/">
@@ -5127,8 +5127,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Obtainium.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Obtainium.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://obtainium.imranr.dev/">
@@ -5167,8 +5167,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GNOME Software.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GNOME Software.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://apps.gnome.org/app/org.gnome.Software/">
@@ -5195,8 +5195,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Flathub.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Flathub.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://flathub.org/">
@@ -5234,8 +5234,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Liberapay.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Liberapay.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://liberapay.com/">
@@ -5271,8 +5271,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Danbooru.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Danbooru.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://danbooru.donmai.us/">
@@ -5299,8 +5299,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/E621.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/E621.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://e621.net/posts">
@@ -5336,8 +5336,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/url.zip.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/url.zip.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.url.zip/">
@@ -5365,8 +5365,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/v.gd.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/v.gd.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://v.gd/">
@@ -5402,8 +5402,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Breezy Weather.webp" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Breezy Weather.webp" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/breezy-weather/breezy-weather">
@@ -5441,8 +5441,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/SearXNG.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/SearXNG.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://docs.searxng.org/">
@@ -5487,8 +5487,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GrapheneOS.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GrapheneOS.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://grapheneos.org/">
@@ -5526,8 +5526,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Lawnchair.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Lawnchair.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://lawnchair.app/">
@@ -5565,8 +5565,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GRUB.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GRUB.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="http://www.gnu.org/software/grub/">
@@ -5606,8 +5606,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Wine.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Wine.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.winehq.org/">
@@ -5647,8 +5647,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GNOME.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GNOME.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.gnome.org/">
@@ -5676,8 +5676,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/KDE Plasma.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/KDE Plasma.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://kde.org/plasma-desktop">
@@ -5714,8 +5714,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/CrystalDiskInfo.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/CrystalDiskInfo.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://crystalmark.info/en/software/crystaldiskinfo/">
@@ -5742,8 +5742,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Disk Usage Analyzer.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Disk Usage Analyzer.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://wiki.gnome.org/Apps/DiskUsageAnalyzer">
@@ -5773,8 +5773,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/WinDirStat.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/WinDirStat.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://windirstat.net/">
@@ -5810,8 +5810,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/FontForge.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/FontForge.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://fontforge.org/">
@@ -5849,8 +5849,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/AntiMicroX.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/AntiMicroX.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/AntiMicroX/antimicroX">
@@ -5887,8 +5887,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Qubes OS.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Qubes OS.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.qubes-os.org/">
@@ -5917,8 +5917,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/secureblue.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/secureblue.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/secureblue/secureblue">
@@ -5947,8 +5947,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Tails.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Tails.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://tails.net/">
@@ -5986,8 +5986,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/HeliBoard.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/HeliBoard.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/Helium314/HeliBoard">
@@ -6025,8 +6025,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Linux kernel.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Linux kernel.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.kernel.org/">
@@ -6064,8 +6064,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Common Unix Printing System.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Common Unix Printing System.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.cups.org/">
@@ -6104,8 +6104,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Binary Eye.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Binary Eye.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.markusfisch.de/apps-android.html#binary-eye">
@@ -6142,8 +6142,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Trail Sense.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Trail Sense.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://kylecorry.com/Trail-Sense/">
@@ -6181,8 +6181,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/BleachBit.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/BleachBit.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.bleachbit.org/">
@@ -6221,8 +6221,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/privacy.sexy.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/privacy.sexy.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://privacy.sexy/">
@@ -6262,8 +6262,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Termux.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Termux.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://termux.dev/en/">
@@ -6300,8 +6300,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/RHVoice.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/RHVoice.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://rhvoice.org/">
@@ -6339,8 +6339,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Dicio.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Dicio.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/Stypox/dicio-android">
@@ -6382,8 +6382,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Blender.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Blender.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.blender.org/">
@@ -6423,8 +6423,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/FreeCAD.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/FreeCAD.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.freecad.org/">
@@ -6464,8 +6464,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Open Camera.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Open Camera.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://opencamera.org.uk/">
@@ -6493,8 +6493,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Secure Camera.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Secure Camera.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/GrapheneOS/Camera">
@@ -6531,8 +6531,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Krita.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Krita.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://krita.org/">
@@ -6572,8 +6572,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Font Awesome.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Font Awesome.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://fontawesome.com/">
@@ -6611,8 +6611,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/GIMP.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/GIMP.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.gimp.org/">
@@ -6652,8 +6652,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Hugin.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Hugin.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://hugin.sourceforge.io/">
@@ -6691,8 +6691,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Aves.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Aves.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/deckerst/aves">
@@ -6730,8 +6730,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Flameshot.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Flameshot.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://flameshot.org/">
@@ -6771,8 +6771,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Inkscape.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Inkscape.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://inkscape.org/">
@@ -6818,8 +6818,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Al-Azan.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Al-Azan.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/meypod/al-azan">
@@ -6846,8 +6846,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Prayer Times.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Prayer Times.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/metinkale38/prayer-times-android">
@@ -6883,8 +6883,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/AndBible.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/AndBible.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://andbible.org/">
@@ -6922,8 +6922,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Quran for Android.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Quran for Android.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://android.quran.com/">
@@ -6950,8 +6950,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/QuranApp.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/QuranApp.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/AlfaazPlus/QuranApp">
@@ -6993,8 +6993,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Element.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Element.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://element.io/">
@@ -7042,8 +7042,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/ClamAV.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/ClamAV.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.clamav.net/">
@@ -7072,8 +7072,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/VirusTotal.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/VirusTotal.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.virustotal.com/">
@@ -7113,8 +7113,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Aegis Authenticator.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Aegis Authenticator.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://getaegis.app/">
@@ -7143,8 +7143,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Ente Auth.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Ente Auth.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://ente.io/auth/">
@@ -7185,8 +7185,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Have I Been Pwned.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Have I Been Pwned.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://haveibeenpwned.com/">
@@ -7224,8 +7224,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/LUKS.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/LUKS.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://gitlab.com/cryptsetup/cryptsetup">
@@ -7254,8 +7254,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/VeraCrypt.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/VeraCrypt.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.veracrypt.fr/en/Home.html">
@@ -7294,8 +7294,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/MailDrop.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/MailDrop.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://maildrop.cc/">
@@ -7333,8 +7333,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/addy.io.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/addy.io.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://addy.io/">
@@ -7373,8 +7373,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Cryptomator.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Cryptomator.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://cryptomator.org/">
@@ -7405,8 +7405,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Picocrypt.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Picocrypt.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/Picocrypt/Picocrypt">
@@ -7451,8 +7451,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/KeePassXC.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/KeePassXC.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://keepassxc.org/">
@@ -7483,8 +7483,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/KeePassDX.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/KeePassDX.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.keepassdx.com/">
@@ -7522,8 +7522,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/JMP.chat.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/JMP.chat.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://jmp.chat/">
@@ -7550,8 +7550,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/MySudo.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/MySudo.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://mysudo.com/">
@@ -7590,8 +7590,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Exodus Privacy.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Exodus Privacy.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://exodus-privacy.eu.org/">
@@ -7621,8 +7621,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Terms of Service; Didn't Read.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Terms of Service; Didn't Read.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://tosdr.org/">
@@ -7661,8 +7661,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Mullvad.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Mullvad.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.mullvad.net/">
@@ -7695,8 +7695,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Orbot.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Orbot.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://orbot.app/">
@@ -7726,8 +7726,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Proton VPN.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Proton VPN.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://protonvpn.com/">
@@ -7768,8 +7768,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Metasploit.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Metasploit.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://metasploit.com/">
@@ -7814,8 +7814,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/WordPress.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/WordPress.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://wordpress.org/">
@@ -7856,8 +7856,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Isso.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Isso.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://isso-comments.de/">
@@ -7893,8 +7893,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Matrix.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Matrix.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://matrix.org/">
@@ -7925,8 +7925,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/XMPP.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/XMPP.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://xmpp.org/">
@@ -7957,8 +7957,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Default.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Default.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://simplex.chat/docs/protocol/simplex-chat.html">
@@ -7988,8 +7988,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Signal.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Signal.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/signalapp/libsignal">
@@ -8028,8 +8028,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Alovoa.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Alovoa.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://alovoa.com/">
@@ -8066,8 +8066,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Briar.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Briar.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://briarproject.org/">
@@ -8099,8 +8099,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/SimpleX Chat.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/SimpleX Chat.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://simplex.chat/">
@@ -8141,8 +8141,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Mastodon.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Mastodon.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://joinmastodon.org/">
@@ -8180,8 +8180,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/MeroChat.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/MeroChat.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://mero.chat/">
@@ -8219,8 +8219,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Loops.jpg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Loops.jpg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://loops.video/">
@@ -8250,8 +8250,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/ProxiTok.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/ProxiTok.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/pablouser1/ProxiTok">
@@ -8288,8 +8288,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Postiz.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Postiz.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://postiz.com/">
@@ -8325,8 +8325,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Lemmy.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Lemmy.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://join-lemmy.org/">
@@ -8364,8 +8364,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Pixelfed.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Pixelfed.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://pixelfed.org/">
@@ -8414,8 +8414,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Open Beauty Facts.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Open Beauty Facts.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://world.openbeautyfacts.org/">
@@ -8454,8 +8454,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Inner Breeze.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Inner Breeze.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://inbreeze.xyz/">
@@ -8494,8 +8494,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Diaguard.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Diaguard.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://diaguard.wordpress.com/">
@@ -8533,8 +8533,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Daily Dozen.webp" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Daily Dozen.webp" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://nutritionfacts.org/open-source/">
@@ -8573,8 +8573,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Gadgetbridge.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Gadgetbridge.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://gadgetbridge.org/">
@@ -8612,8 +8612,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Massive.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Massive.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/brandonp2412/Massive">
@@ -8651,8 +8651,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Loop Habit Tracker.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Loop Habit Tracker.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/iSoron/uhabits">
@@ -8680,8 +8680,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Table Habit.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Table Habit.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/FriesI23/mhabit">
@@ -8718,8 +8718,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Simpill.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Simpill.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://gitlab.com/simpilldev/simpill">
@@ -8758,8 +8758,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Medito.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Medito.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://meditofoundation.org/medito-app">
@@ -8798,8 +8798,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/drip..png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/drip..png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://bloodyhealth.gitlab.io/">
@@ -8829,8 +8829,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Mensinator.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Mensinator.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/EmmaTellblom/Mensinator">
@@ -8867,8 +8867,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Pixy Mood Tracker.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Pixy Mood Tracker.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://pixy.day/">
@@ -8908,8 +8908,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Open Food Facts.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Open Food Facts.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://world.openfoodfacts.org/">
@@ -8949,8 +8949,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Paseo.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Paseo.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://gitlab.com/pardomi/paseo">
@@ -8989,8 +8989,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/FitoTrack.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/FitoTrack.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://codeberg.org/jannis/FitoTrack">
@@ -9019,8 +9019,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/OpenTracks.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/OpenTracks.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://f-droid.org/en/packages/de.dennisguse.opentracks/">
@@ -9057,8 +9057,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Seasonal Foods Calendar.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Seasonal Foods Calendar.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://flunzmas.com/seasonal-foods-calendar/">
@@ -9097,8 +9097,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Noice.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Noice.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://trynoice.com/">
@@ -9136,8 +9136,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Petals.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Petals.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/LeoColman/Petals">
@@ -9175,8 +9175,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Energize.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Energize.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://codeberg.org/epinez/Energize">
@@ -9204,8 +9204,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/OpenNutriTracker.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/OpenNutriTracker.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://simonoppowa.github.io/OpenNutriTracker-Website/">
@@ -9234,8 +9234,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/openScale.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/openScale.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/oliexdev/openScale">
@@ -9263,8 +9263,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Waistline.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Waistline.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/davidhealey/waistline">
@@ -9301,8 +9301,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Feeel.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Feeel.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://gitlab.com/enjoyingfoss/feeel">
@@ -9340,8 +9340,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/TimeR Machine.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/TimeR Machine.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/timer-machine/timer-machine-android">
@@ -9385,8 +9385,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/coreboot.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/coreboot.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://coreboot.org/">
@@ -9414,8 +9414,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Libreboot.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Libreboot.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.libreboot.org/">
@@ -9452,8 +9452,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Webmin.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Webmin.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://webmin.com/">
@@ -9496,8 +9496,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/OpenStreetMap.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/OpenStreetMap.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.openstreetmap.org/">
@@ -9526,8 +9526,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/OsmAnd.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/OsmAnd.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://osmand.net/">
@@ -9556,8 +9556,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Organic Maps.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Organic Maps.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://organicmaps.app/">
@@ -9588,8 +9588,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/StreetComplete.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/StreetComplete.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://streetcomplete.app/">
@@ -9627,8 +9627,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Fake Traveler.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Fake Traveler.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/mcastillof/FakeTraveler">
@@ -9672,8 +9672,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Kodi.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Kodi.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://kodi.tv/">
@@ -9703,8 +9703,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Jellyfin.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Jellyfin.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://jellyfin.org/">
@@ -9743,8 +9743,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/VLC Media Player.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/VLC Media Player.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.videolan.org/vlc/">
@@ -9785,8 +9785,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Stremio.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Stremio.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.stremio.com/">
@@ -9825,8 +9825,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/OBS Studio.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/OBS Studio.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://obsproject.com/">
@@ -9866,8 +9866,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/FFmpeg.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/FFmpeg.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://ffmpeg.org/">
@@ -9896,8 +9896,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/HandBrake.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/HandBrake.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://handbrake.fr/">
@@ -9935,8 +9935,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/yt-dlp.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/yt-dlp.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/yt-dlp/yt-dlp">
@@ -9976,8 +9976,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Kdenlive.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Kdenlive.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://kdenlive.org/">
@@ -10006,8 +10006,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Open Video Editor.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Open Video Editor.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/devhyper/open-video-editor">
@@ -10045,8 +10045,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Odysee.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Odysee.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://odysee.com/">
@@ -10076,8 +10076,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/PeerTube.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/PeerTube.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://joinpeertube.org/">
@@ -10115,8 +10115,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/OpenTogetherTube.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/OpenTogetherTube.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://opentogethertube.com/">
@@ -10152,8 +10152,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/FreeTube.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/FreeTube.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://freetubeapp.io/">
@@ -10184,8 +10184,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Tubular.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Tubular.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/polymorphicshade/Tubular">
@@ -10223,8 +10223,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Invidious.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Invidious.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://redirect.invidious.io/">
@@ -10253,8 +10253,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Piped.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Piped.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/TeamPiped/Piped">
@@ -10297,8 +10297,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/uBlock Origin.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/uBlock Origin.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/gorhill/uBlock">
@@ -10330,8 +10330,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/NoScript.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/NoScript.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://noscript.net/">
@@ -10363,8 +10363,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Pi-hole.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Pi-hole.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://pi-hole.net/">
@@ -10401,8 +10401,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Raindrop.io.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Raindrop.io.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://raindrop.io/">
@@ -10442,8 +10442,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Am I Unique.png" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Am I Unique.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://amiunique.org/fingerprint">
@@ -10471,8 +10471,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Default.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Default.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://browseraudit.com/">
@@ -10501,8 +10501,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Cover Your Tracks.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Cover Your Tracks.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://coveryourtracks.eff.org/">
@@ -10531,8 +10531,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Default.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Default.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://abrahamjuliot.github.io/creepjs/">
@@ -10569,8 +10569,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Brave.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Brave.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://brave.com/">
@@ -10611,8 +10611,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Mullvad Browser.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Mullvad Browser.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://mullvad.net/en/browser">
@@ -10642,8 +10642,8 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Tor Browser.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Tor Browser.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.torproject.org/projects/torbrowser.html">
@@ -10684,8 +10684,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <div>
     <table>
         <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Search by Image.svg" width="64">
+            <td rowspan="3" style="vertical-align: middle;">
+                <img src="Assets/Icons/Search by Image.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/dessant/search-by-image">
