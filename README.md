@@ -23,7 +23,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>96.2025.1.4.0</tt>
+        Current version: <tt>97.2025.1.4.1</tt>
     </h3>
 </div>
 
@@ -495,7 +495,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Transcribro.svg" width="96">
+                <img src="Assets/Icons/Transcribro.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/soupslurpr/Transcribro">
@@ -1775,7 +1775,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Apache HTTP Server.svg" width="96">
+                <img src="Assets/Icons/Apache HTTP Server.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://httpd.apache.org/">
@@ -1805,7 +1805,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/nginx.svg" width="96">
+                <img src="Assets/Icons/nginx.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://nginx.com/">
@@ -2255,7 +2255,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/LibreTranslate.svg" width="96">
+                <img src="Assets/Icons/LibreTranslate.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://libretranslate.com/">
@@ -2480,7 +2480,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/OnionShare.svg" width="96">
+                <img src="Assets/Icons/OnionShare.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://onionshare.org/">
@@ -3127,7 +3127,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/The Battle for Wesnoth.png" width="96">
+                <img src="Assets/Icons/The Battle for Wesnoth.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.wesnoth.org/">
@@ -4190,7 +4190,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Anna's Archive.svg" width="96">
+                <img src="Assets/Icons/Anna's Archive.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://annas-archive.org/">
@@ -4939,7 +4939,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Notepad++.svg" width="96">
+                <img src="Assets/Icons/Notepad++.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://notepad-plus-plus.org/">
@@ -5434,7 +5434,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/url.zip.png" width="96">
+                <img src="Assets/Icons/Default.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.url.zip/">
@@ -6045,7 +6045,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Tails.svg" width="96">
+                <img src="Assets/Icons/Tails.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://tails.net/">
@@ -7648,7 +7648,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/MySudo.svg" width="96">
+                <img src="Assets/Icons/MySudo.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://mysudo.com/">
