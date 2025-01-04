@@ -16,6 +16,7 @@ You can support the project by:
 - Filling in gaps placemarked by the "This section needs to be improved" stamp
 - Reporting or fixing typos or grammar mistakes
 - Reporting or fixing incorrect/broken links
+- Reporting or fixing missing, incorrect, broken, or outdated icons
 - Reporting or fixing incorrect "Platform" badges
 - Reporting or fixing software or sections not in alphabetical order
 - Reporting software that isn't soure-available that doesn't have the "This software is proprietary" stamp
