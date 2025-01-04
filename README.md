@@ -23,7 +23,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>94.2025.1.3.7</tt>
+        Current version: <tt>95.2025.1.3.8</tt>
     </h3>
 </div>
 
@@ -2083,7 +2083,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Wikipedia.svg" width="96">
+                <img src="Assets/Icons/Wikipedia.webp" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.wikipedia.org/">
