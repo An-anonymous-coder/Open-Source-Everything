@@ -23,7 +23,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>97.2025.1.4.1</tt>
+        Current version: <tt>98.2025.1.5.0</tt>
     </h3>
 </div>
 
@@ -9875,6 +9875,45 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
+        Movie Review Sites
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/libremd.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://libremdb.iket.me/">
+                    libremd
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Movie Streaming Services
     </h3>
 </div>
@@ -10213,11 +10252,11 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/OpenTogetherTube.svg" width="96">
+                <img src="Assets/Icons/Metastream.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://opentogethertube.com/">
-                    OpenTogetherTube
+                <a href="https://getmetastream.com/">
+                    Metastream
                 </a>
             </th>
         </tr>
@@ -10234,6 +10273,9 @@ Platforms tell you on which devices software is available to be used. Because th
                 Platforms
             </th>
             <td>
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
             </td>
         </tr>
