@@ -23,7 +23,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>98.2025.1.5.0</tt>
+        Current version: <tt>99.2025.1.7.0</tt>
     </h3>
 </div>
 
@@ -2099,7 +2099,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Wikipedia.webp" width="96">
+                <img src="Assets/Icons/Wikipedia.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.wikipedia.org/">
@@ -2333,7 +2333,7 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
-        File Archivers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        File Archivers
     </h3>
 </div>
 
@@ -2354,7 +2354,7 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -2384,7 +2384,7 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -2398,6 +2398,12 @@ Platforms tell you on which devices software is available to be used. Because th
             </td>
         </tr>
     </table>
+</div>
+
+<div align="left">
+    <h3>
+        File Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
 </div>
 
 <div align="center">
@@ -2827,7 +2833,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Journey to the Center of Hawkthorne.webp" width="96">
+                <img src="Assets/Icons/Journey to the Center of Hawkthorne.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://projecthawkthorne.com/">
@@ -3217,7 +3223,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/RetroArch.webp" width="96">
+                <img src="Assets/Icons/RetroArch.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://retroarch.com/">
@@ -4728,7 +4734,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Fossify Calendar.webp" width="96">
+                <img src="Assets/Icons/Fossify Calendar.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/FossifyOrg/Calendar">
@@ -5078,6 +5084,75 @@ Platforms tell you on which devices software is available to be used. Because th
                 <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                 <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Whiteboards
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Excalidraw.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://excalidraw.com/">
+                    Excalidraw
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/OpenBoard.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://openboard.ch/index.en.html">
+                    OpenBoard
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
             </td>
         </tr>
     </table>
@@ -5500,7 +5575,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Breezy Weather.webp" width="96">
+                <img src="Assets/Icons/Breezy Weather.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/breezy-weather/breezy-weather">
@@ -6861,6 +6936,45 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
+        Stock Photo Services
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Openverse.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://openverse.org/">
+                    Openverse
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Vector Graphic Apps
     </h3>
 </div>
@@ -7079,6 +7193,12 @@ Platforms tell you on which devices software is available to be used. Because th
     <h1>
         Remote Work & Education
     </h1>
+</div>
+
+<div align="left">
+    <h3>
+        Learning Management Systems <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
 </div>
 
 <div align="left">
@@ -7536,6 +7656,12 @@ Platforms tell you on which devices software is available to be used. Because th
 <div align="left">
     <h3>
         Firewalls <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div align="left">
+    <h3>
+        Internet Filters <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
@@ -8140,6 +8266,7 @@ Platforms tell you on which devices software is available to be used. Because th
             </th>
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -8270,6 +8397,44 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
+        Photo Sharing Apps
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Pixelfed.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://pixelfed.org/">
+                    Pixelfed
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Random Chat
     </h3>
 </div>
@@ -8305,6 +8470,12 @@ Platforms tell you on which devices software is available to be used. Because th
             </td>
         </tr>
     </table>
+</div>
+
+<div align="left">
+    <h3>
+        Random Video Chat Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
 </div>
 
 <div align="left">
@@ -8452,50 +8623,6 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
-<div align="left">
-    <h3>
-        Photo Sharing Apps
-    </h3>
-</div>
-
-<div>
-    <table>
-        <tr>
-            <td rowspan="3">
-                <img src="Assets/Icons/Pixelfed.svg" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://pixelfed.org/">
-                    Pixelfed
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
-                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
-            </td>
-        </tr>
-    </table>
-</div>
-
-<div align="left">
-    <h3>
-        Random Video Chat Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
-    </h3>
-</div>
-
 <div align="center">
     <h1>
         Sport & Health
@@ -8631,7 +8758,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Daily Dozen.webp" width="96">
+                <img src="Assets/Icons/Daily Dozen.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://nutritionfacts.org/open-source/">
