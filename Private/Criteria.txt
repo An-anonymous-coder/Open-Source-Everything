@@ -1,0 +1,20 @@
+For my own sanity, I'm going to put together a rough outline for what makes software "best" software.
+These are not hard and fast rules, and there are plenty of exceptions.
+This is simply to help me make hard decisions.
+
+- No account required
+- Works offline
+- Fully featured
+- Good UI
+- Interoperable (i.e. import export in standard formats)
+- Available for multiple platforms
+- Recommended often by the community
+- Very popular or used often
+- Open source (obviously)
+- Actively maintained
+- Responsible developers
+- Available for secure app stores (e.g. Accrescent)
+- Respects rights (e.g. respects privacy, no ToS, no privacy policy, no cookies, responsible use of network permission)
+- Only available option or universal standard
+- Modern (e.g. Vulkan is a modern OpenGL implementation)
+- Would help in an apocalypse (yes, this is a real criteria. It works surprisingly well)
