@@ -23,7 +23,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>101.2025.1.9.1</tt>
+        Current version: <tt>102.2025.1.11.0</tt>
     </h3>
 </div>
 
@@ -519,6 +519,45 @@ Platforms tell you on which devices software is available to be used. Because th
                 <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
                 <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                 <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Audio Players
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Retro Music Player.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://f-droid.org/en/packages/code.name.monkey.retromusic/">
+                    Retro Music Player (F-Droid)
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
             </td>
         </tr>
     </table>
@@ -2009,6 +2048,39 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Monero.com.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://monero.com/">
+                    Monero.com
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
     <table>
         <tr>
             <td rowspan="3">
@@ -4206,7 +4278,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/SQLite.svg" width="96">
+                <img src="Assets/Icons/SQLite.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.sqlite.org/">
@@ -6306,6 +6378,45 @@ Platforms tell you on which devices software is available to be used. Because th
             <th colspan="2" style="text-align: center;">
                 <a href="https://lawnchair.app/">
                     Lawnchair
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        At a Glance Providers
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Default.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://github.com/KieronQuinn/Smartspacer">
+                    Smartspacer
                 </a>
             </th>
         </tr>
@@ -10700,11 +10811,11 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Kodi.svg" width="96">
+                <img src="Assets/Icons/Jellyfin.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://kodi.tv/">
-                    Kodi
+                <a href="https://jellyfin.org/">
+                    Jellyfin
                 </a>
             </th>
         </tr>
@@ -10731,11 +10842,11 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Jellyfin.svg" width="96">
+                <img src="Assets/Icons/Kodi.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://jellyfin.org/">
-                    Jellyfin
+                <a href="https://kodi.tv/">
+                    Kodi
                 </a>
             </th>
         </tr>

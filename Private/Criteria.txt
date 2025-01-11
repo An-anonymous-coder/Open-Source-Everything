@@ -18,3 +18,4 @@ This is simply to help me make hard decisions.
 - Only available option or universal standard
 - Modern (e.g. Vulkan is a modern OpenGL implementation)
 - Would help in an apocalypse (yes, this is a real criteria. It works surprisingly well)
+- Compatibility with hardened operating systems (e.g. GrapheneOS)
