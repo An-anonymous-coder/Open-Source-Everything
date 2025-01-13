@@ -16,15 +16,15 @@ While proprietary software is avoided on this list where possible, there are som
 Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
 <div align="center">
-    <img src="Assets/Sections/Versioning.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Versioning.svg" height="32">
         Versioning
     </h1>
 </div>
 
 <div align="center">
     <h3>
-        Current version: <tt>104.2025.1.13.1</tt>
+        Current version: <tt>105.2025.1.13.2</tt>
     </h3>
 </div>
 
@@ -36,8 +36,8 @@ The version code follows the format:
 - **Daily Release Index:** Index of the releases made each day, beginning at 0
 
 <div align="center">
-    <img src="Assets/Sections/Mirrors.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Mirrors.svg" height="32">
         Mirrors
     </h1>
 </div>
@@ -57,8 +57,8 @@ https://github.com/An-anonymous-coder/Open-Source-Everything
 *Coming soon!*
 
 <div align="center">
-    <img src="Assets/Sections/Legend.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Legend.svg" height="32">
         Legend
     </h1>
 </div>
@@ -102,8 +102,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <img alt="Online" src="Assets/Platforms/Online.svg" width="16"> Available online
 
 <div align="center">
-    <img src="Assets/Sections/Table of Contents.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Table of Contents.svg" height="32">
         Table of Contents
     </h1>
 </div>
@@ -165,8 +165,8 @@ Platforms tell you on which devices software is available to be used. Because th
 <img src="Assets/Sections/Web Browsing.svg" width="16"> [Web Browsing](#--------web-browsing----)
 
 <div align="center">
-    <img src="Assets/Sections/AI Tools & Services.svg" height="32">
     <h1>
+        <img src="Assets/Sections/AI Tools & Services.svg" height="32">
         AI Tools & Services
     </h1>
 </div>
@@ -482,8 +482,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Audio & Music.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Audio & Music.svg" height="32">
         Audio & Music
     </h1>
 </div>
@@ -865,8 +865,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Backup & Sync.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Backup & Sync.svg" height="32">
         Backup & Sync
     </h1>
 </div>
@@ -1050,8 +1050,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Business & Commerce.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Business & Commerce.svg" height="32">
         Business & Commerce
     </h1>
 </div>
@@ -1484,8 +1484,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/CDDVD Tools.svg" height="32">
     <h1>
+        <img src="Assets/Sections/CDDVD Tools.svg" height="32">
         CD/DVD Tools
     </h1>
 </div>
@@ -1630,8 +1630,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Development.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Development.svg" height="32">
         Development
     </h1>
 </div>
@@ -2157,8 +2157,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Digital Coins & Cryptocurrency.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Digital Coins & Cryptocurrency.svg" height="32">
         Digital Coins & Cryptocurrency
     </h1>
 </div>
@@ -2320,8 +2320,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Education & Reference.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Education & Reference.svg" height="32">
         Education & Reference
     </h1>
 </div>
@@ -2760,8 +2760,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/File Management.svg" height="32">
     <h1>
+        <img src="Assets/Sections/File Management.svg" height="32">
         File Management
     </h1>
 </div>
@@ -2953,8 +2953,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/File Sharing.svg" height="32">
     <h1>
+        <img src="Assets/Sections/File Sharing.svg" height="32">
         File Sharing
     </h1>
 </div>
@@ -3175,8 +3175,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Games.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Games.svg" height="32">
         Games
     </h1>
 </div>
@@ -3755,8 +3755,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Gaming Software.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Gaming Software.svg" height="32">
         Gaming Software
     </h1>
 </div>
@@ -3917,8 +3917,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Home & Family.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Home & Family.svg" height="32">
         Home & Family
     </h1>
 </div>
@@ -4159,8 +4159,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Network & Admin.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Network & Admin.svg" height="32">
         Network & Admin
     </h1>
 </div>
@@ -5071,8 +5071,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/News & Books.svg" height="32">
     <h1>
+        <img src="Assets/Sections/News & Books.svg" height="32">
         News & Books
     </h1>
 </div>
@@ -5289,8 +5289,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Office & Productivity.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Office & Productivity.svg" height="32">
         Office & Productivity
     </h1>
 </div>
@@ -6209,8 +6209,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Online Services.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Online Services.svg" height="32">
         Online Services
     </h1>
 </div>
@@ -6776,8 +6776,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/OS & Utilities.svg" height="32">
     <h1>
+        <img src="Assets/Sections/OS & Utilities.svg" height="32">
         OS & Utilities
     </h1>
 </div>
@@ -7791,8 +7791,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Photos & Graphics.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Photos & Graphics.svg" height="32">
         Photos & Graphics
     </h1>
 </div>
@@ -8267,8 +8267,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Religion & Prayer.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Religion & Prayer.svg" height="32">
         Religion & Prayer
     </h1>
 </div>
@@ -8443,8 +8443,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Remote Work & Education.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Remote Work & Education.svg" height="32">
         Remote Work & Education
     </h1>
 </div>
@@ -8499,8 +8499,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Security & Privacy.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Security & Privacy.svg" height="32">
         Security & Privacy
     </h1>
 </div>
@@ -9330,8 +9330,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Social & Communications.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Social & Communications.svg" height="32">
         Social & Communications
     </h1>
 </div>
@@ -9934,8 +9934,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Sport & Health.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Sport & Health.svg" height="32">
         Sport & Health
     </h1>
 </div>
@@ -10906,8 +10906,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/System & Hardware.svg" height="32">
     <h1>
+        <img src="Assets/Sections/System & Hardware.svg" height="32">
         System & Hardware
     </h1>
 </div>
@@ -11055,8 +11055,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Travel & Location.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Travel & Location.svg" height="32">
         Travel & Location
     </h1>
 </div>
@@ -11232,8 +11232,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Video & Movies.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Video & Movies.svg" height="32">
         Video & Movies
     </h1>
 </div>
@@ -11900,8 +11900,8 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
-    <img src="Assets/Sections/Web Browsing.svg" height="32">
     <h1>
+        <img src="Assets/Sections/Web Browsing.svg" height="32">
         Web Browsing
     </h1>
 </div>
