@@ -23,7 +23,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>102.2025.1.11.0</tt>
+        Current version: <tt>103.2025.1.13.0</tt>
     </h3>
 </div>
 
@@ -359,6 +359,45 @@ Platforms tell you on which devices software is available to be used. Because th
             </th>
             <td>
                 <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        AI Search Engines
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Morphic.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://www.morphic.sh/">
+                    Morphic
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -1011,6 +1050,43 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
+        Ad Networks <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/AdEx.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://www.adex.network/">
+                    AdEx
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Budget Managers
     </h3>
 </div>
@@ -1098,6 +1174,76 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
+        Online Shops <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Coincards.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://coincards.com/us/">
+                    Coincards
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Default.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://cryptwerk.com/pay-with/xmr/">
+                    Cryptwerk
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Personal Finance Tools
     </h3>
 </div>
@@ -1131,6 +1277,12 @@ Platforms tell you on which devices software is available to be used. Because th
             </td>
         </tr>
     </table>
+</div>
+
+<div align="left">
+    <h3>
+        Price Comparison Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
 </div>
 
 <div align="left">
@@ -2015,6 +2167,47 @@ Platforms tell you on which devices software is available to be used. Because th
             <th colspan="2" style="text-align: center;">
                 <a href="https://getmonero.org/home">
                     Monero
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Crypto Miners
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/XMRig.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://xmrig.com/">
+                    XMRig
                 </a>
             </th>
         </tr>
@@ -3754,6 +3947,50 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
+        Grocery Delivery Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div align="left">
+    <h3>
+        Grocery List Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Grocy.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://grocy.info/">
+                    Grocy
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Home Automation Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
@@ -3815,6 +4052,86 @@ Platforms tell you on which devices software is available to be used. Because th
             </th>
             <td>
                 <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Interior Design Apps
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Sweet Home 3D.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://www.sweethome3d.com/">
+                    Sweet Home 3D
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Recipe Managers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Recipya.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://recipya-app.musicavis.ca/">
+                    Recipya
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
                 <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
                 <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                 <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
@@ -6149,6 +6466,49 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
+        Dark Web Search Engines <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/Default.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://github.com/megadose/OnionSearch">
+                    OnionSearch
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Job Search Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div align="left">
+    <h3>
         Pornography
     </h3>
 </div>
@@ -6206,6 +6566,46 @@ Platforms tell you on which devices software is available to be used. Because th
                 Platforms
             </th>
             <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Surface Web Search Engines
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Icons/SearXNG.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://docs.searxng.org/">
+                    SearXNG
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
             </td>
         </tr>
@@ -6319,7 +6719,7 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
-        Web Search Engines
+        Web Hosting Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
@@ -6327,11 +6727,11 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/SearXNG.svg" width="96">
+                <img src="Assets/Icons/Neocities.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://docs.searxng.org/">
-                    SearXNG
+                <a href="https://neocities.org/">
+                    Neocities
                 </a>
             </th>
         </tr>
@@ -6340,9 +6740,7 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
-                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -6350,7 +6748,6 @@ Platforms tell you on which devices software is available to be used. Because th
                 Platforms
             </th>
             <td>
-                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
             </td>
         </tr>
@@ -8261,6 +8658,12 @@ Platforms tell you on which devices software is available to be used. Because th
             </td>
         </tr>
     </table>
+</div>
+
+<div align="left">
+    <h3>
+        Data Removal Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
 </div>
 
 <div align="left">
