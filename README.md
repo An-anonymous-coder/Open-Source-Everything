@@ -16,6 +16,7 @@ While proprietary software is avoided on this list where possible, there are som
 Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
 <div align="center">
+    <img src="Assets/Sections/Versioning.svg" height="32">
     <h1>
         Versioning
     </h1>
@@ -23,7 +24,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>103.2025.1.13.0</tt>
+        Current version: <tt>104.2025.1.13.1</tt>
     </h3>
 </div>
 
@@ -35,6 +36,7 @@ The version code follows the format:
 - **Daily Release Index:** Index of the releases made each day, beginning at 0
 
 <div align="center">
+    <img src="Assets/Sections/Mirrors.svg" height="32">
     <h1>
         Mirrors
     </h1>
@@ -55,6 +57,7 @@ https://github.com/An-anonymous-coder/Open-Source-Everything
 *Coming soon!*
 
 <div align="center">
+    <img src="Assets/Sections/Legend.svg" height="32">
     <h1>
         Legend
     </h1>
@@ -99,68 +102,70 @@ Platforms tell you on which devices software is available to be used. Because th
 <img alt="Online" src="Assets/Platforms/Online.svg" width="16"> Available online
 
 <div align="center">
+    <img src="Assets/Sections/Table of Contents.svg" height="32">
     <h1>
         Table of Contents
     </h1>
 </div>
 
-[AI Tools & Services](#--------ai-tools--services----)
+<img src="Assets/Sections/AI Tools & Services.svg" width="16"> [AI Tools & Services](#--------ai-tools--services----)
 
-[Audio & Music](#--------audio--music----)
+<img src="Assets/Sections/Audio & Music.svg" width="16"> [Audio & Music](#--------audio--music----)
 
-[Backup & Sync](#--------backup--sync----)
+<img src="Assets/Sections/Backup & Sync.svg" width="16"> [Backup & Sync](#--------backup--sync----)
 
-[Business & Commerce](#--------business--commerce----)
+<img src="Assets/Sections/Business & Commerce.svg" width="16"> [Business & Commerce](#--------business--commerce----)
 
-[CD/DVD Tools](#--------cddvd-tools----)
+<img src="Assets/Sections/CDDVD Tools.svg" width="16"> [CD/DVD Tools](#--------cddvd-tools----)
 
-[Development](#--------development----)
+<img src="Assets/Sections/Development.svg" width="16"> [Development](#--------development----)
 
-[Digital Coins & Cryptocurrency](#--------digital-coins--cryptocurrency----)
+<img src="Assets/Sections/Digital Coins & Cryptocurrency.svg" width="16"> [Digital Coins & Cryptocurrency](#--------digital-coins--cryptocurrency----)
 
-[Education & Reference](#--------education--reference----)
+<img src="Assets/Sections/Education & Reference.svg" width="16"> [Education & Reference](#--------education--reference----)
 
-[File Management](#--------file-management----)
+<img src="Assets/Sections/File Management.svg" width="16"> [File Management](#--------file-management----)
 
-[File Sharing](#--------file-sharing----)
+<img src="Assets/Sections/File Sharing.svg" width="16"> [File Sharing](#--------file-sharing----)
 
-[Games](#--------games----)
+<img src="Assets/Sections/Games.svg" width="16"> [Games](#--------games----)
 
-[Gaming Software](#--------gaming-software----)
+<img src="Assets/Sections/Gaming Software.svg" width="16"> [Gaming Software](#--------gaming-software----)
 
-[Home & Family](#--------home--family----)
+<img src="Assets/Sections/Home & Family.svg" width="16"> [Home & Family](#--------home--family----)
 
-[Network & Admin](#--------network--admin----)
+<img src="Assets/Sections/Network & Admin.svg" width="16"> [Network & Admin](#--------network--admin----)
 
-[News & Books](#--------news--books----)
+<img src="Assets/Sections/News & Books.svg" width="16"> [News & Books](#--------news--books----)
 
-[Office & Productivity](#--------office--productivity----)
+<img src="Assets/Sections/Office & Productivity.svg" width="16"> [Office & Productivity](#--------office--productivity----)
 
-[Online Services](#--------online-services----)
+<img src="Assets/Sections/Online Services.svg" width="16"> [Online Services](#--------online-services----)
 
-[OS & Utilities](#--------os--utilities----)
+<img src="Assets/Sections/OS & Utilities.svg" width="16"> [OS & Utilities](#--------os--utilities----)
 
-[Photos & Graphics](#--------photos--graphics----)
+<img src="Assets/Sections/Photos & Graphics.svg" width="16"> [Photos & Graphics](#--------photos--graphics----)
 
-[Religion & Prayer](#--------religion--prayer----)
+<img src="Assets/Sections/Religion & Prayer.svg" width="16"> [Religion & Prayer](#--------religion--prayer----)
 
-[Remote Work & Education](#--------remote-work--education----)
+<img src="Assets/Sections/Remote Work & Education.svg" width="16"> [Remote Work & Education](#--------remote-work--education----)
 
-[Security & Privacy](#--------security--privacy----)
+<img src="Assets/Sections/Security & Privacy.svg" width="16"> [Security & Privacy](#--------security--privacy----)
 
-[Social & Communications](#--------social--communications----)
+<img src="Assets/Sections/Social & Communications.svg" width="16"> [Social & Communications](#--------social--communications----)
 
-[Sport & Health](#--------sport--health----)
+<img src="Assets/Sections/Sport & Health.svg" width="16"> [Sport & Health](#--------sport--health----)
 
-[System & Hardware](#--------system--hardware----)
+<img src="Assets/Sections/System & Hardware.svg" width="16"> [System & Hardware](#--------system--hardware----)
 
-[Travel & Location](#--------travel--location----)
+<img src="Assets/Sections/Travel & Location.svg" width="16"> [Travel & Location](#--------travel--location----)
 
-[Video & Movies](#--------video--movies----)
+<img src="Assets/Sections/Video & Movies.svg" width="16"> [Video & Movies](#--------video--movies----)
 
-[Web Browsing](#--------web-browsing----)
+<img src="Assets/Sections/Web Browsing.svg" width="16"> [Web Browsing](#--------web-browsing----)
 
 <div align="center">
+    <img src="Assets/Sections/AI Tools & Services.svg" height="32">
     <h1>
         AI Tools & Services
     </h1>
@@ -477,6 +482,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Audio & Music.svg" height="32">
     <h1>
         Audio & Music
     </h1>
@@ -859,6 +865,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Backup & Sync.svg" height="32">
     <h1>
         Backup & Sync
     </h1>
@@ -1043,6 +1050,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Business & Commerce.svg" height="32">
     <h1>
         Business & Commerce
     </h1>
@@ -1476,6 +1484,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/CDDVD Tools.svg" height="32">
     <h1>
         CD/DVD Tools
     </h1>
@@ -1621,6 +1630,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Development.svg" height="32">
     <h1>
         Development
     </h1>
@@ -2147,6 +2157,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Digital Coins & Cryptocurrency.svg" height="32">
     <h1>
         Digital Coins & Cryptocurrency
     </h1>
@@ -2309,6 +2320,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Education & Reference.svg" height="32">
     <h1>
         Education & Reference
     </h1>
@@ -2748,6 +2760,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/File Management.svg" height="32">
     <h1>
         File Management
     </h1>
@@ -2940,6 +2953,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/File Sharing.svg" height="32">
     <h1>
         File Sharing
     </h1>
@@ -3161,6 +3175,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Games.svg" height="32">
     <h1>
         Games
     </h1>
@@ -3563,7 +3578,7 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -3740,6 +3755,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Gaming Software.svg" height="32">
     <h1>
         Gaming Software
     </h1>
@@ -3901,6 +3917,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Home & Family.svg" height="32">
     <h1>
         Home & Family
     </h1>
@@ -4142,6 +4159,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Network & Admin.svg" height="32">
     <h1>
         Network & Admin
     </h1>
@@ -5053,6 +5071,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/News & Books.svg" height="32">
     <h1>
         News & Books
     </h1>
@@ -5270,6 +5289,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Office & Productivity.svg" height="32">
     <h1>
         Office & Productivity
     </h1>
@@ -6159,7 +6179,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/OpenBoard.png" width="96">
+                <img src="Assets/Icons/OpenBoard.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://openboard.ch/index.en.html">
@@ -6189,6 +6209,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Online Services.svg" height="32">
     <h1>
         Online Services
     </h1>
@@ -6755,6 +6776,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/OS & Utilities.svg" height="32">
     <h1>
         OS & Utilities
     </h1>
@@ -7676,6 +7698,7 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
@@ -7768,6 +7791,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Photos & Graphics.svg" height="32">
     <h1>
         Photos & Graphics
     </h1>
@@ -8243,6 +8267,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Religion & Prayer.svg" height="32">
     <h1>
         Religion & Prayer
     </h1>
@@ -8418,6 +8443,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Remote Work & Education.svg" height="32">
     <h1>
         Remote Work & Education
     </h1>
@@ -8473,6 +8499,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Security & Privacy.svg" height="32">
     <h1>
         Security & Privacy
     </h1>
@@ -9303,6 +9330,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Social & Communications.svg" height="32">
     <h1>
         Social & Communications
     </h1>
@@ -9887,6 +9915,8 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -9904,6 +9934,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Sport & Health.svg" height="32">
     <h1>
         Sport & Health
     </h1>
@@ -10875,6 +10906,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/System & Hardware.svg" height="32">
     <h1>
         System & Hardware
     </h1>
@@ -11023,6 +11055,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Travel & Location.svg" height="32">
     <h1>
         Travel & Location
     </h1>
@@ -11199,6 +11232,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Video & Movies.svg" height="32">
     <h1>
         Video & Movies
     </h1>
@@ -11866,6 +11900,7 @@ Platforms tell you on which devices software is available to be used. Because th
 </div>
 
 <div align="center">
+    <img src="Assets/Sections/Web Browsing.svg" height="32">
     <h1>
         Web Browsing
     </h1>
