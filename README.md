@@ -24,7 +24,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>107.2025.1.15.0</tt>
+        Current version: <tt>108.2025.1.15.1</tt>
     </h3>
 </div>
 
@@ -618,7 +618,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Icons/Fossify Voice Recorder.png" width="96">
+                <img src="Assets/Software/Fossify Voice Recorder.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/FossifyOrg/Voice-Recorder">
