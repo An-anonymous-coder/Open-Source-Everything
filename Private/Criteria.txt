@@ -2,10 +2,10 @@ For my own sanity, I'm going to put together a rough outline for what makes soft
 These are not hard and fast rules, and there are plenty of exceptions.
 This is simply to help me make hard decisions.
 
-- No account required
-- Works offline
+- No account required (where reasonable)
+- Works offline (where reasonable)
 - Fully featured
-- Good UI
+- Good UI (also prioritizes Material Design 3 for Android)
 - Interoperable (i.e. import export in standard formats)
 - Available for multiple platforms
 - Recommended often by the community
@@ -19,3 +19,6 @@ This is simply to help me make hard decisions.
 - Modern (e.g. Vulkan is a modern OpenGL implementation)
 - Would help in an apocalypse (yes, this is a real criteria. It works surprisingly well)
 - Compatibility with hardened operating systems (e.g. GrapheneOS)
+- Available on platforms that make sense (e.g. you probably don't need to host a web server from your phone)
+- Useful software (some software has become obselete or a default OS feature)
+- No useless paid tier
