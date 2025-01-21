@@ -24,7 +24,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>113.2025.1.20.1</tt>
+        Current version: <tt>114.2025.1.21.0</tt>
     </h3>
 </div>
 
@@ -768,7 +768,7 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
-        Music Discovery Services <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        Music Discovery Services
     </h3>
 </div>
 
@@ -789,7 +789,9 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -6119,6 +6121,43 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
+        Comic and Manga Readers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Mihon.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://mihon.app/">
+                    Mihon
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Ebook Libraries
     </h3>
 </div>
@@ -6171,6 +6210,8 @@ Platforms tell you on which devices software is available to be used. Because th
             </th>
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -6225,11 +6266,11 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Librera Reader.png" width="96">
+                <img src="Assets/Software/Book's Story.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://librera.mobi/">
-                    Librera Reader
+                <a href="https://github.com/Acclorite/book-story">
+                    Book's Story
                 </a>
             </th>
         </tr>
@@ -6238,6 +6279,8 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -6301,11 +6344,11 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Feeder.png" width="96">
+                <img src="Assets/Software/Read You.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://github.com/spacecowboy/Feeder">
-                    Feeder
+                <a href="https://github.com/Ashinch/ReadYou">
+                    Read You
                 </a>
             </th>
         </tr>
@@ -6314,6 +6357,8 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -9485,6 +9530,36 @@ Platforms tell you on which devices software is available to be used. Because th
             </td>
         </tr>
     </table>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Image Toolbox.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://github.com/T8RIN/ImageToolbox">
+                    Image Toolbox
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            </td>
+        </tr>
+    </table>
 </div>
 
 <div align="left">
@@ -11183,38 +11258,6 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/XMPP.svg" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://xmpp.org/">
-                    XMPP
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
-                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
-                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
-                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
-                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="3">
                 <img src="Assets/Software/Default.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
@@ -11228,6 +11271,8 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -11259,6 +11304,7 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -11452,7 +11498,7 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -13746,6 +13792,46 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
+        Video Upscaling Apps
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Video2X.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://github.com/k4yt3x/video2x/">
+                    Video2X
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         VTubing <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
@@ -13865,11 +13951,11 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Tubular.svg" width="96">
+                <img src="Assets/Software/LibreTube.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://github.com/polymorphicshade/Tubular">
-                    Tubular
+                <a href="https://libretube.dev/">
+                    LibreTube
                 </a>
             </th>
         </tr>
