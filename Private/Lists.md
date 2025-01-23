@@ -29,3 +29,5 @@ https://opensourcesoftwaredirectory.com/
 https://alternativeto.net/platform/all/?license=opensource
 
 https://www.opensourcealternative.to/
+
+https://openalternative.co/
