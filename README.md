@@ -24,7 +24,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>114.2025.1.21.0</tt>
+        Current version: <tt>115.2025.1.26.0</tt>
     </h3>
 </div>
 
@@ -99,7 +99,7 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16"> Available for Windows devices
 
-<img alt="Online" src="Assets/Platforms/Online.svg" width="16"> Available online
+<img alt="Online" src="Assets/Platforms/Online.svg" width="16"> Available through web browsers
 
 <div align="center">
     <h1>
@@ -7795,6 +7795,12 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
+        URL Expanders <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div align="left">
+    <h3>
         URL Shorteners <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
@@ -8202,6 +8208,7 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
@@ -8231,6 +8238,7 @@ Platforms tell you on which devices software is available to be used. Because th
                 Stamps
             </th>
             <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
@@ -8591,6 +8599,45 @@ Platforms tell you on which devices software is available to be used. Because th
             </th>
             <td>
                 <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Mouse Gesture Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Gesturefy.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://github.com/Robbendebiene/Gesturefy">
+                    Gesturefy
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
             </td>
         </tr>
     </table>
@@ -9719,7 +9766,7 @@ Platforms tell you on which devices software is available to be used. Because th
 
 <div align="left">
     <h3>
-        Photo Managers
+        Photo Galleries
     </h3>
 </div>
 
@@ -9751,6 +9798,45 @@ Platforms tell you on which devices software is available to be used. Because th
             </th>
             <td>
                 <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Photo Managers
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Immich.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://immich.app/">
+                    Immich
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
             </td>
         </tr>
     </table>
@@ -13127,6 +13213,48 @@ Platforms tell you on which devices software is available to be used. Because th
     </table>
 </div>
 
+<div align="left">
+    <h3>
+        Taxi Booking Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/LibreTaxi.jpg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://libretaxi.org/">
+                    LibreTaxi
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
 <div align="center">
     <h1>
         <img src="Assets/Sections/Video & Movies.svg" height="32">
@@ -14475,6 +14603,120 @@ Platforms tell you on which devices software is available to be used. Because th
             <td>
                 <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
                 <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Paywall Removers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Default.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://github.com/wasi-master/13ft">
+                    13 Feet Ladder
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+ <div align="left">
+    <h3>
+        URL Cleaners
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/ClearURLs.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://gitlab.com/ClearURLs/ClearUrls">
+                    ClearURLs
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        URL Forwarding
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/LibRedirect.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://libredirect.github.io/">
+                    LibRedirect
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
             </td>
         </tr>
     </table>

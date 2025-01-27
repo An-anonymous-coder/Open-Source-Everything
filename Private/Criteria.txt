@@ -22,3 +22,4 @@ This is simply to help me make hard decisions.
 - Available on platforms that make sense (e.g. you probably don't need to host a web server from your phone)
 - Useful software (some software has become obselete or a default OS feature)
 - No useless paid tier
+- Free of charge (where reasonable)
