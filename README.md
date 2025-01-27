@@ -24,7 +24,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>115.2025.1.26.0</tt>
+        Current version: <tt>116.2025.1.26.1</tt>
     </h3>
 </div>
 
@@ -1652,9 +1652,6 @@ Platforms tell you on which devices software is available to be used. Because th
             </td>
         </tr>
     </table>
-</div>
-
-<div>
     <table>
         <tr>
             <td rowspan="3">
@@ -1684,7 +1681,38 @@ Platforms tell you on which devices software is available to be used. Because th
             </td>
         </tr>
     </table>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/XMRBazaar.jpg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://xmrbazaar.com/">
+                    XMRBazaar
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
 </div>
+
+
 
 <div align="left">
     <h3>
