@@ -24,7 +24,7 @@ Some software or sections marked with the <img alt="This section needs to be imp
 
 <div align="center">
     <h3>
-        Current version: <tt>117.2025.1.28.0</tt>
+        Current version: <tt>118.2025.1.28.1</tt>
     </h3>
 </div>
 
@@ -734,7 +734,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/radio-browser.ico" width="96">
+                <img src="Assets/Software/radio-browser.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.radio-browser.info/">
@@ -9574,7 +9574,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/ImageMagick.png" width="96">
+                <img src="Assets/Software/ImageMagick.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://imagemagick.org/">
@@ -11716,7 +11716,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/MeroChat.ico" width="96">
+                <img src="Assets/Software/MeroChat.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://mero.chat/">
@@ -14535,7 +14535,7 @@ Platforms tell you on which devices software is available to be used. Because th
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/CreepJS.ico" width="96">
+                <img src="Assets/Software/Default.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://abrahamjuliot.github.io/creepjs/">
