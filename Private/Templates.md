@@ -47,7 +47,7 @@
 <div>
     <table>
         <tr>
-            <td rowspan="4">
+            <td rowspan="3">
                 <img src="Assets/Software/ICON.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
@@ -82,7 +82,7 @@
             </td>
         </tr>
         <tr>
-            <th colspan="2">
+            <th colspan="3">
                 <div align="center">
                     Interfaces
                 </div>

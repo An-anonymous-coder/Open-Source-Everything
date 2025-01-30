@@ -25,3 +25,4 @@ This is simply to help me make hard decisions.
 - Free of charge (where reasonable)
 - Dark theme
 - Has one purpose
+- Available in a sandboxed environment (e.g. Flatpak)
