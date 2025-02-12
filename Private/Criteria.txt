@@ -2,27 +2,26 @@ For my own sanity, I'm going to put together a rough outline for what makes soft
 These are not hard and fast rules, and there are plenty of exceptions.
 This is simply to help me make hard decisions.
 
-- No account required (where reasonable)
-- Works offline (where reasonable)
+Best case-scenario:
+- Free (gratis)
+- No account required
+- Airgapped
 - Fully featured
-- Good UI (also prioritizes Material Design 3 for Android)
-- Interoperable (i.e. import export in standard formats)
-- Available for multiple platforms
-- Recommended often by the community
-- Very popular or used often
-- Open source (obviously)
+- Modern UI (e.g. Material Design 3)
+- Interoperable
+- Cross-platform
+- Recommended often
+- Very popular
+- Open source
 - Actively maintained
 - Responsible developers
-- Available for secure app stores (e.g. Accrescent)
-- Respects rights (e.g. respects privacy, no ToS, no privacy policy, no cookies, responsible use of network permission)
-- Only available option or universal standard
-- Modern (e.g. Vulkan is a modern OpenGL implementation)
-- Would help in an apocalypse (yes, this is a real criteria. It works surprisingly well)
-- Compatibility with hardened operating systems (e.g. GrapheneOS)
-- Available on platforms that make sense (e.g. you probably don't need to host a web server from your phone)
-- Useful software (some software has become obselete or a default OS feature)
-- No useless paid tier
-- Free of charge (where reasonable)
-- Dark theme
-- Has one purpose
-- Available in a sandboxed environment (e.g. Flatpak)
+- Released to secure stores (e.g. Accrescent, Flathub)
+- Respects rights (e.g. Privacy respecting, no forced agreements, responsible use of network permission)
+- Standard or only available option
+- Modern code (e.g. Vulkan is a modern successor to OpenGL)
+- Would help during an apocalypse (yes, this is a real criteria. It works surprisingly well)
+- Compatibile with hardened operating systems by default (e.g. GrapheneOS, secureblue, Qubes OS)
+- Available on platforms that make sense (e.g. Camera apps are generally undesirable on a desktop)
+- Useful software (e.g. Not software has become obselete or a default OS feature)
+- Dark theme (and AMOLED theme)
+- Has one purpose (e.g. Not a jack-of-all-trades)
