@@ -26,7 +26,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>123.2025.2.14.0</tt>
+        Current version: <tt>124.2025.2.17.0</tt>
     </h3>
 </div>
 
@@ -10351,6 +10351,12 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        Face Filter Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div align="left">
+    <h3>
         Icon Libraries
     </h3>
 </div>
@@ -12257,11 +12263,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Matrix.svg" width="96">
+                <img src="Assets/Software/Matrix Protocol.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://matrix.org/">
-                    Matrix
+                    Matrix Protocol
                 </a>
             </th>
         </tr>
@@ -12322,11 +12328,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Signal.svg" width="96">
+                <img src="Assets/Software/Signal Protocol.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://github.com/signalapp/libsignal">
-                    Signal
+                    Signal Protocol
                 </a>
             </th>
         </tr>
@@ -13473,6 +13479,43 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        Sleep Tracking <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Plees Tracker.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://vmiklos.hu/plees-tracker/">
+                    Plees Tracker
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Relaxation Tools
     </h3>
 </div>
@@ -14491,6 +14534,8 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </th>
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -14522,7 +14567,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </th>
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -15083,6 +15127,44 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
                 <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Video Surveillance Software
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/ZoneMinder.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://zoneminder.com/">
+                    ZoneMinder
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
             </td>
         </tr>
     </table>
