@@ -9,7 +9,7 @@
     </h3>
 </div>
 
-**Open Source Everything** is a curated list of the best source-available software. Unlike other lists that try to provide a wide selection of software, this list instead focuses on only the best software in each category. 
+**Open Source Everything** is a curated list of the best source-available and open source software. Unlike other lists that try to provide a wide selection of software, this list instead focuses on only the best software in each category. 
 
 While proprietary software is avoided on this list where possible, there are some circumstances where proprietary software provides a boost in privacy or security where no source-available alternative does. Those options are marked with the <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> stamp. 
 
@@ -26,7 +26,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>124.2025.2.17.0</tt>
+        Current version: <tt>125.2025.2.21.0</tt>
     </h3>
 </div>
 
@@ -2862,7 +2862,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
-        Software Frameworks <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        Software Frameworks
     </h3>
 </div>
 
@@ -2870,11 +2870,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Qt.svg" width="96">
+                <img src="Assets/Software/GTK.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://www.qt.io/product/framework">
-                    Qt
+                <a href="https://www.gtk.org/">
+                    GTK
                 </a>
             </th>
         </tr>
@@ -2883,7 +2883,9 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 Stamps
             </th>
             <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -7009,6 +7011,12 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        Fanfiction <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div align="left">
+    <h3>
         Novel Authoring Tools
     </h3>
 </div>
@@ -8461,6 +8469,12 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        People Search Engines <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div align="left">
+    <h3>
         Pornography
     </h3>
 </div>
@@ -9279,7 +9293,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img src="Assets/Software/secureblue.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://github.com/secureblue/secureblue">
+                <a href="https://secureblue.dev/">
                     secureblue
                 </a>
             </th>
