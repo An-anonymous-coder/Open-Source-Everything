@@ -26,7 +26,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>126.2025.2.26.0</tt>
+        Current version: <tt>127.2025.2.26.1</tt>
     </h3>
 </div>
 
@@ -1471,11 +1471,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Duplicati.png" width="96">
+                <img src="Assets/Software/BorgBackup.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://www.duplicati.com/">
-                    Duplicati
+                <a href="https://www.borgbackup.org/">
+                    BorgBackup
                 </a>
             </th>
         </tr>
@@ -1484,36 +1484,8 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 Stamps
             </th>
             <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
-                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
-                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="3">
-                <img src="Assets/Software/Vorta.svg" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://vorta.borgbase.com/">
-                    Vorta
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -1525,6 +1497,43 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
                 <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
             </td>
+        </tr>
+        <tr>
+            <th colspan="3">
+                <div align="center">
+                    Interfaces
+                </div>
+                <table>
+                    <tr>
+                        <td rowspan="3">
+                            <img src="Assets/Software/Pika Backup.svg" width="96">
+                        </td>
+                        <th colspan="2" style="text-align: center;">
+                            <a href="https://apps.gnome.org/PikaBackup/">
+                                Pika Backup
+                            </a>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            Stamps
+                        </th>
+                        <td>
+                            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            Platforms
+                        </th>
+                        <td>
+                            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                        </td>
+                    </tr>
+                </table>
+            </th>
         </tr>
     </table>
 </div>
@@ -5792,6 +5801,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                         <td>
                             <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                             <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
                         </td>
                     </tr>
                     <tr>
@@ -5840,7 +5850,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/I2P.svg" width="96">
+                <img src="Assets/Software/I2P.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://geti2p.net/">

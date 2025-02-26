@@ -2,26 +2,38 @@ For my own sanity, I'm going to put together a rough outline for what makes soft
 These are not hard and fast rules, and there are plenty of exceptions.
 This is simply to help me make hard decisions.
 
-Best case-scenario:
+Ideal software in general:
 - Free (gratis)
-- No account required
-- Airgapped
+- Libre
+- Completely open source
 - Fully featured
-- Modern UI (e.g. Material Design 3)
 - Interoperable
 - Cross-platform
 - Recommended often
-- Very popular
-- Open source
+- Very popular (widely used)
 - Actively maintained
 - Responsible developers
-- Released to secure stores (e.g. Accrescent, Flathub)
 - Respects rights (e.g. Privacy respecting, no forced agreements, responsible use of network permission)
 - Standard or only available option
 - Modern code (e.g. Vulkan is a modern successor to OpenGL)
 - Would help during an apocalypse (yes, this is a real criteria. It works surprisingly well)
-- Compatibile with hardened operating systems by default (e.g. GrapheneOS, secureblue, Qubes OS)
 - Available on platforms that make sense (e.g. Camera apps are generally undesirable on a desktop)
 - Useful software (e.g. Not software has become obselete or a default OS feature)
-- Dark theme (and AMOLED theme)
 - Has one purpose (e.g. Not a jack-of-all-trades)
+- Source code hosted on open source platforms
+- No accounts required
+- Fully reproducable builds
+
+The ideal software for Linux:
+- GTK themed
+- Available to install from Flathub
+- Part of the GNOME Circle (https://circle.gnome.org/)
+- Works on fully hardened secureblue
+- Works with all Flatpak permissions disabled
+
+The ideal software for Android:
+- Available to install from Accrescent
+- Material Design 3
+- Works without Google Play Services
+- Works on GrapheneOS with all permissions disabled
+- Written in Kotlin
