@@ -23,6 +23,7 @@ Ideal software in general:
 - Source code hosted on open source platforms
 - No accounts required
 - Fully reproducable builds
+- Available for secure operating systems (secureblue, GrapheneOS, etc.)
 
 The ideal software for Linux:
 - GTK themed

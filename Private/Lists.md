@@ -31,3 +31,5 @@ https://alternativeto.net/platform/all/?license=opensource
 https://www.opensourcealternative.to/
 
 https://openalternative.co/
+
+https://nyas1.github.io/Material-You-app-list/

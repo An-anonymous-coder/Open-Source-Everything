@@ -1,4 +1,8 @@
 <div align="center">
+    <img src="Assets/Meta/Logo Round.svg" height="128">
+</div>
+
+<div align="center">
     <h1>
         Open Source Everything
     </h1>
@@ -26,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>127.2025.2.26.1</tt>
+        Current version: <tt>128.2025.2.26.2</tt>
     </h3>
 </div>
 
@@ -43,6 +47,8 @@ The version code follows the format:
         Mirrors
     </h1>
 </div>
+
+Made by [An-anonymous-coder](https://gitlab.com/an-anonymous-coder1/Open-Source-Everything)
 
 This repository is mirrored on other platforms. It was originally hosted on GitHub, but is now hosted on GitLab. It was at one point accidentally deleted on GitHub, so it shows up as a fork of another user's repository there after it was restored.
 
@@ -9095,34 +9101,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/CrystalDiskInfo.png" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://crystalmark.info/en/software/crystaldiskinfo/">
-                    CrystalDiskInfo
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="3">
                 <img src="Assets/Software/Disk Usage Analyzer.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
@@ -9148,34 +9126,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             <td>
                 <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
                 <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="3">
-                <img src="Assets/Software/WinDirStat.svg" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://windirstat.net/">
-                    WinDirStat
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
             </td>
         </tr>
     </table>
