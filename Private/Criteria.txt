@@ -25,6 +25,12 @@ Ideal software in general:
 - Fully reproducable builds
 - Available for secure operating systems (secureblue, GrapheneOS, etc.)
 
+Ideal software for websites:
+- Runs on secure browsers fully hardened (Vanadium, Trivalent, Tor Browser)
+- Runs without any permissions (JavaScript included)
+- Doesn't ban IPs (Tor, VPN, etc.)
+- No captchas (including CloudFlare)
+
 The ideal software for Linux:
 - GTK themed
 - Available to install from Flathub
@@ -38,3 +44,4 @@ The ideal software for Android:
 - Works without Google Play Services
 - Works on GrapheneOS with all permissions disabled
 - Written in Kotlin
+- Verified by AppVerifier
