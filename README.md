@@ -30,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>131.2025.3.13.1</tt>
+        Current version: <tt>132.2025.3.13.2</tt>
     </h3>
 </div>
 
@@ -7633,6 +7633,38 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </td>
         </tr>
     </table>
+    <div>
+        <table>
+            <tr>
+                <td rowspan="3">
+                    <img src="Assets/Software/Secure PDF Viewer.png" width="96">
+                </td>
+                <th colspan="2" style="text-align: center;">
+                    <a href="https://github.com/GrapheneOS/PdfViewer">
+                        Secure PDF Viewer
+                    </a>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    Stamps
+                </th>
+                <td>
+                    <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                    <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                    <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Platforms
+                </th>
+                <td>
+                    <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                </td>
+            </tr>
+        </table>
+    </div>
 </div>
 
 <div align="left">
@@ -15177,6 +15209,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                         <td>
                             <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                             <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
                         </td>
                     </tr>
                     <tr>
@@ -15947,6 +15980,72 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
                 <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                 <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Trivalent.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://github.com/secureblue/Trivalent">
+                    Trivalent
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Vanadium.webp" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://vanadium.app/">
+                    Vanadium
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
             </td>
         </tr>
     </table>
