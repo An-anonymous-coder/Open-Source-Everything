@@ -30,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>135.2025.4.5.1</tt>
+        Current version: <tt>136.2025.4.7.0</tt>
     </h3>
 </div>
 
@@ -1541,6 +1541,36 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                     </tr>
                 </table>
             </th>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Seedvault.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://seedvault.app/">
+                    Seedvault
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            </td>
         </tr>
     </table>
 </div>
@@ -7295,11 +7325,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Read You.png" width="96">
+                <img src="Assets/Software/Capy Reader.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://github.com/Ashinch/ReadYou">
-                    Read You
+                <a href="https://capyreader.com/">
+                    Capy Reader
                 </a>
             </th>
         </tr>
@@ -7787,38 +7817,36 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </td>
         </tr>
     </table>
-    <div>
-        <table>
-            <tr>
-                <td rowspan="3">
-                    <img src="Assets/Software/Secure PDF Viewer.png" width="96">
-                </td>
-                <th colspan="2" style="text-align: center;">
-                    <a href="https://github.com/GrapheneOS/PdfViewer">
-                        Secure PDF Viewer
-                    </a>
-                </th>
-            </tr>
-            <tr>
-                <th>
-                    Stamps
-                </th>
-                <td>
-                    <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-                    <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
-                    <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
-                </td>
-            </tr>
-            <tr>
-                <th>
-                    Platforms
-                </th>
-                <td>
-                    <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
-                </td>
-            </tr>
-        </table>
-    </div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Secure PDF Viewer.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://github.com/GrapheneOS/PdfViewer">
+                    Secure PDF Viewer
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            </td>
+        </tr>
+    </table>
 </div>
 
 <div align="left">
@@ -10479,35 +10507,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Open Camera.png" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://opencamera.org.uk/">
-                    Open Camera
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="3">
                 <img src="Assets/Software/Secure Camera.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
@@ -10522,6 +10521,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </th>
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
