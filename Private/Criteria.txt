@@ -41,6 +41,7 @@ The ideal software for Linux:
 The ideal software for Android:
 - Available to install from Accrescent
 - Material Design 3
+- Jetpack Compose
 - Works without Google Play Services
 - Works on GrapheneOS with all permissions disabled
 - Written in Kotlin

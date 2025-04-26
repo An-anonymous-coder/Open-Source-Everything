@@ -30,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>136.2025.4.7.0</tt>
+        Current version: <tt>137.2025.4.26.0</tt>
     </h3>
 </div>
 
@@ -903,6 +903,45 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        Metronomes
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Tack.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://patrickzedler.com/tack/">
+                    Tack
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Music Discovery Services
     </h3>
 </div>
@@ -1097,36 +1136,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 </div>
 
 <div>
-    <table>
-        <tr>
-            <td rowspan="3">
-                <img src="Assets/Software/Audire.png" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://github.com/alexmercerind/audire">
-                    Audire
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
-                <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
-            </td>
-        </tr>
-    </table>
     <table>
         <tr>
             <td rowspan="3">
@@ -6588,65 +6597,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/DD-WRT.png" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://dd-wrt.com/">
-                    DD-WRT
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
-                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
-                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="3">
-                <img src="Assets/Software/OPNsense.svg" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://opnsense.org/">
-                    OPNsense
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="3">
                 <img src="Assets/Software/OpenWrt.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
@@ -10960,11 +10910,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Aves.svg" width="96">
+                <img src="Assets/Software/Gallery.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://github.com/deckerst/aves">
-                    Aves
+                <a href="https://github.com/IacobIonut01/Gallery">
+                    Gallery
                 </a>
             </th>
         </tr>
@@ -14990,6 +14940,43 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                 <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
             </td>
+        </tr>
+        <tr>
+            <th colspan="3">
+                <div align="center">
+                    Interfaces
+                </div>
+                <table>
+                    <tr>
+                        <td rowspan="3">
+                            <img src="Assets/Software/Findroid.png" width="96">
+                        </td>
+                        <th colspan="2" style="text-align: center;">
+                            <a href="https://github.com/jarnedemeulemeester/findroid">
+                                Findroid
+                            </a>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            Stamps
+                        </th>
+                        <td>
+                            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            Platforms
+                        </th>
+                        <td>
+                            <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                        </td>
+                    </tr>
+                </table>
+            </th>
         </tr>
     </table>
     <table>
