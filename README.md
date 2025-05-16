@@ -2701,7 +2701,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </th>
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-                <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
             </td>
         </tr>
         <tr>
