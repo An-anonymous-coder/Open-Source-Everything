@@ -18,12 +18,13 @@ Ideal software in general:
 - Modern code (e.g. Vulkan is a modern successor to OpenGL)
 - Would help during an apocalypse (yes, this is a real criteria. It works surprisingly well)
 - Available on platforms that make sense (e.g. Camera apps are generally undesirable on a desktop)
-- Useful software (e.g. Not software has become obselete or a default OS feature)
+- Useful software (e.g. Not software that has become obselete or a default OS feature)
 - Has one purpose (e.g. Not a jack-of-all-trades)
 - Source code hosted on open source platforms
 - No accounts required
 - Fully reproducable builds
 - Available for secure operating systems (secureblue, GrapheneOS, etc.)
+- Available worldwide
 
 Ideal software for websites:
 - Runs on secure browsers fully hardened (Vanadium, Trivalent, Tor Browser)
