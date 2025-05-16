@@ -30,7 +30,7 @@ Ideal software for websites:
 - Runs on secure browsers fully hardened (Vanadium, Trivalent, Tor Browser)
 - Runs without any permissions (JavaScript included)
 - Doesn't ban IPs (Tor, VPN, etc.)
-- No captchas (including CloudFlare)
+- No captchas (including Cloudflare)
 
 The ideal software for Linux:
 - GTK themed

@@ -24,6 +24,7 @@
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                 <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="Personal favorites" src="Assets/Stamps/Favorites.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
                 <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
                 <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
@@ -64,6 +65,7 @@
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                 <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="Personal favorites" src="Assets/Stamps/Favorites.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
                 <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
                 <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
@@ -105,6 +107,7 @@
                             <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                             <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
                             <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                            <img alt="Personal favorites" src="Assets/Stamps/Favorites.svg" width="16">
                             <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
                             <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
                             <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
