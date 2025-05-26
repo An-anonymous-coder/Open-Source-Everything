@@ -30,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>139.2025.5.16.1</tt>
+        Current version: <tt>140.2025.5.26.0</tt>
     </h3>
 </div>
 
@@ -7500,7 +7500,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
-                <img alt="Personal favorites" src="Assets/Stamps/Favorites.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -7601,6 +7600,44 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
                 <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                 <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Document Collaboration
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/CryptPad.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://cryptpad.org/">
+                    CryptPad
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
             </td>
         </tr>
     </table>
@@ -8410,7 +8447,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
-        WebMail Providers
+        WebMail Providers (Online)
     </h3>
 </div>
 
@@ -8481,6 +8518,42 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
             </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        WebMail Providers (Self-Hosted)
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Stalwart.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://stalw.art/">
+                    Stalwart
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
         </tr>
     </table>
 </div>
@@ -8559,6 +8632,46 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
         <img src="Assets/Sections/Online Services.svg" height="32">
         Online Services
     </h1>
+</div>
+
+<div align="left">
+    <h3>
+        App Compatibility Services
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Plexus.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://plexus.techlore.tech/">
+                    Plexus
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
 </div>
 
 <div align="left">
@@ -11057,6 +11170,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="Personal favorites" src="Assets/Stamps/Favorites.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -11932,6 +12046,77 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        Device Integrity
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Auditor.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://attestation.app/">
+                    Auditor
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="Personal favorites" src="Assets/Stamps/Favorites.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Mobile Verification Toolkit.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://mvt.re/">
+                    Mobile Verification Toolkit
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Disk Encryption Tools
     </h3>
 </div>
@@ -12201,6 +12386,45 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <h3>
         Internet Filters <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
+</div>
+
+<div align="left">
+    <h3>
+        Metadata Redactors
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/ExifEraser.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://github.com/Tommy-Geenexus/exif-eraser">
+                    ExifEraser
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            </td>
+        </tr>
+    </table>
 </div>
 
 <div align="left">
@@ -13117,7 +13341,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </th>
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -13247,6 +13470,9 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
         Sport & Health
     </h1>
 </div>
+
+> [!IMPORTANT]  
+> This section will be going under significant maintenance, and many of these apps will be replaced with ones that more closely follow the criteria. 
 
 <div align="left">
     <h3>
@@ -15903,7 +16129,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
-        Watch Videos Together Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        Watch Videos Together Tools
     </h3>
 </div>
 
@@ -15911,11 +16137,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Metastream.svg" width="96">
+                <img src="Assets/Software/WatchParty.webp" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://getmetastream.com/">
-                    Metastream
+                <a href="https://www.watchparty.me/">
+                    WatchParty
                 </a>
             </th>
         </tr>
@@ -15924,7 +16150,9 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 Stamps
             </th>
             <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -15932,9 +16160,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 Platforms
             </th>
             <td>
-                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
-                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
-                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
             </td>
         </tr>
