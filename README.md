@@ -13,13 +13,13 @@
     </h3>
 </div>
 
-**Open Source Everything** is a curated list of the best source-available and open source software. Unlike other lists that try to provide a wide selection of software, this list instead focuses on only the best software in each category. 
+**Open Source Everything** is a curated list of the best source-available and open source software. Unlike other lists that try to provide a wide selection of software, this list instead focuses on only the best software in each category.
 
-While proprietary software is avoided on this list where possible, there are some circumstances where proprietary software provides a boost in privacy or security where no source-available alternative does. Those options are marked with the <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> stamp. 
+While proprietary software is avoided on this list where possible, there are some circumstances where proprietary software provides a boost in privacy or security where no source-available alternative does. Those options are marked with the <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> stamp.
 
 Some software or sections marked with the <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16"> stamp may not be the best software. Those require further examination and improvements before coming to a final conclusion.
 
-It is not this list's job to tell you what software you *should* use. Some software on here may even be software you *shouldn't* use. In the end, your preferences and choices are your own. 
+It is not this list's job to tell you what software you *should* use. Some software on here may even be software you *shouldn't* use. In the end, your preferences and choices are your own.
 
 <div align="center">
     <h1>
@@ -30,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>140.2025.5.26.0</tt>
+        Current version: <tt>141.2025.6.2.0</tt>
     </h3>
 </div>
 
@@ -81,15 +81,15 @@ Stamps give you a general idea of the consensus around a piece of software. They
 
 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16"> **Verified best software:** Software that has been verified to be the best in its category. This does not gurantee quality.
 
-<img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> **This software is proprietary:** This software is not open source, but has a benefit to privacy or security that no open source option has. 
+<img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16"> **This software is proprietary:** This software is not open source, but has a benefit to privacy or security that no open source option has.
 
 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16"> **My top choices:** My top choices for software in its category. Sometimes I prefer software that isn't on this list.
 
-<img alt="Personal favorites" src="Assets/Stamps/Favorites.svg" width="16"> **Personal favorites:** Software that has become a personal favorite of mine that I use daily. 
+<img alt="Personal favorites" src="Assets/Stamps/Favorites.svg" width="16"> **Personal favorites:** Software that has become a personal favorite of mine that I use daily.
 
 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16"> **This software has been used and inspected:** I have personally tried out this software to ensure the accuracy of its stamps.
 
-<img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16"> **This software is outdated or abandoned:** This software is no longer actively maintained, but no up-to-date alternative exists. 
+<img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16"> **This software is outdated or abandoned:** This software is no longer actively maintained, but no up-to-date alternative exists.
 
 <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16"> **This section needs to be improved:** This software or category is lacking in details, and may not be best software. Please contribute if you can.
 
@@ -696,6 +696,43 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                 <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
             </td>
+        </tr>
+        <tr>
+            <th colspan="3">
+                <div align="center">
+                    Interfaces
+                </div>
+                <table>
+                    <tr>
+                        <td rowspan="3">
+                            <img src="Assets/Software/Tenacity.svg" width="96">
+                        </td>
+                        <th colspan="2" style="text-align: center;">
+                            <a href="https://tenacityaudio.org/">
+                                Tenacity
+                            </a>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            Stamps
+                        </th>
+                        <td>
+                            <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            Platforms
+                        </th>
+                        <td>
+                            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                            <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                            <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+                        </td>
+                    </tr>
+                </table>
+            </th>
         </tr>
     </table>
 </div>
@@ -5310,7 +5347,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </th>
             <td>
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16"> 
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -5380,7 +5417,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </th>
             <td>
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16"> 
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -5569,7 +5606,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 Stamps
             </th>
             <td>
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16"> 
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -6334,43 +6371,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
-        CAPTCHAs <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
-    </h3>
-</div>
-
-<div>
-    <table>
-        <tr>
-            <td rowspan="3">
-                <img src="Assets/Software/mCaptcha.png" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://mcaptcha.org/">
-                    mCaptcha
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
-            </td>
-        </tr>
-    </table>
-</div>
-
-<div align="left">
-    <h3>
         Certificate Authorities
     </h3>
 </div>
@@ -6410,6 +6410,45 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        DDoS Protection Systems
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Anubis.webp" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://anubis.techaro.lol/">
+                    Anubis
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         DNS Resolvers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
@@ -6431,7 +6470,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 Stamps
             </th>
             <td>
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16"> 
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -6944,7 +6983,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
-        Virtualization Tools 
+        Virtualization Tools
     </h3>
 </div>
 
@@ -13471,8 +13510,8 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     </h1>
 </div>
 
-> [!IMPORTANT]  
-> This section will be going under significant maintenance, and many of these apps will be replaced with ones that more closely follow the criteria. 
+> [!IMPORTANT] 
+> This section will be undergoing significant maintenance, and many of these apps here will be replaced with ones that more closely follow the criteria.
 
 <div align="left">
     <h3>
@@ -14057,7 +14096,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
-        Physical Activity Trackers 
+        Physical Activity Trackers
     </h3>
 </div>
 
@@ -14961,6 +15000,43 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                             <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
                             <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                         </td>
+                    </tr>
+                    <tr>
+                        <th colspan="3">
+                            <div align="center">
+                                Interfaces
+                            </div>
+                            <table>
+                                <tr>
+                                    <td rowspan="3">
+                                        <img src="Assets/Software/CoMaps.png" width="96">
+                                    </td>
+                                    <th colspan="2" style="text-align: center;">
+                                        <a href="https://www.comaps.app/">
+                                            CoMaps
+                                        </a>
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        Stamps
+                                    </th>
+                                    <td>
+                                        <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                                        <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                                        <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        Platforms
+                                    </th>
+                                    <td>
+                                        <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                                    </td>
+                                </tr>
+                            </table>
+                        </th>
                     </tr>
                 </table>
                 <table>
@@ -16845,7 +16921,46 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     </table>
 </div>
 
- <div align="left">
+<div align="left">
+    <h3>
+        Thumbnail Replacers
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/DeArrow.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://dearrow.ajay.app/">
+                    DeArrow
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
     <h3>
         URL Cleaners
     </h3>
