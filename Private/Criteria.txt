@@ -30,10 +30,12 @@ Ideal software for websites:
 - Runs on secure browsers fully hardened (Vanadium, Trivalent, Tor Browser)
 - Runs without any permissions (JavaScript included)
 - Doesn't ban IPs (Tor, VPN, etc.)
+- Available as .onion and .i2p
 - No captchas (including Cloudflare)
 
 The ideal software for Linux:
 - GTK themed
+- Written in Rust
 - Available to install from Flathub
 - Part of the GNOME Circle (https://circle.gnome.org/)
 - Works on fully hardened secureblue
@@ -41,7 +43,7 @@ The ideal software for Linux:
 
 The ideal software for Android:
 - Available to install from Accrescent
-- Material Design 3
+- Material 3 Expressive
 - Jetpack Compose
 - Works without Google Play Services
 - Works on GrapheneOS with all permissions disabled

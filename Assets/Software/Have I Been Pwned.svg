@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1000 1000">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #1d72a7;
+      }
+    </style>
+  </defs>
+  <g id="Background">
+    <rect width="1000" height="1000"/>
+  </g>
+  <g id="Icon">
+    <g>
+      <path class="st0" d="M854.7,550.3l22.8-117.4h-148l-22.8,117.4h148Z"/>
+      <path class="st0" d="M660,550.3l22.8-117.4h-148l-22.8,117.4h148Z"/>
+      <path class="st0" d="M425.4,755.7l30.7-158.5h-148l-30.7,158.5h148Z"/>
+      <path class="st0" d="M270.5,550.3l59.4-306h-148l-59.4,306h148Z"/>
+      <path class="st0" d="M465.3,550.3l30.7-158.5h-148l-30.7,158.5h148Z"/>
+    </g>
+  </g>
+</svg>
