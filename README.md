@@ -30,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>142.2025.6.30.0</tt>
+        Current version: <tt>143.2025.7.2.0</tt>
     </h3>
 </div>
 
@@ -191,7 +191,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
-        AI Chatbots <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        AI Chatbots
     </h3>
 </div>
 
@@ -199,41 +199,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/GPT4ALL.svg" width="96">
+                <img src="Assets/Software/Duck.ai.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://gpt4all.io/">
-                    GPT4ALL
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
-                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
-                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="3">
-                <img src="Assets/Software/HuggingChat.svg" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://huggingface.co/chat/">
-                    HuggingChat
+                <a href="https://duck.ai/">
+                    Duck.ai
                 </a>
             </th>
         </tr>
@@ -243,7 +213,9 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </th>
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="Personal favorites" src="Assets/Stamps/Favorites.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -252,7 +224,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 Platforms
             </th>
             <td>
-                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
             </td>
         </tr>
@@ -273,6 +244,8 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 Stamps
             </th>
             <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -1801,6 +1774,38 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 </div>
 
 <div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Cashew.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://cashewapp.web.app/">
+                    Cashew
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
     <table>
         <tr>
             <td rowspan="3">
@@ -10516,6 +10521,43 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        3D Graphics SDK
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/xeokit.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://xeokit.io/">
+                    xeokit
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         3D Modelers
     </h3>
 </div>
@@ -10684,8 +10726,8 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img src="Assets/Software/ProofMode.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://github.com/GrapheneOS/Camera">
-                    Secure Camera
+                <a href="https://proofmode.org/">
+                    ProofMode
                 </a>
             </th>
         </tr>
@@ -10970,7 +11012,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </th>
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -11486,6 +11527,36 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             <th colspan="2" style="text-align: center;">
                 <a href="https://andbible.org/">
                     AndBible
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+            </td>
+        </tr>
+    </table>
+        <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/OpenBible.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://github.com/SchweGELBin/OpenBible2">
+                    OpenBible
                 </a>
             </th>
         </tr>
@@ -12962,6 +13033,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
