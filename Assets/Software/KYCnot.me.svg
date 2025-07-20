@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="#3BDB78" viewBox="0 0 32 32" height="32" width="32">
+  <title>KYCnot.me logo</title>
+  <path fill="#040505" d="M4 4h24v24H4z" />
+  <path fill-rule="evenodd"
+    d="M32 28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4h24a4 4 0 0 1 4 4v24ZM7 6a1 1 0 0 0-1 1v18c0 .6.4 1 1 1h2c.6 0 1-.4 1-1v-6c0-.6.4-1 1-1h7v-3c0-.6-.4-1-1-1h-6a1 1 0 0 1-1-1V7c0-.6-.4-1-1-1H7Zm15 16v3c0 .6.4 1 1 1h2c.6 0 1-.4 1-1v-2c0-.6-.4-1-1-1h-3Zm-4-4v3c0 .6.4 1 1 1h3v-3c0-.6-.4-1-1-1h-3Zm1-12a1 1 0 0 0-1 1v3c0 .6.4 1 1 1h3c.6 0 1-.4 1-1V7c0-.6-.4-1-1-1h-3Z"
+    clip-rule="evenodd" />
+</svg>
