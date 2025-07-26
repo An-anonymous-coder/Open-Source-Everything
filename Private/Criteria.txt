@@ -3,28 +3,30 @@ These are not hard and fast rules, and there are plenty of exceptions.
 This is simply to help me make hard decisions.
 
 Ideal software in general:
-- Free (gratis)
-- Libre
-- Completely open source
-- Fully featured
-- Interoperable
-- Cross-platform
 - Recommended often
-- Very popular (widely used)
+- Widely used (or used by reputable organizations)
+- Industry standard or only available option
+- Written in OS-standard programming language (C#, Swift, Kotlin, etc.)
+- Uses OS-standard design language (Fluent Design System, Material Design, Liquid Glass, etc.)
+- Free (as in free beer; gtatis)
+- Free (as in freedom; libre)
+- Respects rights (e.g. Privacy respecting, no forced agreements, responsible use of network permission)
+- Fully open source
+- Source code hosted on open source platforms (GitLab, Codeberg, etc.)
+- Fully reproducable builds
+- Fully featured
+- Has one purpose (e.g. Not a jack-of-all-trades)
+- Modern code (e.g. Vulkan is a modern successor to OpenGL)
 - Actively maintained
 - Responsible developers
-- Respects rights (e.g. Privacy respecting, no forced agreements, responsible use of network permission)
-- Standard or only available option
-- Modern code (e.g. Vulkan is a modern successor to OpenGL)
-- Would help during an apocalypse (yes, this is a real criteria. It works surprisingly well)
-- Available on platforms that make sense (e.g. Camera apps are generally undesirable on a desktop)
+- Interoperable
+- Cross-platform
+- Available on platforms that make sense (e.g. Navigation apps would make more sense on a phone than a computer)
+- No personal information required (accounts, etc.)
+- Available for secure operating systems (secureblue, GrapheneOS, Qubes OS, etc.)
+- No regional restrictions
 - Useful software (e.g. Not software that has become obselete or a default OS feature)
-- Has one purpose (e.g. Not a jack-of-all-trades)
-- Source code hosted on open source platforms
-- No accounts required
-- Fully reproducable builds
-- Available for secure operating systems (secureblue, GrapheneOS, etc.)
-- Available worldwide
+- Would help during an apocalypse
 
 Ideal software for websites:
 - Runs on secure browsers fully hardened (Vanadium, Trivalent, Tor Browser)
@@ -32,20 +34,24 @@ Ideal software for websites:
 - Doesn't ban IPs (Tor, VPN, etc.)
 - Available as .onion and .i2p
 - No captchas (including Cloudflare)
+- User respecting (no cookie consent banners, no popups, no malicious redirects, cross-platform, etc.)
+- Dynamic dark/light mode set by the OS (e.g. with `prefers-color-scheme`)
 
 The ideal software for Linux:
-- GTK themed
 - Written in Rust
-- Available to install from Flathub
-- Part of the GNOME Circle (https://circle.gnome.org/)
+- Adwaita themed
+- GTK
+- Wayland windowing system
+- Available to install from Flathub (verified)
 - Works on fully hardened secureblue
 - Works with all Flatpak permissions disabled
+- Part of the GNOME Circle (https://circle.gnome.org/)
 
 The ideal software for Android:
-- Available to install from Accrescent
-- Material 3 Expressive
+- Written in Kotlin
+- Material 3 Expressive themed
 - Jetpack Compose
+- Available to install from Accrescent
 - Works without Google Play Services
 - Works on GrapheneOS with all permissions disabled
-- Written in Kotlin
 - Verified by AppVerifier
