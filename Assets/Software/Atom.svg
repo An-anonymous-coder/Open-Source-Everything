@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-25 -26.75 50 50">
+ <title>Atom</title>
+ <style type="text/css">
+  .path { fill:none; stroke:#66899a; }
+  .path + .path { stroke:#e1d85d; }
+  .path + .path + .path { stroke:#80a3cf; }
+  .shell { fill:none; stroke:#4b541f; }
+  .necleus { fill:#80a3cf; stroke:white; }
+  .electron { fill:#66899a; stroke:white; }
+ </style>
+ <ellipse class="path" rx="3" ry="22"/>
+ <ellipse class="path" rx="3" ry="22" transform="rotate(-66)"/>
+ <ellipse class="path" rx="3" ry="22" transform="rotate(66)"/>
+ <circle class="shell" r="22"/>
+ <circle class="necleus" r="6.5"/>
+ <circle class="electron" cy="-22" r="4.5"/>
+ <circle class="electron" cx="-20" cy="9" r="4.5"/>
+ <circle class="electron" cx="20" cy="9" r="4.5"/>
+</svg>
