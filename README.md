@@ -30,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>149.2025.7.28.0</tt>
+        Current version: <tt>150.2025.8.2.0</tt>
     </h3>
 </div>
 
@@ -2194,6 +2194,12 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 <div align="left">
     <h3>
         SEO Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div align="left">
+    <h3>
+        Stock Trading Apps <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
 </div>
 
@@ -6895,6 +6901,12 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        Internet Service Providers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div align="left">
+    <h3>
         Internet Speed Test Apps
     </h3>
 </div>
@@ -6932,6 +6944,12 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </td>
         </tr>
     </table>
+</div>
+
+<div align="left">
+    <h3>
+        Mobile Phone Operators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
 </div>
 
 <div align="left">
@@ -13699,45 +13717,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
-        Federation
-    </h3>
-</div>
-
-<div>
-    <table>
-        <tr>
-            <td rowspan="3">
-                <img src="Assets/Software/ActivityPub.svg" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://activitypub.rocks/">
-                    ActivityPub
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
-            </td>
-        </tr>
-    </table>
-</div>
-
-<div align="left">
-    <h3>
         Forum Software
     </h3>
 </div>
@@ -14080,6 +14059,45 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 <div align="left">
     <h3>
         Social Networks
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/ActivityPub.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://activitypub.rocks/">
+                    ActivityPub
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Social News
     </h3>
 </div>
 
@@ -15185,6 +15203,83 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        3D Printers
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/RepRap.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://reprap.org/wiki/RepRap">
+                    RepRap
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        3D Printing Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Cura.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://ultimaker.com/software/ultimaker-cura/">
+                    Cura
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Android Root Managers
     </h3>
 </div>
@@ -15329,6 +15424,88 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        Mobile Hotspots
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Calyx Internet Membership.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="URL">
+                    Calyx Internet Membership
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Routers
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/OpenWrt One.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://openwrt.org/toh/openwrt/one">
+                    OpenWrt One
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="Personal favorites" src="Assets/Stamps/Favorites.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Security Keys
     </h3>
 </div>
@@ -15402,6 +15579,47 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             <td>
                 <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Smartphones
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Google Pixel.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://store.google.com/category/phones">
+                    Google Pixel
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="This software is proprietary" src="Assets/Stamps/Proprietary.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
             </td>
         </tr>
     </table>
@@ -17409,6 +17627,35 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             <th colspan="2" style="text-align: center;">
                 <a href="https://abrahamjuliot.github.io/creepjs/">
                     CreepJS
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/FingerprintJS.png" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://fingerprint.com/">
+                    FingerprintJS
                 </a>
             </th>
         </tr>
