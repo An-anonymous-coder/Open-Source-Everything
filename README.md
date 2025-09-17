@@ -30,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>153.2025.8.25.0</tt>
+        Current version: <tt>154.2025.9.17.0</tt>
     </h3>
 </div>
 
@@ -6616,11 +6616,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <table>
                     <tr>
                         <td rowspan="3">
-                            <img src="Assets/Software/Orbot.svg" width="96">
+                            <img src="Assets/Software/Tor VPN.png" width="96">
                         </td>
                         <th colspan="2" style="text-align: center;">
-                            <a href="https://orbot.app/">
-                                Orbot
+                            <a href="https://support.torproject.org/tor-vpn/">
+                                Tor VPN
                             </a>
                         </th>
                     </tr>
@@ -6640,7 +6640,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                         </th>
                         <td>
                             <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
-                            <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
                         </td>
                     </tr>
                 </table>
@@ -7008,8 +7007,41 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
-        Mobile Phone Operators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        Mobile Phone Operators
     </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Cape.webp" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://www.cape.co/">
+                    Cape
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+            </td>
+        </tr>
+    </table>
 </div>
 
 <div align="left">
@@ -10684,11 +10716,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Barcode Scanner.png" width="96">
+                <img src="Assets/Software/Simple QR.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://gitlab.com/Atharok/BarcodeScanner">
-                    Barcode Scanner
+                <a href="https://github.com/tomfong/simple-qr">
+                    Simple QR
                 </a>
             </th>
         </tr>
@@ -13111,8 +13143,41 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
-        Firewalls <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        Firewalls
     </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/firewalld.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://firewalld.org/">
+                    firewalld
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+            </td>
+        </tr>
+    </table>
 </div>
 
 <div align="left">
@@ -13385,40 +13450,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <h3>
         Phone Trackers <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
     </h3>
-</div>
-
-<div>
-    <table>
-        <tr>
-            <td rowspan="3">
-                <img src="Assets/Software/Prey.png" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://preyproject.com/">
-                    Prey
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
-                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
-                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
-                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
-            </td>
-        </tr>
-    </table>
 </div>
 
 <div align="left">
@@ -15648,6 +15679,43 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        Lawn Mowers
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Default.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://openmower.de/">
+                    Open Mower
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Mice
     </h3>
 </div>
@@ -16230,7 +16298,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Default.svg" width="96">
+                <img src="Assets/Software/OpenICE.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://www.openice.org/">
