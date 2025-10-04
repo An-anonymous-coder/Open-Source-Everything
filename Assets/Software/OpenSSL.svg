@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="78.505188mm"
+   height="21.310726mm"
+   viewBox="0 0 78.505188 21.310726"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="openssl.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clipEmfPath1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path815"
+         d="M 0,0 H 793.34026 V 1122.0254 H 0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="151.31842"
+     inkscape:cy="-53.25359"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     inkscape:window-width="1856"
+     inkscape:window-height="1025"
+     inkscape:window-x="64"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-40.12241,-31.588684)">
+    <g
+       id="g835"
+       clip-path="url(#clipEmfPath1)"
+       transform="matrix(0.26458333,0,0,0.26458333,31.286331,17.570522)">
+      <text
+         id="text827"
+         y="0"
+         x="0"
+         transform="translate(37.855466,107.25715)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:64.125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan825"
+           y="0"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan821"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:64.125px;font-family:Arial;fill:#721412"
+             dy="0"
+             dx="0">Open</tspan><tspan
+             id="tspan823"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-size:64.125px;font-family:Arial;fill:#000000"
+             dy="0"
+             dx="4.8674941">SSL</tspan></tspan></text>
+      <text
+         id="text833"
+         y="15.829781"
+         x="66.454857"
+         transform="translate(37.855466,107.25715)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.6875px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan831"
+           y="15.829781"
+           x="66.454857"
+           sodipodi:role="line"><tspan
+             id="tspan829"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.6875px;font-family:Arial;fill:#000000"
+             dy="0"
+             dx="0">Cryptography and SSL/TLS Toolkit</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
