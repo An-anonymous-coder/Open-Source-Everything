@@ -4606,11 +4606,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Atomic – Periodic Table.png" width="96">
+                <img src="Assets/Software/Atomic.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://jlindemann.se/homepage/atomic-periodic-table/">
-                    Atomic – Periodic Table
+                    Atomic
                 </a>
             </th>
         </tr>
