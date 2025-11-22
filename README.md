@@ -30,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>159.2025.11.22.0</tt>
+        Current version: <tt>160.2025.11.22.1</tt>
     </h3>
 </div>
 
@@ -311,11 +311,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Qwen-Image.png" width="96">
+                <img src="Assets/Software/HunyuanImage3.0.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://chat.qwen.ai/">
-                    Qwen-Image
+                <a href="https://hunyuan.tencent.com/visual">
+                    HunyuanImage3.0
                 </a>
             </th>
         </tr>
@@ -334,9 +334,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 Platforms
             </th>
             <td>
-                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
-                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
-                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
             </td>
         </tr>
@@ -421,7 +418,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
-        AI Video Generators <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+        AI Video Generators
     </h3>
 </div>
 
@@ -429,11 +426,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Mochi AI.svg" width="96">
+                <img src="Assets/Software/Wan.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://www.genmo.ai/">
-                    Mochi AI
+                <a href="https://wan.video/">
+                    Wan
                 </a>
             </th>
         </tr>
@@ -442,35 +439,8 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 Stamps
             </th>
             <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="3">
-                <img src="Assets/Software/Stable Video Diffusion.png" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://stability.ai/stable-video">
-                    Stable Video Diffusion
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -494,11 +464,11 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/DeepSeek.svg" width="96">
+                <img src="Assets/Software/Kimi.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://www.deepseek.com/">
-                    DeepSeek
+                <a href="https://www.kimi.com/">
+                    Kimi
                 </a>
             </th>
         </tr>
@@ -509,7 +479,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                 <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -517,42 +486,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 Platforms
             </th>
             <td>
-                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
-                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="3">
-                <img src="Assets/Software/Qwen.png" width="96">
-            </td>
-            <th colspan="2" style="text-align: center;">
-                <a href="https://chat.qwen.ai/">
-                    Qwen
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Stamps
-            </th>
-            <td>
-                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
-                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
-            </td>
-        </tr>
-        <tr>
-            <th>
-                Platforms
-            </th>
-            <td>
-                <img alt="Android" src="Assets/Platforms/Android.svg" width="16">
-                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
-                <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
-                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
             </td>
         </tr>
     </table>
@@ -589,6 +523,8 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </th>
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
         <tr>
@@ -1029,6 +965,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                             <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
                             <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                             <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
+                            <img alt="This software is outdated or abandoned" src="Assets/Stamps/Outdated or abandoned.svg" width="16">
                         </td>
                     </tr>
                     <tr>
