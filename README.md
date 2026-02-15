@@ -30,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>163.2025.12.29.0</tt>
+        Current version: <tt>164.2026.2.15.0</tt>
     </h3>
 </div>
 
@@ -565,7 +565,6 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </th>
             <td>
                 <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
-                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
                 <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
             </td>
         </tr>
@@ -601,6 +600,8 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                         </th>
                         <td>
                             <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                            <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+                            <img alt="This software has been used and inspected" src="Assets/Stamps/Used and inspected.svg" width="16">
                         </td>
                     </tr>
                     <tr>
@@ -813,6 +814,45 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
                 <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
                 <img alt="Online" src="Assets/Platforms/Online.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
+        Karaoke Players <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/UltraStar Deluxe.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://usdx.eu/">
+                    UltraStar Deluxe
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
             </td>
         </tr>
     </table>
@@ -2103,6 +2143,12 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </td>
         </tr>
     </table>
+</div>
+
+<div align="left">
+    <h3>
+        Point of Sale Tools <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
 </div>
 
 <div align="left">
@@ -8206,7 +8252,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img src="Assets/Software/Anna's Archive.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://annas-archive.org/">
+                <a href="https://annas-archive.li/">
                     Anna's Archive
                 </a>
             </th>
@@ -12337,6 +12383,46 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
 
 <div align="left">
     <h3>
+        Motion Graphics Softwares
+    </h3>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td rowspan="3">
+                <img src="Assets/Software/Friction.svg" width="96">
+            </td>
+            <th colspan="2" style="text-align: center;">
+                <a href="https://friction.graphics/">
+                    Friction
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Stamps
+            </th>
+            <td>
+                <img alt="Verified best software" src="Assets/Stamps/Best software.svg" width="16">
+                <img alt="My top choices" src="Assets/Stamps/Top choices.svg" width="16">
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Platforms
+            </th>
+            <td>
+                <img alt="Apple" src="Assets/Platforms/Apple.svg" width="16">
+                <img alt="Linux" src="Assets/Platforms/Linux.svg" width="16">
+                <img alt="Windows" src="Assets/Platforms/Windows.svg" width="16">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="left">
+    <h3>
         Panorama Makers
     </h3>
 </div>
@@ -13297,7 +13383,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
                 <img src="Assets/Software/2fa.svg" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
-                <a href="https://979.st/en/publications/">
+                <a href="https://codeberg.org/979/2fa">
                     2fa
                 </a>
             </th>
@@ -16649,6 +16735,12 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
             </td>
         </tr>
     </table>
+</div>
+
+<div align="left">
+    <h3>
+        Interactive Kiosks <img alt="This section needs to be improved" src="Assets/Stamps/Needs improved.svg" width="16">
+    </h3>
 </div>
 
 <div align="left">
