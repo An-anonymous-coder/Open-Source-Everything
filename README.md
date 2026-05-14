@@ -30,7 +30,7 @@ It is not this list's job to tell you what software you *should* use. Some softw
 
 <div align="center">
     <h3>
-        Current version: <tt>164.2026.2.15.0</tt>
+        Current version: <tt>165.2026.5.13.0</tt>
     </h3>
 </div>
 
@@ -3979,7 +3979,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Monero.com.png" width="96">
+                <img src="Assets/Software/Monero.com.webp" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://monero.com/">
@@ -8553,7 +8553,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/CopyQ.svg" width="96">
+                <img src="Assets/Software/CopyQ.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://hluk.github.io/CopyQ/">
@@ -17069,7 +17069,7 @@ Sometimes best software isn't available for many platforms or doesn't have a UI.
     <table>
         <tr>
             <td rowspan="3">
-                <img src="Assets/Software/Default.svg" width="96">
+                <img src="Assets/Software/Pebble.png" width="96">
             </td>
             <th colspan="2" style="text-align: center;">
                 <a href="https://repebble.com/">
